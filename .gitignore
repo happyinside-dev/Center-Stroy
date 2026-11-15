@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.env.local
+assets/catalog/cache/
+__pycache__/
+public/media/
+.playwright-mcp/

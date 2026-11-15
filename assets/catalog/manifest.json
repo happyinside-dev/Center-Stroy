@@ -1,0 +1,4550 @@
+{
+  "categories": [
+    {
+      "id": "power-tools",
+      "label": "Электроинструмент",
+      "target": 16
+    },
+    {
+      "id": "hand-tools",
+      "label": "Ручной инструмент",
+      "target": 20
+    },
+    {
+      "id": "measuring",
+      "label": "Измерение и разметка",
+      "target": 12
+    },
+    {
+      "id": "accessories",
+      "label": "Оснастка",
+      "target": 12
+    },
+    {
+      "id": "fasteners",
+      "label": "Крепёж",
+      "target": 12
+    },
+    {
+      "id": "coatings",
+      "label": "Краски и грунтовки",
+      "target": 10
+    },
+    {
+      "id": "chemistry",
+      "label": "Герметики, пены и клеи",
+      "target": 10
+    },
+    {
+      "id": "storage",
+      "label": "Хранение инструмента",
+      "target": 8
+    }
+  ],
+  "items": [
+    {
+      "brand": "DeWALT",
+      "sku": "DCD801H1",
+      "title": "20V MAX* XR® 1/2 in. Drill/Driver Kit With 5Ah Battery",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DCD801H1_K1_1280.webp",
+      "alt": "DEWALT cordless power drill kit, including a black and yellow carrying bag, a battery charger, a 20V XR 5Ah battery, and a yellow and black cordless drill.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dcd801h1/20v-max-xr-12-drilldriver-kit-5ah-battery",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Drill Driver"
+        ],
+        "polaris_power_source": [
+          "Battery"
+        ]
+      },
+      "manufacturerCategory": "Drill Drivers",
+      "category": "power-tools",
+      "id": "power-tools-dcd801h1",
+      "local": "assets/catalog/photos/power-tools-dcd801h1.webp",
+      "thumbnail": "assets/catalog/thumbs/power-tools-dcd801h1.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 47310,
+      "thumbnailBytes": 9718,
+      "sha256": "28575b1a57295f60c473569779ff273de6b1b2b8ea0fb4e81f0a767a2e57cd77",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1015
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DCG440B",
+      "title": "60V MAX* 7-in Brushless Cordless Grinder With KICKBACK BRAKE™ (Tool Only)",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DCG440B_1_1280.webp",
+      "alt": "A cordless DEWALT angle grinder with a yellow and black design, featuring a side handle and brushless motor technology.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dcg440b/60v-max-7-brushless-cordless-grinder-kickback-brake-tool-only",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Angle Grinder"
+        ],
+        "voltage": [
+          "60V"
+        ],
+        "cordless_or_corded": [
+          "Cordless"
+        ],
+        "polaris_power_source": [
+          "Battery"
+        ],
+        "is_bare_tool": [
+          "Yes"
+        ],
+        "motor_type": [
+          "Brushless"
+        ],
+        "total_number_of_batteries": [
+          "0"
+        ],
+        "is_charger_included": [
+          "No"
+        ],
+        "is_variable_speed": [
+          "Yes"
+        ],
+        "maximum_speed_rpm": [
+          "6500-rpm"
+        ],
+        "wheel_diameter": [
+          "7.0-in"
+        ],
+        "switch_type": [
+          "Trigger"
+        ],
+        "piece_count": [
+          "6"
+        ],
+        "assembled_product_length": [
+          "15.8-in"
+        ],
+        "assembled_product_weight": [
+          "8.0-lbs"
+        ],
+        "assembled_product_width": [
+          "7.7-in"
+        ],
+        "assembled_product_height": [
+          "6.1-in"
+        ],
+        "upc_barcode": [
+          "885911725606"
+        ]
+      },
+      "manufacturerCategory": "Angle Grinders",
+      "category": "power-tools",
+      "id": "power-tools-dcg440b",
+      "local": "assets/catalog/photos/power-tools-dcg440b.webp",
+      "thumbnail": "assets/catalog/thumbs/power-tools-dcg440b.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 20156,
+      "thumbnailBytes": 4758,
+      "sha256": "267a01940141e07a1280561ad9c29d7bc33c4a461aa31c1a8881e477b466edd5",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        655
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DCS331M1",
+      "title": "20V MAX* Cordless Jig Saw Kit",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DCS331M1_K1_1280.webp",
+      "alt": "A DEWALT tool set including a yellow and black carrying bag, a cordless jigsaw, a battery pack, and a charger.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dcs331m1/20v-max-cordless-jig-saw-kit",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Jig Saw"
+        ],
+        "voltage": [
+          "20V"
+        ],
+        "cordless_or_corded": [
+          "Cordless"
+        ],
+        "polaris_power_source": [
+          "Battery"
+        ],
+        "is_bare_tool": [
+          "No"
+        ],
+        "motor_type": [
+          "Brushed"
+        ],
+        "total_number_of_batteries": [
+          "1"
+        ],
+        "battery_amp_hours_ah": [
+          "4.0Ah"
+        ],
+        "is_charger_included": [
+          "Yes"
+        ],
+        "maximum_speed_rpm": [
+          "3000-rpm"
+        ],
+        "amperage": [
+          "0"
+        ],
+        "assembled_product_length": [
+          "9.88-in"
+        ],
+        "assembled_product_weight": [
+          "9.35-lbs"
+        ],
+        "assembled_product_width": [
+          "4.53-in"
+        ],
+        "assembled_product_height": [
+          "14.77-in"
+        ],
+        "upc_barcode": [
+          "885911312349"
+        ],
+        "individual_or_set": [
+          "Set"
+        ]
+      },
+      "manufacturerCategory": "Jig Saws",
+      "category": "power-tools",
+      "id": "power-tools-dcs331m1",
+      "local": "assets/catalog/photos/power-tools-dcs331m1.webp",
+      "thumbnail": "assets/catalog/thumbs/power-tools-dcs331m1.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 54252,
+      "thumbnailBytes": 9510,
+      "sha256": "556dd931e8250d358be1ecbb53b9d2e950c17d04369c2eed0c27afc114ca91b1",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1019
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DCW230B",
+      "title": "20V XR® 6-in Random Orbit Sander (Tool Only)",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DCW230B_1_1280.webp",
+      "alt": "DEWALT 20V XR 6-inch cordless sander for woodworking and surface finishing.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dcw230b/20v-xr-6-random-orbit-sander-tool-only",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Orbital Sander"
+        ],
+        "voltage": [
+          "20V"
+        ],
+        "cordless_or_corded": [
+          "Cordless"
+        ],
+        "polaris_power_source": [
+          "Batteries"
+        ],
+        "is_bare_tool": [
+          "Yes"
+        ],
+        "motor_type": [
+          "Brushless"
+        ],
+        "total_number_of_batteries": [
+          "0"
+        ],
+        "is_charger_included": [
+          "No"
+        ],
+        "is_variable_speed": [
+          "Yes"
+        ],
+        "has_dust_collection": [
+          "Yes"
+        ],
+        "upc_barcode": [
+          "88591198081"
+        ]
+      },
+      "manufacturerCategory": "Orbital Sanders",
+      "category": "power-tools",
+      "id": "power-tools-dcw230b",
+      "local": "assets/catalog/photos/power-tools-dcw230b.webp",
+      "thumbnail": "assets/catalog/thumbs/power-tools-dcw230b.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 57628,
+      "thumbnailBytes": 11908,
+      "sha256": "1bd780510711ec7c6cf1b4a9b108fa9052d8a44397fdf4e15ef0daf269a0e70f",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DCD701J1",
+      "title": "12V MAX* XTREME Brushless 3/8in. Drill/Driver Kit",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DCD701J1_K1_1280.webp",
+      "alt": "A DEWALT 12V cordless power drill with a yellow and black design, shown with its matching battery charger beside it.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dcd701j1/12v-max-xtreme-brushless-38in-drilldriver-kit",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Drill Driver"
+        ],
+        "polaris_power_source": [
+          "Battery"
+        ]
+      },
+      "manufacturerCategory": "Drill Drivers",
+      "category": "power-tools",
+      "id": "power-tools-dcd701j1",
+      "local": "assets/catalog/photos/power-tools-dcd701j1.webp",
+      "thumbnail": "assets/catalog/thumbs/power-tools-dcd701j1.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 30866,
+      "thumbnailBytes": 6968,
+      "sha256": "69b1965c52b66c18ecaf661a48b0090bb8c29504b3cd628528de0b416565845a",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        971
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DCG413FB",
+      "title": "20V MAX* XR® 5-in Flathead Paddle-Switch Small Angle Grinder With KICKBACK BRAKE™ (Tool Only)",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DCG413FB_1_1280.webp",
+      "alt": "A DEWALT 20V brushless cordless angle grinder with a black and yellow body, a side handle, and an ergonomic design, shown from the side.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dcg413fb/20v-max-xr-5-flathead-paddle-switch-small-angle-grinder-kickback-brake-tool-only",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Angle Grinder"
+        ],
+        "voltage": [
+          "20V"
+        ],
+        "cordless_or_corded": [
+          "Cordless"
+        ],
+        "polaris_power_source": [
+          "Battery"
+        ],
+        "is_bare_tool": [
+          "Yes"
+        ],
+        "motor_type": [
+          "Brushless"
+        ],
+        "total_number_of_batteries": [
+          "0"
+        ],
+        "is_charger_included": [
+          "No"
+        ],
+        "is_variable_speed": [
+          "Yes"
+        ],
+        "maximum_speed_rpm": [
+          "9000-rpm"
+        ],
+        "wheel_diameter": [
+          "4.5-in"
+        ],
+        "switch_type": [
+          "Paddle"
+        ],
+        "has_overload_protection": [
+          "Yes"
+        ],
+        "piece_count": [
+          "5"
+        ],
+        "assembled_product_length": [
+          "14.72-in"
+        ],
+        "assembled_product_weight": [
+          "4.75-lbs"
+        ],
+        "assembled_product_width": [
+          "6.1-in"
+        ],
+        "assembled_product_height": [
+          "5.0-in"
+        ],
+        "upc_barcode": [
+          "885911540216"
+        ],
+        "individual_or_set": [
+          "Set"
+        ]
+      },
+      "manufacturerCategory": "Angle Grinders",
+      "category": "power-tools",
+      "id": "power-tools-dcg413fb",
+      "local": "assets/catalog/photos/power-tools-dcg413fb.webp",
+      "thumbnail": "assets/catalog/thumbs/power-tools-dcg413fb.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 22698,
+      "thumbnailBytes": 5268,
+      "sha256": "b723a9e4494691ec8e0dc4d60a0f2ee3c58af1f0a199ca413d90637fe7de6419",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DCS334P1",
+      "title": "20V MAX* XR® Cordless Jig Saw Kit",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DCS334P1_K1_1280.webp",
+      "alt": "A DEWALT cordless jigsaw kit, including a yellow and black jigsaw with battery attached, a charger, and a black carrying case with the DEWALT logo.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dcs334p1/20v-max-xr-cordless-jig-saw-kit",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Jig Saw"
+        ],
+        "voltage": [
+          "20V"
+        ],
+        "cordless_or_corded": [
+          "Cordless"
+        ],
+        "polaris_power_source": [
+          "Battery"
+        ],
+        "is_bare_tool": [
+          "No"
+        ],
+        "motor_type": [
+          "Brushless"
+        ],
+        "total_number_of_batteries": [
+          "1"
+        ],
+        "battery_amp_hours_ah": [
+          "5.0Ah"
+        ],
+        "is_charger_included": [
+          "Yes"
+        ],
+        "maximum_speed_rpm": [
+          "3200-rpm"
+        ],
+        "amperage": [
+          "0"
+        ],
+        "assembled_product_length": [
+          "15.5-in"
+        ],
+        "assembled_product_weight": [
+          "10.85-lbs"
+        ],
+        "assembled_product_width": [
+          "14.43-in"
+        ],
+        "assembled_product_height": [
+          "5.25-in"
+        ],
+        "upc_barcode": [
+          "885911531764"
+        ],
+        "individual_or_set": [
+          "Set"
+        ]
+      },
+      "manufacturerCategory": "Jig Saws",
+      "category": "power-tools",
+      "id": "power-tools-dcs334p1",
+      "local": "assets/catalog/photos/power-tools-dcs334p1.webp",
+      "thumbnail": "assets/catalog/thumbs/power-tools-dcs334p1.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 45640,
+      "thumbnailBytes": 11184,
+      "sha256": "8c52cc43845642610d8fd2306abf30685438ce217ebc3380d70e9f90b7bcf590",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        977
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DCW211B",
+      "title": "20V XR® 5-in Random Orbit Sander (Tool Only)",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DCW211B_1_1280.webp",
+      "alt": "DEWALT 20V cordless sander with black and yellow design, shown at an angle. PTIA 2026 Tool Innovation Award logo visible.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dcw211b/20v-xr-5-random-orbit-sander-tool-only",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Orbital Sander"
+        ],
+        "voltage": [
+          "20V"
+        ],
+        "cordless_or_corded": [
+          "Cordless"
+        ],
+        "polaris_power_source": [
+          "Batteries"
+        ],
+        "is_bare_tool": [
+          "Yes"
+        ],
+        "motor_type": [
+          "Brushless"
+        ],
+        "total_number_of_batteries": [
+          "0"
+        ],
+        "is_charger_included": [
+          "No"
+        ],
+        "is_variable_speed": [
+          "Yes"
+        ],
+        "has_dust_collection": [
+          "Yes"
+        ],
+        "assembled_product_length": [
+          "8.13-in"
+        ],
+        "assembled_product_weight": [
+          "3.04-lbs"
+        ],
+        "assembled_product_height": [
+          "4.37-in"
+        ],
+        "upc_barcode": [
+          "88591197987"
+        ],
+        "individual_or_set": [
+          "Set"
+        ]
+      },
+      "manufacturerCategory": "Orbital Sanders",
+      "category": "power-tools",
+      "id": "power-tools-dcw211b",
+      "local": "assets/catalog/photos/power-tools-dcw211b.webp",
+      "thumbnail": "assets/catalog/thumbs/power-tools-dcw211b.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 66528,
+      "thumbnailBytes": 12646,
+      "sha256": "ba07686d686f5a640d9cf1ee158c69d89f6786e4937d75ad448b9404f36479a4",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DCD800D1E1",
+      "title": "20V MAX* XR® Brushless Cordless 1/2-in Drill/Driver Kit",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DCD800D1E1_K1_1280.webp",
+      "alt": "A DEWALT 20V cordless power drill with a brushless motor and POWERSTACK battery. The drill is mainly yellow and black, featuring a sturdy handle and metal belt clip.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dcd800d1e1/20v-max-xr-brushless-cordless-12-drilldriver-kit",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Drill Driver"
+        ],
+        "voltage": [
+          "20V"
+        ],
+        "cordless_or_corded": [
+          "Cordless"
+        ],
+        "polaris_power_source": [
+          "Battery"
+        ],
+        "motor_type": [
+          "Brushless"
+        ],
+        "is_bare_tool": [
+          "No"
+        ],
+        "total_number_of_batteries": [
+          "2"
+        ],
+        "battery_amp_hours_ah": [
+          "2.0Ah"
+        ],
+        "is_charger_included": [
+          "Yes"
+        ],
+        "chuck_type": [
+          "Keyless"
+        ],
+        "maximum_speed_rpm": [
+          "2000-rpm"
+        ],
+        "no_load_speed_bpm": [
+          "2000"
+        ],
+        "piece_count": [
+          "6"
+        ],
+        "assembled_product_height": [
+          "12.8-in"
+        ],
+        "assembled_product_length": [
+          "9.92-in"
+        ],
+        "assembled_product_weight": [
+          "6.2-lbs"
+        ],
+        "assembled_product_width": [
+          "3.98-in"
+        ],
+        "upc_barcode": [
+          "885911801454"
+        ],
+        "individual_or_set": [
+          "Set"
+        ]
+      },
+      "manufacturerCategory": "Drill Drivers",
+      "category": "power-tools",
+      "id": "power-tools-dcd800d1e1",
+      "local": "assets/catalog/photos/power-tools-dcd800d1e1.webp",
+      "thumbnail": "assets/catalog/thumbs/power-tools-dcd800d1e1.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 45240,
+      "thumbnailBytes": 9948,
+      "sha256": "f293bc943bf96e7ded705a6409641543fd32b168a9048863f077264041a55b72",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DCG410VSB",
+      "title": "20V MAX* XR® 4-1/2 in. - 5 in. Brushless Variable Speed Paddle Switch Grinder (Tool Only)",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DCG410VSB_1_1280.webp",
+      "alt": "A DEWALT cordless brushless angle grinder with a black and yellow design, shown on a white background. The tool features a side handle, safety guard, and battery pack.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dcg410vsb/20v-max-xr-4-12-5-brushless-variable-speed-paddle-switch-grinder-tool-only",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Angle Grinder"
+        ],
+        "voltage": [
+          "20V"
+        ],
+        "cordless_or_corded": [
+          "Cordless"
+        ],
+        "polaris_power_source": [
+          "Battery"
+        ],
+        "is_bare_tool": [
+          "Yes"
+        ],
+        "motor_type": [
+          "Brushless"
+        ],
+        "total_number_of_batteries": [
+          "0"
+        ],
+        "is_charger_included": [
+          "No"
+        ],
+        "is_variable_speed": [
+          "Yes"
+        ],
+        "maximum_speed_rpm": [
+          "9000-rpm"
+        ],
+        "wheel_diameter": [
+          "4.5-in"
+        ],
+        "switch_type": [
+          "Paddle"
+        ],
+        "piece_count": [
+          "5"
+        ],
+        "assembled_product_length": [
+          "13.3-in"
+        ],
+        "assembled_product_weight": [
+          "4.85-lbs"
+        ],
+        "assembled_product_width": [
+          "6.5-in"
+        ],
+        "assembled_product_height": [
+          "5.7-in"
+        ],
+        "upc_barcode": [
+          "885912000000"
+        ],
+        "individual_or_set": [
+          "Set"
+        ]
+      },
+      "manufacturerCategory": "Angle Grinders",
+      "category": "power-tools",
+      "id": "power-tools-dcg410vsb",
+      "local": "assets/catalog/photos/power-tools-dcg410vsb.webp",
+      "thumbnail": "assets/catalog/thumbs/power-tools-dcg410vsb.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 30448,
+      "thumbnailBytes": 6420,
+      "sha256": "6a64f586d7275b351d6dc61b0867e146223f8203d15f22ee19dcbed535c015ad",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DCS335B",
+      "title": "20V MAX* XR® Cordless Barrel Grip Jig Saw (Tool Only)",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DCS335B_1_1280.webp",
+      "alt": "DEWALT cordless jigsaw with black and yellow body, shown from the side on a white background.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dcs335b/20v-max-xr-cordless-barrel-grip-jig-saw-tool-only",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Jig Saw"
+        ],
+        "voltage": [
+          "20V"
+        ],
+        "cordless_or_corded": [
+          "Cordless"
+        ],
+        "polaris_power_source": [
+          "Battery"
+        ],
+        "is_bare_tool": [
+          "Yes"
+        ],
+        "motor_type": [
+          "Brushless"
+        ],
+        "total_number_of_batteries": [
+          "0"
+        ],
+        "is_charger_included": [
+          "No"
+        ],
+        "maximum_speed_rpm": [
+          "3200-rpm"
+        ],
+        "right_bevel": [
+          "45°"
+        ],
+        "amperage": [
+          "0"
+        ],
+        "assembled_product_length": [
+          "11.53-in"
+        ],
+        "assembled_product_weight": [
+          "5.05-lbs"
+        ],
+        "assembled_product_width": [
+          "3.75-in"
+        ],
+        "assembled_product_height": [
+          "8.19-in"
+        ],
+        "upc_barcode": [
+          "885911533744"
+        ]
+      },
+      "manufacturerCategory": "Jig Saws",
+      "category": "power-tools",
+      "id": "power-tools-dcs335b",
+      "local": "assets/catalog/photos/power-tools-dcs335b.webp",
+      "thumbnail": "assets/catalog/thumbs/power-tools-dcs335b.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 44762,
+      "thumbnailBytes": 9498,
+      "sha256": "dd672f457c4ff5c1fdd43fc5ac20c221ccc51f2d9c779c32b7895fd88bd66457",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        929
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DCW210P1",
+      "title": "20V MAX* XR® 5-in Brushless Variable Speed Random Orbital Sander Kit (5.0 Ah Battery)",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DCW210P1_K1_1280.webp",
+      "alt": "A DEWALT cordless power sander kit, including a brushless orbital sander, a 20V 5Ah lithium-ion battery, and a battery charger. The sander and accessories feature a black and yellow color scheme with DEWALT branding.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dcw210p1/20v-max-xr-5-brushless-variable-speed-random-orbital-sander-kit-50-ah-battery",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Orbital Sander"
+        ],
+        "voltage": [
+          "20V"
+        ],
+        "cordless_or_corded": [
+          "Cordless"
+        ],
+        "polaris_power_source": [
+          "Battery"
+        ],
+        "is_bare_tool": [
+          "No"
+        ],
+        "size": [
+          "5-in"
+        ],
+        "motor_type": [
+          "Brushless"
+        ],
+        "total_number_of_batteries": [
+          "1"
+        ],
+        "is_charger_included": [
+          "Yes"
+        ],
+        "is_variable_speed": [
+          "Yes"
+        ],
+        "sanding_speed_maximum_opm": [
+          "12000"
+        ],
+        "has_dust_collection": [
+          "Yes"
+        ],
+        "assembled_product_length": [
+          "10.25-in"
+        ],
+        "assembled_product_weight": [
+          "5.6-lbs"
+        ],
+        "assembled_product_width": [
+          "9.0-in"
+        ],
+        "assembled_product_height": [
+          "5.5-in"
+        ],
+        "upc_barcode": [
+          "885911557825"
+        ],
+        "individual_or_set": [
+          "Set"
+        ]
+      },
+      "manufacturerCategory": "Orbital Sanders",
+      "category": "power-tools",
+      "id": "power-tools-dcw210p1",
+      "local": "assets/catalog/photos/power-tools-dcw210p1.webp",
+      "thumbnail": "assets/catalog/thumbs/power-tools-dcw210p1.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 40934,
+      "thumbnailBytes": 9392,
+      "sha256": "1f168e77d4a70f70a3fda1e63ed8ace0e8e404d890a6e7acdea0ee2c75128f82",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        983
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DCD800E2",
+      "title": "20V MAX* XR® Brushless Cordless 1/2-in Drill/Driver Kit",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DCD800E2_K1_1280.webp",
+      "alt": "A DEWALT 20V cordless power drill with a yellow and black design, featuring a brushless motor and a POWERSTACK battery attached. The drill is standing upright on a white background.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dcd800e2/20v-max-xr-brushless-cordless-12-drilldriver-kit",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Drill Driver"
+        ],
+        "voltage": [
+          "20V"
+        ],
+        "cordless_or_corded": [
+          "Cordless"
+        ],
+        "polaris_power_source": [
+          "Battery"
+        ],
+        "motor_type": [
+          "Brushless"
+        ],
+        "is_bare_tool": [
+          "No"
+        ],
+        "total_number_of_batteries": [
+          "2"
+        ],
+        "battery_amp_hours_ah": [
+          "1.7Ah"
+        ],
+        "is_charger_included": [
+          "Yes"
+        ],
+        "chuck_type": [
+          "Keyless"
+        ],
+        "maximum_speed_rpm": [
+          "2000-rpm"
+        ],
+        "no_load_speed_bpm": [
+          "2000"
+        ],
+        "piece_count": [
+          "6"
+        ],
+        "assembled_product_height": [
+          "12.7-in"
+        ],
+        "assembled_product_length": [
+          "9.9-in"
+        ],
+        "assembled_product_weight": [
+          "6.35-lbs"
+        ],
+        "assembled_product_width": [
+          "3.98-in"
+        ],
+        "upc_barcode": [
+          "885911839204"
+        ],
+        "individual_or_set": [
+          "Set"
+        ]
+      },
+      "manufacturerCategory": "Drill Drivers",
+      "category": "power-tools",
+      "id": "power-tools-dcd800e2",
+      "local": "assets/catalog/photos/power-tools-dcd800e2.webp",
+      "thumbnail": "assets/catalog/thumbs/power-tools-dcd800e2.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 45348,
+      "thumbnailBytes": 10008,
+      "sha256": "67a64d2d5576d730b753dca9c9dc9e3adf57602d9d46c4dece65ec011b213a30",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DCG413B",
+      "title": "20V MAX* XR® 4-1/2-in Paddle Switch Small Angle Grinder With KICKBACK BRAKE™ (Tool Only)",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DCG413B_1_1280.webp",
+      "alt": "A DEWALT 20V brushless cordless angle grinder with a yellow and black design, shown on a white background.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dcg413b/20v-max-xr-4-12-paddle-switch-small-angle-grinder-kickback-brake-tool-only",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Angle Grinder"
+        ],
+        "voltage": [
+          "20V"
+        ],
+        "cordless_or_corded": [
+          "Cordless"
+        ],
+        "polaris_power_source": [
+          "Battery"
+        ],
+        "is_bare_tool": [
+          "Yes"
+        ],
+        "motor_type": [
+          "Brushless"
+        ],
+        "total_number_of_batteries": [
+          "0"
+        ],
+        "is_charger_included": [
+          "No"
+        ],
+        "is_variable_speed": [
+          "No"
+        ],
+        "maximum_speed_rpm": [
+          "9000-rpm"
+        ],
+        "wheel_diameter": [
+          "4.5-in"
+        ],
+        "switch_type": [
+          "Paddle"
+        ],
+        "has_overload_protection": [
+          "Yes"
+        ],
+        "piece_count": [
+          "5"
+        ],
+        "assembled_product_length": [
+          "12.9-in"
+        ],
+        "assembled_product_weight": [
+          "4.6-lbs"
+        ],
+        "assembled_product_width": [
+          "6.3-in"
+        ],
+        "assembled_product_height": [
+          "4.88-in"
+        ],
+        "upc_barcode": [
+          "885911510844"
+        ],
+        "individual_or_set": [
+          "Set"
+        ]
+      },
+      "manufacturerCategory": "Angle Grinders",
+      "category": "power-tools",
+      "id": "power-tools-dcg413b",
+      "local": "assets/catalog/photos/power-tools-dcg413b.webp",
+      "thumbnail": "assets/catalog/thumbs/power-tools-dcg413b.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 28606,
+      "thumbnailBytes": 6568,
+      "sha256": "ebd8dadc3f020762e13d8e7064312f8246d5285316f35abce83aab03d1889f2e",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DCS331B",
+      "title": "20V MAX* Cordless Jig Saw (Tool Only)",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DCS331B_1_1280.webp",
+      "alt": "A DEWALT 20V MAX cordless jigsaw with a yellow and black body, ergonomic handle, and metal base plate, suitable for precision cutting tasks.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dcs331b/20v-max-cordless-jig-saw-tool-only",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Jig Saw"
+        ],
+        "voltage": [
+          "20V"
+        ],
+        "cordless_or_corded": [
+          "Cordless"
+        ],
+        "polaris_power_source": [
+          "Battery"
+        ],
+        "is_bare_tool": [
+          "Yes"
+        ],
+        "motor_type": [
+          "Brushed"
+        ],
+        "total_number_of_batteries": [
+          "0"
+        ],
+        "is_charger_included": [
+          "No"
+        ],
+        "maximum_speed_rpm": [
+          "3000-rpm"
+        ],
+        "amperage": [
+          "8"
+        ],
+        "assembled_product_length": [
+          "10.5-in"
+        ],
+        "assembled_product_weight": [
+          "5.6-lbs"
+        ],
+        "assembled_product_width": [
+          "9.12-in"
+        ],
+        "assembled_product_height": [
+          "3.73-in"
+        ],
+        "upc_barcode": [
+          "885911262316"
+        ]
+      },
+      "manufacturerCategory": "Jig Saws",
+      "category": "power-tools",
+      "id": "power-tools-dcs331b",
+      "local": "assets/catalog/photos/power-tools-dcs331b.webp",
+      "thumbnail": "assets/catalog/thumbs/power-tools-dcs331b.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 72060,
+      "thumbnailBytes": 15512,
+      "sha256": "951ff6425f1597de364defc4ffdf7991d4dc3bdc35265f639ba06c6a3cd42364",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DCW210B",
+      "title": "20V MAX* XR® 5-in Brushless Cordless Variable-Speed Random Orbital Sander (Tool Only)",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DCW210B_1_1280.webp",
+      "alt": "Photo of DEWALT DCW210B cordless brushless sander, yellow and black, side angle, product category: photography.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dcw210b/20v-max-xr-5-brushless-cordless-variable-speed-random-orbital-sander-tool-only",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Orbital Sander"
+        ],
+        "voltage": [
+          "20V"
+        ],
+        "cordless_or_corded": [
+          "Cordless"
+        ],
+        "polaris_power_source": [
+          "Battery"
+        ],
+        "is_bare_tool": [
+          "Yes"
+        ],
+        "size": [
+          "5-in"
+        ],
+        "motor_type": [
+          "Brushless"
+        ],
+        "total_number_of_batteries": [
+          "0"
+        ],
+        "is_charger_included": [
+          "No"
+        ],
+        "is_variable_speed": [
+          "Yes"
+        ],
+        "sanding_speed_maximum_opm": [
+          "12000.0"
+        ],
+        "has_dust_collection": [
+          "Yes"
+        ],
+        "assembled_product_length": [
+          "8.8-in"
+        ],
+        "assembled_product_weight": [
+          "1.9-lbs"
+        ],
+        "assembled_product_width": [
+          "6.4-in"
+        ],
+        "assembled_product_height": [
+          "5.8-in"
+        ],
+        "upc_barcode": [
+          "885911557818"
+        ],
+        "individual_or_set": [
+          "Set"
+        ]
+      },
+      "manufacturerCategory": "Orbital Sanders",
+      "category": "power-tools",
+      "id": "power-tools-dcw210b",
+      "local": "assets/catalog/photos/power-tools-dcw210b.webp",
+      "thumbnail": "assets/catalog/thumbs/power-tools-dcw210b.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 50548,
+      "thumbnailBytes": 11192,
+      "sha256": "bd3665d27c57873d494a4dbcfad154f2eaa2ab6a1c1028bf436d09f9d6af334a",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "51-169",
+      "title": "28 oz STANLEY® FATMAX® Anti-Vibe® Rip Claw Framing Hammer",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/51-169_1_1280.webp",
+      "alt": "STANLEY 51-169 claw hammer, black and yellow, side view on white background, ANTI VIBE logo visible.",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/51-169/28-oz-stanley-fatmax-anti-vibe-rip-claw-framing-hammer",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Framing Hammer"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "piece_count": [
+          "1"
+        ],
+        "handle_material": [
+          "Steel"
+        ],
+        "head_material": [
+          "Carbon Steel"
+        ],
+        "upc_barcode": [
+          "76174511697"
+        ]
+      },
+      "manufacturerCategory": "Framing Hammers",
+      "category": "hand-tools",
+      "id": "hand-tools-51-169",
+      "local": "assets/catalog/photos/hand-tools-51-169.webp",
+      "thumbnail": "assets/catalog/thumbs/hand-tools-51-169.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 10986,
+      "thumbnailBytes": 2664,
+      "sha256": "a6877ddf8e9c3036dc15ea4d48ef9fe094e43d7c72873d4d8c90316eb7ef46fe",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "STHT84404",
+      "title": "6.75-in Long Nose Locking Pliers",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/STHT84404_1_1280.webp",
+      "alt": "Stanley long nose locking pliers, silver with yellow handle accents, side view on white background",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/stht84404/675-long-nose-locking-pliers",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Locking Pliers"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "piece_count": [
+          "1"
+        ],
+        "product_material": [
+          "Forged Steel"
+        ],
+        "upc_barcode": [
+          "885911653640"
+        ]
+      },
+      "manufacturerCategory": "Pliers",
+      "category": "hand-tools",
+      "id": "hand-tools-stht84404",
+      "local": "assets/catalog/photos/hand-tools-stht84404.webp",
+      "thumbnail": "assets/catalog/thumbs/hand-tools-stht84404.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 19986,
+      "thumbnailBytes": 3386,
+      "sha256": "579736f923914d4e3929fd98735a01c5a7b6c28db6123e0743328445447b1286",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        440
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "STHT60083",
+      "title": "Quick Change 6-in-1 Interchangeable Screwdriver",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/STHT60083_1_1280.webp",
+      "alt": "Stanley multi-bit screwdriver with yellow and black handle, side view on white background",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/stht60083/quick-change-6-1-interchangeable-screwdriver",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Multi-Bit Screwdriver"
+        ],
+        "individual_or_set": [
+          "Set"
+        ],
+        "piece_count": [
+          "1"
+        ],
+        "handle_material": [
+          "Bi-Material"
+        ],
+        "is_magnetic": [
+          "No"
+        ],
+        "is_ratcheting": [
+          "No"
+        ],
+        "upc_barcode": [
+          "885911653343"
+        ]
+      },
+      "manufacturerCategory": "Screwdriver Sets",
+      "category": "hand-tools",
+      "id": "hand-tools-stht60083",
+      "local": "assets/catalog/photos/hand-tools-stht60083.webp",
+      "thumbnail": "assets/catalog/thumbs/hand-tools-stht60083.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 11280,
+      "thumbnailBytes": 2748,
+      "sha256": "2808fe80c2e37708dee131fd954b573774edf661e7b0604a846a7196c6fa6b9c",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        592
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "87-473",
+      "title": "12-in adjustable wrench",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/87-473_1_1280.webp",
+      "alt": "Stanley adjustable wrench front view, silver metal, 12-inch size with measurement markings and round hole in handle",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/87-473/12-adjustable-wrench",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Adjustable Wrench"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "piece_count": [
+          "1"
+        ],
+        "measurement_system": [
+          "SAE & Metric"
+        ],
+        "product_finish": [
+          "Polished Chrome"
+        ],
+        "upc_barcode": [
+          "76174874730"
+        ]
+      },
+      "manufacturerCategory": "Adjustable Wrenches",
+      "category": "hand-tools",
+      "id": "hand-tools-87-473",
+      "local": "assets/catalog/photos/hand-tools-87-473.webp",
+      "thumbnail": "assets/catalog/thumbs/hand-tools-87-473.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 18336,
+      "thumbnailBytes": 3146,
+      "sha256": "6796df6e1c524b1e384b176921e3bfda53f172e30934b144ac260ba483d77ebe",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "20-526",
+      "title": "15-in Finish Cut SHARPTOOTH™ Saw",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/20-526_1_1280.webp",
+      "alt": "Stanley hand saw side view with yellow and black handle and SharpTooth blade on white background",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/20-526/15-finish-cut-sharptooth-saw",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Hand Saw"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "piece_count": [
+          "1"
+        ],
+        "handle_material": [
+          "Wood"
+        ],
+        "upc_barcode": [
+          "76174205268"
+        ]
+      },
+      "manufacturerCategory": "Hand Saws",
+      "category": "hand-tools",
+      "id": "hand-tools-20-526",
+      "local": "assets/catalog/photos/hand-tools-20-526.webp",
+      "thumbnail": "assets/catalog/thumbs/hand-tools-20-526.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 16568,
+      "thumbnailBytes": 3478,
+      "sha256": "7f3095c1fcc13dafd2029743622f5f445d495586ab98e66caf3bf654213d6b03",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "28-593",
+      "title": "Glass Scraper",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/28-593_1_1280.webp",
+      "alt": "Front view of STANLEY yellow plastic scraper with metal blade, isolated on white background",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/28-593/glass-scraper",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Scraper"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "piece_count": [
+          "1"
+        ],
+        "handle_material": [
+          "Plastic"
+        ],
+        "product_material": [
+          "Plastic"
+        ],
+        "blade_material": [
+          "Metal"
+        ],
+        "blade_type": [
+          "Standard Utility"
+        ],
+        "product_finish": [
+          "Standard Carbon"
+        ],
+        "assembled_product_height": [
+          "6.7-in"
+        ],
+        "upc_barcode": [
+          "76174285932"
+        ]
+      },
+      "manufacturerCategory": "Scrapers",
+      "category": "hand-tools",
+      "id": "hand-tools-28-593",
+      "sourceDimensions": [
+        1280,
+        1280
+      ],
+      "local": "assets/catalog/photos/hand-tools-28-593.webp",
+      "thumbnail": "assets/catalog/thumbs/hand-tools-28-593.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 9272,
+      "thumbnailBytes": 2282,
+      "sha256": "7f07cce3892868ebfe5b852ecb21fa4ab150991712c203a713cc62f52d702a15",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted."
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "FMHT51306",
+      "title": "17 oz. High Velocity Hammer",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/FMHT51306_1_1280.webp",
+      "alt": "Stanley FMHT51306 claw hammer, black and yellow handle, side angle photo on white background.",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/fmht51306/17-oz-high-velocity-hammer",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Framing Hammer"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "piece_count": [
+          "1"
+        ],
+        "handle_material": [
+          "Steel"
+        ],
+        "head_material": [
+          "Steel"
+        ],
+        "upc_barcode": [
+          "76174513066",
+          "76174622874"
+        ]
+      },
+      "manufacturerCategory": "Framing Hammers",
+      "category": "hand-tools",
+      "id": "hand-tools-fmht51306",
+      "local": "assets/catalog/photos/hand-tools-fmht51306.webp",
+      "thumbnail": "assets/catalog/thumbs/hand-tools-fmht51306.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 11190,
+      "thumbnailBytes": 2574,
+      "sha256": "37819d3658fcfa749f456d4a85dcf26f7b146e04dac984aa02cfa26ca06b541c",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "84-114",
+      "title": "Plier Set (3 pc.)",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/84-114_1_1280.webp",
+      "alt": "Stanley three-piece pliers set with black and yellow handles, front view on white background",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/84-114/plier-set-3-pc",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Pliers Set"
+        ],
+        "individual_or_set": [
+          "Set"
+        ],
+        "piece_count": [
+          "1"
+        ],
+        "assembled_product_height": [
+          "0.9-in"
+        ],
+        "upc_barcode": [
+          "76174841145",
+          "76174845198"
+        ]
+      },
+      "manufacturerCategory": "Pliers",
+      "category": "hand-tools",
+      "id": "hand-tools-84-114",
+      "local": "assets/catalog/photos/hand-tools-84-114.webp",
+      "thumbnail": "assets/catalog/thumbs/hand-tools-84-114.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 31072,
+      "thumbnailBytes": 7390,
+      "sha256": "8a97a44068eb0c28591101f3f03c9663ba6b3a0aea1e5cf57688fe2e13a62fc5",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "66-565",
+      "title": "Vinyl Grip Screwdriver Set (6 Piece)",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/66-565_1_1280.webp",
+      "alt": "STANLEY 66-565 screwdriver set, six-piece, flathead and Phillips, black and yellow handles, top-down photo.",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/66-565/vinyl-grip-screwdriver-set-6-piece",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Sets Screwdriver"
+        ],
+        "individual_or_set": [
+          "Set"
+        ],
+        "piece_count": [
+          "6"
+        ],
+        "handle_material": [
+          "Vinyl"
+        ],
+        "is_magnetic": [
+          "No"
+        ],
+        "upc_barcode": [
+          "76174665659"
+        ]
+      },
+      "manufacturerCategory": "Screwdriver Sets",
+      "category": "hand-tools",
+      "id": "hand-tools-66-565",
+      "local": "assets/catalog/photos/hand-tools-66-565.webp",
+      "thumbnail": "assets/catalog/thumbs/hand-tools-66-565.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 29690,
+      "thumbnailBytes": 6302,
+      "sha256": "90e1e37a4a62dfe876100a06b4bee781ffdb02267655719c8e5b4f0e68a629f1",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "FMHT75081",
+      "title": "10-in Adjustable Demo Wrench",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/FMHT75081_1_1280.webp",
+      "alt": "Stanley FATMAX 10-inch adjustable wrench side view, black handle with metal jaw, white background.",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/fmht75081/10-adjustable-demo-wrench",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Adjustable Wrench"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "piece_count": [
+          "1"
+        ],
+        "measurement_system": [
+          "SAE & Metric"
+        ],
+        "upc_barcode": [
+          "76174750812"
+        ]
+      },
+      "manufacturerCategory": "Adjustable Wrenches",
+      "category": "hand-tools",
+      "id": "hand-tools-fmht75081",
+      "local": "assets/catalog/photos/hand-tools-fmht75081.webp",
+      "thumbnail": "assets/catalog/thumbs/hand-tools-fmht75081.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 11652,
+      "thumbnailBytes": 2824,
+      "sha256": "1f0ade3949b789f409aa15acf7b9e071eb1a09e235439eafa3bdaaf345acb241",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        358
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "20-092",
+      "title": "3-in-1 Multi-Purpose Saw",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/20-092_1_1280.webp",
+      "alt": "Stanley hand saw with black and yellow handle and two interchangeable blades, side view on white background",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/20-092/3-1-multi-purpose-saw",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Hand Saw"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "piece_count": [
+          "1"
+        ],
+        "handle_material": [
+          "Rubber"
+        ],
+        "upc_barcode": [
+          "76174200928"
+        ]
+      },
+      "manufacturerCategory": "Hand Saws",
+      "category": "hand-tools",
+      "id": "hand-tools-20-092",
+      "local": "assets/catalog/photos/hand-tools-20-092.webp",
+      "thumbnail": "assets/catalog/thumbs/hand-tools-20-092.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 14870,
+      "thumbnailBytes": 3324,
+      "sha256": "96c140ac72a0a7cb4f8249f41f34acfa7a04bb0a0b7cb25e862e4087f38a1839",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "28-510",
+      "title": "Glass Scraper Blade (10 Pk)",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/28-510_1_1280.webp",
+      "alt": "Stanley utility razor blade, front angle, silver metal finish, straight edge, photography category",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/28-510/glass-scraper-blade-10-pk",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Scraper Blade"
+        ],
+        "individual_or_set": [
+          "Set"
+        ],
+        "piece_count": [
+          "1"
+        ],
+        "blade_material": [
+          "Carbon Steel"
+        ],
+        "blade_type": [
+          "Specialized"
+        ],
+        "product_material": [
+          "High Carbon Steel"
+        ],
+        "assembled_product_height": [
+          "0.79-in"
+        ],
+        "upc_barcode": [
+          "76174285109"
+        ]
+      },
+      "manufacturerCategory": "Scrapers",
+      "category": "hand-tools",
+      "id": "hand-tools-28-510",
+      "sourceDimensions": [
+        1280,
+        1280
+      ],
+      "local": "assets/catalog/photos/hand-tools-28-510.webp",
+      "thumbnail": "assets/catalog/thumbs/hand-tools-28-510.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 37296,
+      "thumbnailBytes": 4222,
+      "sha256": "927dbac70f3594e930ef2d1bfac73202596f03afac6a140fac450a3513287587",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted."
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "51-167",
+      "title": "Framing Hammer",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/51-167_1_1280.webp",
+      "alt": "STANLEY 51-167 black anti-vibration claw hammer, side view on white background, photography.",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/51-167/framing-hammer",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Framing Hammer"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "piece_count": [
+          "1"
+        ],
+        "handle_material": [
+          "Steel"
+        ],
+        "head_material": [
+          "Carbon Steel"
+        ],
+        "upc_barcode": [
+          "76174511673"
+        ]
+      },
+      "manufacturerCategory": "Framing Hammers",
+      "category": "hand-tools",
+      "id": "hand-tools-51-167",
+      "local": "assets/catalog/photos/hand-tools-51-167.webp",
+      "thumbnail": "assets/catalog/thumbs/hand-tools-51-167.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 11344,
+      "thumbnailBytes": 2592,
+      "sha256": "36811563d8bdb9f0bcf6bec01ddea2e646e05e13624e0584fc3a14847209caf4",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "84-024",
+      "title": "10-in Groove Joint Pliers",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/84-024_1_1280.webp",
+      "alt": "Stanley groove joint pliers with black jaws and yellow and black comfort grip handles, front angle on white background",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/84-024/10-groove-joint-pliers",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Groove Joint Pliers"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "piece_count": [
+          "1"
+        ],
+        "handle_material": [
+          "Bi-Material"
+        ],
+        "upc_barcode": [
+          "76174840247",
+          "76174840285"
+        ]
+      },
+      "manufacturerCategory": "Pliers",
+      "category": "hand-tools",
+      "id": "hand-tools-84-024",
+      "local": "assets/catalog/photos/hand-tools-84-024.webp",
+      "thumbnail": "assets/catalog/thumbs/hand-tools-84-024.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 15306,
+      "thumbnailBytes": 3968,
+      "sha256": "bdeedc539020778c76a66c505f4b69e10ef1fd5934fb490a3f61e3a260cf6172",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        465,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "54-925",
+      "title": "Ratchet & Multibit Screwdriver Set (29 pc.)",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/54-925_1_1280.webp",
+      "alt": "STANLEY 54-925 screwdriver set with yellow handle, multiple sockets and assorted bits, top angle.",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/54-925/ratchet-multibit-screwdriver-set-29-pc",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Multi-Bit Screwdriver"
+        ],
+        "individual_or_set": [
+          "Set"
+        ],
+        "piece_count": [
+          "29"
+        ],
+        "handle_material": [
+          "Bi-Material"
+        ],
+        "upc_barcode": [
+          "76174549256",
+          "76174550993"
+        ]
+      },
+      "manufacturerCategory": "Screwdriver Sets",
+      "category": "hand-tools",
+      "id": "hand-tools-54-925",
+      "local": "assets/catalog/photos/hand-tools-54-925.webp",
+      "thumbnail": "assets/catalog/thumbs/hand-tools-54-925.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 23178,
+      "thumbnailBytes": 5348,
+      "sha256": "4fc745872c654444ef62d39a0794820928fa021b8bc0942f0ccd8ad5eab57427",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        680
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "87-369",
+      "title": "8-in Adjustable Wrench",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/87-369_1_1280.webp",
+      "alt": "Stanley adjustable wrench, silver finish, front view, 8-inch size, metric markings, white background",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/87-369/8-adjustable-wrench",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Adjustable Wrench"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "piece_count": [
+          "1"
+        ],
+        "measurement_system": [
+          "SAE & Metric"
+        ],
+        "product_finish": [
+          "Chrome"
+        ],
+        "upc_barcode": [
+          "76174873696"
+        ]
+      },
+      "manufacturerCategory": "Adjustable Wrenches",
+      "category": "hand-tools",
+      "id": "hand-tools-87-369",
+      "local": "assets/catalog/photos/hand-tools-87-369.webp",
+      "thumbnail": "assets/catalog/thumbs/hand-tools-87-369.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 19698,
+      "thumbnailBytes": 3356,
+      "sha256": "0ee0f7d1374ece63d7331795370c2c1283838bc73274f20d2e36b490c16661bb",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "15-334",
+      "title": "Short Cut Toolbox Saw",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/15-334_1_1280.webp",
+      "alt": "Stanley hand saw with SharpTooth blade and wooden handle, side angle on white background",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/15-334/short-cut-toolbox-saw",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Hand Saw"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "piece_count": [
+          "1"
+        ],
+        "handle_material": [
+          "Wood"
+        ],
+        "upc_barcode": [
+          "76174153347"
+        ]
+      },
+      "manufacturerCategory": "Hand Saws",
+      "category": "hand-tools",
+      "id": "hand-tools-15-334",
+      "local": "assets/catalog/photos/hand-tools-15-334.webp",
+      "thumbnail": "assets/catalog/thumbs/hand-tools-15-334.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 22238,
+      "thumbnailBytes": 3842,
+      "sha256": "58ad2353b101355b04871a300e85ca7223b89b3748d0668e88e2fcd0c92c8b14",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "28-500",
+      "title": "95mm Professional Glass Scraper",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/28-500_1_1280.webp",
+      "alt": "Stanley metal razor blade scraper with gold slider, front shot on white background",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/28-500/95mm-professional-glass-scraper",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Scraper"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "piece_count": [
+          "1"
+        ],
+        "product_material": [
+          "Metal"
+        ],
+        "blade_material": [
+          "Carbon Steel"
+        ],
+        "blade_type": [
+          "Specialized"
+        ],
+        "product_finish": [
+          "Standard Carbon"
+        ],
+        "assembled_product_height": [
+          "0.4-in"
+        ],
+        "upc_barcode": [
+          "76174285000"
+        ]
+      },
+      "manufacturerCategory": "Scrapers",
+      "category": "hand-tools",
+      "id": "hand-tools-28-500",
+      "sourceDimensions": [
+        1280,
+        1280
+      ],
+      "local": "assets/catalog/photos/hand-tools-28-500.webp",
+      "thumbnail": "assets/catalog/thumbs/hand-tools-28-500.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 20506,
+      "thumbnailBytes": 3632,
+      "sha256": "71558f237ad5c1a7c04d23b9691fb35c98e600b8d593e8387af6db02060785ba",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted."
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "51-505",
+      "title": "16 oz./450g Curved Claw Graphite Hammer",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/51-505_1_1280.webp",
+      "alt": "STANLEY 51-505 claw hammer with yellow and black handle, side view, FatMax branding, hand tool.",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/51-505/16-oz450g-curved-claw-graphite-hammer",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Claw Hammer"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "piece_count": [
+          "1"
+        ],
+        "handle_material": [
+          "Graphite"
+        ],
+        "head_material": [
+          "Steel"
+        ],
+        "assembled_product_height": [
+          "1.61-in"
+        ],
+        "upc_barcode": [
+          "76174515053"
+        ]
+      },
+      "manufacturerCategory": "Claw Hammers",
+      "category": "hand-tools",
+      "id": "hand-tools-51-505",
+      "local": "assets/catalog/photos/hand-tools-51-505.webp",
+      "thumbnail": "assets/catalog/thumbs/hand-tools-51-505.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 13776,
+      "thumbnailBytes": 3174,
+      "sha256": "bc678970ec64a28ecface86b66efe75fba327ea0348f8cb8ff063437dbfc21e6",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "84-028",
+      "title": "7-in Bi-Material Diagonal Pliers",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/84-028_1_1280.webp",
+      "alt": "Stanley diagonal cutting pliers front view, black jaws, yellow and black ergonomic handles, white background",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/84-028/7-bi-material-diagonal-pliers",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Diagonal Pliers"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "piece_count": [
+          "1"
+        ],
+        "product_material": [
+          "Drop-Forged Steel"
+        ],
+        "handle_material": [
+          "Bi-Material"
+        ],
+        "is_insulated": [
+          "Yes"
+        ],
+        "upc_barcode": [
+          "76174840285",
+          "76174840568"
+        ]
+      },
+      "manufacturerCategory": "Pliers",
+      "category": "hand-tools",
+      "id": "hand-tools-84-028",
+      "local": "assets/catalog/photos/hand-tools-84-028.webp",
+      "thumbnail": "assets/catalog/thumbs/hand-tools-84-028.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 14998,
+      "thumbnailBytes": 4078,
+      "sha256": "8be2be39cd257f758490346d417c20eb6205d0be93f2533be250d8613e125fd1",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        461,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "STHT37242",
+      "title": "12-ft Tape Measure",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/STHT37242_1_1280.webp",
+      "alt": "Photo of STANLEY STHT37242 12 ft yellow and black tape measure, angled on white background.",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/stht37242/12-ft-tape-measure",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Tape Measure"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "blade_material": [
+          "Steel"
+        ],
+        "is_magnetic": [
+          "No"
+        ],
+        "is_lockable": [
+          "Yes"
+        ],
+        "upc_barcode": [
+          "76174372427"
+        ]
+      },
+      "manufacturerCategory": "Tape Measures",
+      "category": "measuring",
+      "id": "measuring-stht37242",
+      "local": "assets/catalog/photos/measuring-stht37242.webp",
+      "thumbnail": "assets/catalog/thumbs/measuring-stht37242.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 34882,
+      "thumbnailBytes": 6862,
+      "sha256": "6b97091a9bc835b6c14d77035d474989167ef8f1f06991d4817a133f01299a0c",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "34-793",
+      "title": "1/2-in x 200-ft Open Reel Fiberglass Long Tape",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/34-793_1_1280.webp",
+      "alt": "A yellow and black Stanley-branded open reel measuring tape with a 200-foot tape length, shown standing upright with the handle at the top.",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/34-793/12-x-200-ft-open-reel-fiberglass-long-tape",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Tape Measure"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "product_material": [
+          "ABS",
+          "Fiberglass"
+        ],
+        "blade_material": [
+          "Fiberglass"
+        ],
+        "is_lockable": [
+          "No"
+        ],
+        "upc_barcode": [
+          "76174347937"
+        ]
+      },
+      "manufacturerCategory": "Tape Measures",
+      "category": "measuring",
+      "id": "measuring-34-793",
+      "local": "assets/catalog/photos/measuring-34-793.webp",
+      "thumbnail": "assets/catalog/thumbs/measuring-34-793.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 42938,
+      "thumbnailBytes": 8300,
+      "sha256": "bc1b2e72833dfd1283b61b087656da62aeef4a8158f2256d9fcf3ee4a051747d",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "34-762",
+      "title": "POWERWINDER® 300-ft Fiberglass Long Tape",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/34-762_1_1280.webp",
+      "alt": "Stanley open reel measuring tape, 300-foot length, yellow and black, front view on white background",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/34-762/powerwinder-300-ft-fiberglass-long-tape",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Tape Measure"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "product_material": [
+          "Fiberglass"
+        ],
+        "assembled_product_height": [
+          "1.8-in"
+        ],
+        "upc_barcode": [
+          "76174347623"
+        ]
+      },
+      "manufacturerCategory": "Tape Measures",
+      "category": "measuring",
+      "id": "measuring-34-762",
+      "local": "assets/catalog/photos/measuring-34-762.webp",
+      "thumbnail": "assets/catalog/thumbs/measuring-34-762.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 32790,
+      "thumbnailBytes": 7394,
+      "sha256": "ba671288996a11865c1f441cb46e7c438c4dfc1d579f4e61d14a6d58527ad837",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "46-123",
+      "title": "12-in Combination Square",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/46-123_1_1280.webp",
+      "alt": "Stanley combination square, front view, with yellow handle and chrome ruler on white background.",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/46-123/12-combination-square",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Square"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "upc_barcode": [
+          "76174461237",
+          "76174461312"
+        ]
+      },
+      "manufacturerCategory": "Squares",
+      "category": "measuring",
+      "id": "measuring-46-123",
+      "local": "assets/catalog/photos/measuring-46-123.webp",
+      "thumbnail": "assets/catalog/thumbs/measuring-46-123.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 18580,
+      "thumbnailBytes": 3160,
+      "sha256": "aa4c0e66f511b3b3ca69c4d4a7aab8b76d0203a16247d211d1d6f02614c381b0",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "46-222",
+      "title": "Handyman combination square",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/46-222_1_1280.webp",
+      "alt": "Stanley combination square with metal ruler and built-in spirit level, angled top view on white background",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/46-222/handyman-combination-square",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Square"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "upc_barcode": [
+          "76174462227"
+        ]
+      },
+      "manufacturerCategory": "Squares",
+      "category": "measuring",
+      "id": "measuring-46-222",
+      "local": "assets/catalog/photos/measuring-46-222.webp",
+      "thumbnail": "assets/catalog/thumbs/measuring-46-222.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 27284,
+      "thumbnailBytes": 4570,
+      "sha256": "f3b673cf09213c02e012bbbcc0849a9f33458bf234e0d1f2bd4e705418289dcd",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "33-740",
+      "title": "FATMAX® 40-ft CLASSIC Tape Measure",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/33-740_1_1280.webp",
+      "alt": "STANLEY FATMAX Classic 40' tape measure, front angle, black and yellow casing, USA flag on label",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/33-740/fatmax-40-ft-classic-tape-measure",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Tape Measure"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "upc_barcode": [
+          "76174337402"
+        ]
+      },
+      "manufacturerCategory": "Tape Measures",
+      "category": "measuring",
+      "id": "measuring-33-740",
+      "local": "assets/catalog/photos/measuring-33-740.webp",
+      "thumbnail": "assets/catalog/thumbs/measuring-33-740.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 58448,
+      "thumbnailBytes": 15528,
+      "sha256": "3002bf4fafa6bad7220fb8788349213272eedf81340aef671aac977103bd9a1a",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1242,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "46-028",
+      "title": "12-in Blade Combination Square",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/46-028_1_1280.webp",
+      "alt": "STANLEY 46-028 combination square with black handle and metal ruler, front angle on white background.",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/46-028/12-blade-combination-square",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Square"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "range": [
+          "4.72"
+        ],
+        "upc_barcode": [
+          "76174460285"
+        ]
+      },
+      "manufacturerCategory": "Squares",
+      "category": "measuring",
+      "id": "measuring-46-028",
+      "local": "assets/catalog/photos/measuring-46-028.webp",
+      "thumbnail": "assets/catalog/thumbs/measuring-46-028.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 13944,
+      "thumbnailBytes": 2550,
+      "sha256": "91d53e233311ab8a0bde157735ea8aa5740d62b1bed3d6b6ae3576c3b1e0d9f2",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "42-294",
+      "title": "8-in (203m) 2V Level Torpedo",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/42-294_1_1280.webp",
+      "alt": "Stanley orange plastic torpedo level with three vials, front angle on white background",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/42-294/8-203m-2v-level-torpedo",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Torpedo Level"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "product_material": [
+          "ABS"
+        ],
+        "is_magnetic": [
+          "No"
+        ],
+        "upc_barcode": [
+          "76174422948"
+        ]
+      },
+      "manufacturerCategory": "Levels",
+      "category": "measuring",
+      "id": "measuring-42-294",
+      "local": "assets/catalog/photos/measuring-42-294.webp",
+      "thumbnail": "assets/catalog/thumbs/measuring-42-294.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 16228,
+      "thumbnailBytes": 3674,
+      "sha256": "8cde26cd17b32b24735b3a261d0666476be346622036848ee2cfed7facfa81ec",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "34-760",
+      "title": "POWERWINDER® 100-ft Fiberglass Long Tape",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/34-760_1_1280.webp",
+      "alt": "A Stanley 100-foot measuring tape in a yellow and black casing with a handle and winding mechanism, intended for precise measurement tasks.",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/34-760/powerwinder-100-ft-fiberglass-long-tape",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Tape Measure"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "product_material": [
+          "Fiberglass"
+        ],
+        "blade_material": [
+          "Fiberglass"
+        ],
+        "is_lockable": [
+          "Yes"
+        ],
+        "upc_barcode": [
+          "76174347609"
+        ]
+      },
+      "manufacturerCategory": "Tape Measures",
+      "category": "measuring",
+      "id": "measuring-34-760",
+      "local": "assets/catalog/photos/measuring-34-760.webp",
+      "thumbnail": "assets/catalog/thumbs/measuring-34-760.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 26696,
+      "thumbnailBytes": 7110,
+      "sha256": "c106f3973f73fa99b09edefd42bda7f43c52332e8f9bb4b3da5a45745ef9bde9",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "33-735",
+      "title": "35-ft Tape",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/33-735_1_1280.webp",
+      "alt": "black/yellow STANLEY Tool",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/33-735/35-ft-tape",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Tape Measure"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "blade_material": [
+          "Mylar"
+        ],
+        "is_magnetic": [
+          "No"
+        ],
+        "is_lockable": [
+          "Yes"
+        ],
+        "upc_barcode": [
+          "76174337358",
+          "76174341065"
+        ]
+      },
+      "manufacturerCategory": "Tape Measures",
+      "category": "measuring",
+      "id": "measuring-33-735",
+      "local": "assets/catalog/photos/measuring-33-735.webp",
+      "thumbnail": "assets/catalog/thumbs/measuring-33-735.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 56784,
+      "thumbnailBytes": 15160,
+      "sha256": "bbc3b921fac99b24dd455ce05218f76263307cc402fd9d9d1ab050e82e6ef26f",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1247,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "43-572",
+      "title": "72-in (1800mm) Box Level",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/43-572_1_1280.webp",
+      "alt": "STANLEY 43-572 yellow box level with three vials and two handle grips, angled on white background.",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/43-572/72-1800mm-box-level",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Box Level"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "product_material": [
+          "Aluminum"
+        ],
+        "is_magnetic": [
+          "No"
+        ],
+        "upc_barcode": [
+          "76174435726"
+        ]
+      },
+      "manufacturerCategory": "Levels",
+      "category": "measuring",
+      "id": "measuring-43-572",
+      "local": "assets/catalog/photos/measuring-43-572.webp",
+      "thumbnail": "assets/catalog/thumbs/measuring-43-572.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 11758,
+      "thumbnailBytes": 2738,
+      "sha256": "b703ef27e555c106b7df6220a0f7b74d07359417fb9147803bb93bd64aaddbdd",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "42-470",
+      "title": "1200mm ABS I-Beam Level",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/42-470_1_1280.webp",
+      "alt": "Stanley yellow box level with three bubble vials, straight-on angle, shown on white background",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/42-470/1200mm-abs-i-beam-level",
+      "manufacturerSpecs": {
+        "product_type": [
+          "I-Beam Level"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "product_material": [
+          "Plastic"
+        ],
+        "is_magnetic": [
+          "No"
+        ],
+        "upc_barcode": [
+          "76174424706"
+        ]
+      },
+      "manufacturerCategory": "Levels",
+      "category": "measuring",
+      "id": "measuring-42-470",
+      "local": "assets/catalog/photos/measuring-42-470.webp",
+      "thumbnail": "assets/catalog/thumbs/measuring-42-470.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 6278,
+      "thumbnailBytes": 1732,
+      "sha256": "d41e3dd56b8fba36ebdc7fad2f8d581d7ba98d97cc2e88b33e3b286a07f37c8f",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DWAWDF24",
+      "title": "1 1/2\" Forstener Bit",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DWAWDF24_1_1280.webp",
+      "alt": "A DEWALT 1-1/2 inch Forstner drill bit with a silver shaft and black cutting edge, designed for precise wood boring.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dwawdf24/1-12-forstener-bit",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Drill Bit"
+        ]
+      },
+      "manufacturerCategory": "Drill & Impact Bits",
+      "category": "accessories",
+      "id": "accessories-dwawdf24",
+      "local": "assets/catalog/photos/accessories-dwawdf24.webp",
+      "thumbnail": "assets/catalog/thumbs/accessories-dwawdf24.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 8986,
+      "thumbnailBytes": 2196,
+      "sha256": "20710b4ff2d40405b7f58614f9596c57f2b85396df51ec29df725475fa7f08b6",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DWA47223",
+      "title": "POWERSHIFT™ 12 in. XP Segmented Diamond* Blade",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DWA47223_1_1280.webp",
+      "alt": "DEWALT 12-inch all-purpose circular saw blade for cutting concrete, brick, and stone, yellow label.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dwa47223/powershift-12-xp-segmented-diamond-blade",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Saw Blade"
+        ]
+      },
+      "manufacturerCategory": "Saw Blades",
+      "category": "accessories",
+      "id": "accessories-dwa47223",
+      "local": "assets/catalog/photos/accessories-dwa47223.webp",
+      "thumbnail": "assets/catalog/thumbs/accessories-dwa47223.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 60616,
+      "thumbnailBytes": 14776,
+      "sha256": "7d4da3581ec1d32076bd54be836ed2be2598e746d43179ef2320721385a20076",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DWAWDEA16",
+      "title": "ELITE SERIES™ 1\" X 18\" BI-metal Auger Bits",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DWAWDEA16_1_1280.webp",
+      "alt": "A DEWALT branded auger drill bit with a spiral design, intended for wood drilling. The bit is black with a yellow section near the base containing the brand label.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dwawdea16/elite-series-1-x-18-bi-metal-auger-bits",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Auger Drill Bit"
+        ]
+      },
+      "manufacturerCategory": "Drill & Impact Bits",
+      "category": "accessories",
+      "id": "accessories-dwawdea16",
+      "local": "assets/catalog/photos/accessories-dwawdea16.webp",
+      "thumbnail": "assets/catalog/thumbs/accessories-dwawdea16.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 6856,
+      "thumbnailBytes": 1776,
+      "sha256": "e0188935457ba9b1569cce904207450c9fb5093661e426a9e97c386981989bac",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DWA47225",
+      "title": "POWERSHIFT™ 12 in. XP4 Segmented Diamond* Blade",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DWA47225_1_1280.webp",
+      "alt": "DEWALT 12-inch all-purpose XP4 circular saw blade for masonry, for use with power tools.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dwa47225/powershift-12-xp4-segmented-diamond-blade",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Saw Blade"
+        ]
+      },
+      "manufacturerCategory": "Saw Blades",
+      "category": "accessories",
+      "id": "accessories-dwa47225",
+      "local": "assets/catalog/photos/accessories-dwa47225.webp",
+      "thumbnail": "assets/catalog/thumbs/accessories-dwa47225.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 62596,
+      "thumbnailBytes": 15084,
+      "sha256": "19ddb125598d732b9b7b7e5fe74c0683318ea48217a3e8531a03da1791e8c642",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DWAWDEA06",
+      "title": "ELITE SERIES™ 3/8\" X 18\" BI-metal Auger Bits",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DWAWDEA06_1_1280.webp",
+      "alt": "A DEWALT branded long black auger drill bit, shown vertically on a white background. The bit has a spiral design and a hex shank.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dwawdea06/elite-series-38-x-18-bi-metal-auger-bits",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Auger Drill Bit"
+        ]
+      },
+      "manufacturerCategory": "Drill & Impact Bits",
+      "category": "accessories",
+      "id": "accessories-dwawdea06",
+      "local": "assets/catalog/photos/accessories-dwawdea06.webp",
+      "thumbnail": "assets/catalog/thumbs/accessories-dwawdea06.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 5282,
+      "thumbnailBytes": 1326,
+      "sha256": "c8dc894506609a603597fe5ff74dd8adfa23540e4ed840123a13ff6337aae8b8",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DW812DADO",
+      "title": "Stacked Dado Sets",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DW812DADO_1_1280.webp",
+      "alt": "A DeWalt brand dado saw blade set, including a yellow circular saw blade marked 8 1/8 inches (207 mm) with 12 carbide teeth, accompanied by two metal components: a silver spacer disc and a stacked chipper blade. The items are arranged on a white background.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dw812dado/stacked-dado-sets",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Table Saw Blade"
+        ],
+        "polaris_power_source": [
+          "Unpowered"
+        ],
+        "assembled_product_height": [
+          "2.5-in"
+        ],
+        "assembled_product_length": [
+          "11.7-in"
+        ],
+        "assembled_product_width": [
+          "9.5-in"
+        ],
+        "assembled_product_weight": [
+          "6.67-lbs"
+        ],
+        "piece_count": [
+          "15"
+        ],
+        "upc_barcode": [
+          "885911593052"
+        ]
+      },
+      "manufacturerCategory": "Saw Blades",
+      "category": "accessories",
+      "id": "accessories-dw812dado",
+      "local": "assets/catalog/photos/accessories-dw812dado.webp",
+      "thumbnail": "assets/catalog/thumbs/accessories-dw812dado.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 60238,
+      "thumbnailBytes": 12684,
+      "sha256": "8b8e87fcdcfc9a762420ea8a80dcc9774b804edbf85d82768fd8afc20d948ec3",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DWAWDEA08",
+      "title": "ELITE SERIES™ 1/2\" X 18\" BI-metal Auger Bits",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DWAWDEA08_1_1280.webp",
+      "alt": "A DEWALT branded long, black auger drill bit with a spiral design and a hex shank, shown against a white background.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dwawdea08/elite-series-12-x-18-bi-metal-auger-bits",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Auger Drill Bit"
+        ]
+      },
+      "manufacturerCategory": "Drill & Impact Bits",
+      "category": "accessories",
+      "id": "accessories-dwawdea08",
+      "local": "assets/catalog/photos/accessories-dwawdea08.webp",
+      "thumbnail": "assets/catalog/thumbs/accessories-dwawdea08.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 5590,
+      "thumbnailBytes": 1412,
+      "sha256": "96a32d1439f11cdcbe43a5fee989695a1cd316089c4bcb3270f87ef862277f65",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DWA271424L",
+      "title": "7-1/4-In. 24T Circular Saw Blade",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DWA271424L_1_1280.webp",
+      "alt": "A DEWALT circular saw blade, model DWA271424, yellow in color, with 24 carbide-tipped teeth, 7-1/4 inch (184 mm) diameter, and 5/8 inch (16 mm) arbor. The blade is labeled for framing and features safety instructions and rotation direction markings.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dwa271424l/7-14-24t-circular-saw-blade",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Circular Saw Blade"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "piece_count": [
+          "1"
+        ],
+        "blade_material": [
+          "Carbide Tipped"
+        ],
+        "blade_type": [
+          "Circular"
+        ],
+        "blade_diameter": [
+          "714.0-in"
+        ],
+        "number_of_teeth": [
+          "24"
+        ],
+        "arbor_size": [
+          "58.0 in"
+        ],
+        "application_type": [
+          "Cutting"
+        ],
+        "use_with": [
+          "Wood"
+        ],
+        "product_material": [
+          "Carbide Tipped"
+        ],
+        "assembled_product_length": [
+          "8.3-in"
+        ],
+        "assembled_product_weight": [
+          "0.54-lbs"
+        ],
+        "assembled_product_width": [
+          "7.3-in"
+        ],
+        "assembled_product_height": [
+          "0.1-in"
+        ],
+        "upc_barcode": [
+          "885912000000"
+        ]
+      },
+      "manufacturerCategory": "Saw Blades",
+      "category": "accessories",
+      "id": "accessories-dwa271424l",
+      "local": "assets/catalog/photos/accessories-dwa271424l.webp",
+      "thumbnail": "assets/catalog/thumbs/accessories-dwa271424l.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 70744,
+      "thumbnailBytes": 17048,
+      "sha256": "c53d9b0c83b83b13a0c090d9971d8dedbe30d191ee6620fc3bfd86a712498d10",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DWAWDEA12",
+      "title": "ELITE SERIES™ 3/4\" X 18\" BI-metal Auger Bits",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DWAWDEA12_1_1280.webp",
+      "alt": "A single long black auger drill bit with a spiral design and a labeled yellow section near the base, photographed against a plain white background.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dwawdea12/elite-series-34-x-18-bi-metal-auger-bits",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Auger Drill Bit"
+        ]
+      },
+      "manufacturerCategory": "Drill & Impact Bits",
+      "category": "accessories",
+      "id": "accessories-dwawdea12",
+      "local": "assets/catalog/photos/accessories-dwawdea12.webp",
+      "thumbnail": "assets/catalog/thumbs/accessories-dwawdea12.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 6260,
+      "thumbnailBytes": 1636,
+      "sha256": "f565ba19109139d6065d7a94612c8f6ee485a4ad63775216ef36c2447e6509e7",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DWA7739",
+      "title": "7 in. 48T Stainless Steel Metal Cutting Saw Blade",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DWA7739_1_1280.webp",
+      "alt": "A DEWALT branded circular saw blade for metal cutting, specifically designed for stainless steel. The blade is 12 inches (305 mm) in diameter with 80 teeth.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dwa7739/7-48t-stainless-steel-metal-cutting-saw-blade",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Saw Blade"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "piece_count": [
+          "1"
+        ],
+        "blade_material": [
+          "Carbide Tipped"
+        ],
+        "blade_type": [
+          "Miter Saw"
+        ],
+        "blade_diameter": [
+          "12-in"
+        ],
+        "number_of_teeth": [
+          "80"
+        ],
+        "kerf_thickness": [
+          "0.085-in"
+        ],
+        "application_type": [
+          "Cutting"
+        ],
+        "use_with": [
+          "Metal"
+        ],
+        "product_material": [
+          "Carbide Tipped"
+        ],
+        "assembled_product_length": [
+          "13.63-in"
+        ],
+        "assembled_product_weight": [
+          "2.7-lbs"
+        ],
+        "assembled_product_width": [
+          "0.5-in"
+        ],
+        "assembled_product_height": [
+          "15.63-in"
+        ],
+        "upc_barcode": [
+          "28877345444"
+        ]
+      },
+      "manufacturerCategory": "Saw Blades",
+      "category": "accessories",
+      "id": "accessories-dwa7739",
+      "local": "assets/catalog/photos/accessories-dwa7739.webp",
+      "thumbnail": "assets/catalog/thumbs/accessories-dwa7739.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 83826,
+      "thumbnailBytes": 14048,
+      "sha256": "9f71f81be041604b792bf4a24b3a1de54cbbdbeac089b8bea4e806a0b6524324",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1276
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DWAWDEA14",
+      "title": "ELITE SERIES™ 7/8\" X 18\" BI-metal Auger Bits",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DWAWDEA14_1_1280.webp",
+      "alt": "A DEWALT branded auger drill bit with a spiral design, intended for use with power tools for drilling holes in wood.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dwawdea14/elite-series-78-x-18-bi-metal-auger-bits",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Auger Drill Bit"
+        ]
+      },
+      "manufacturerCategory": "Drill & Impact Bits",
+      "category": "accessories",
+      "id": "accessories-dwawdea14",
+      "local": "assets/catalog/photos/accessories-dwawdea14.webp",
+      "thumbnail": "assets/catalog/thumbs/accessories-dwawdea14.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 6962,
+      "thumbnailBytes": 1782,
+      "sha256": "bf0f9b47c77a15c82ce4d4f16475f13e572b75e094fec9243382573f5b06ffa8",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DW7114PT",
+      "title": "7-1/4-in. 40t precision trim miter saw blade",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DW7114PT_1_1280.webp",
+      "alt": "Yellow circular saw blade labeled 'DEWALT' with specifications including 7 1/4 inch (184mm) diameter, 40 carbide teeth, and fine finish. The blade also displays multilingual warnings and usage instructions for maximum RPM and intended use on miter saws.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dw7114pt/7-14-40t-precision-trim-miter-saw-blade",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Saw Blade"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ],
+        "piece_count": [
+          "1"
+        ],
+        "blade_material": [
+          "Carbide Tipped"
+        ],
+        "blade_type": [
+          "Miter Saw"
+        ],
+        "blade_diameter": [
+          "714.0-in"
+        ],
+        "number_of_teeth": [
+          "40"
+        ],
+        "kerf_thickness": [
+          "0.063-in"
+        ],
+        "arbor_size": [
+          "58.0 in"
+        ],
+        "application_type": [
+          "Cutting"
+        ],
+        "use_with": [
+          "Wood"
+        ],
+        "product_material": [
+          "Carbide Tipped"
+        ],
+        "assembled_product_length": [
+          "9.8-in"
+        ],
+        "assembled_product_weight": [
+          "0.59-lbs"
+        ],
+        "assembled_product_width": [
+          "9.0-in"
+        ],
+        "assembled_product_height": [
+          "0.3-in"
+        ],
+        "upc_barcode": [
+          "885911394840"
+        ]
+      },
+      "manufacturerCategory": "Saw Blades",
+      "category": "accessories",
+      "id": "accessories-dw7114pt",
+      "local": "assets/catalog/photos/accessories-dw7114pt.webp",
+      "thumbnail": "assets/catalog/thumbs/accessories-dw7114pt.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 54018,
+      "thumbnailBytes": 12720,
+      "sha256": "d98f2cc92ec58d8ea728d68986c4386987d9a3d9cd26b439051006b479c3f7c5",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DWBN18PP",
+      "title": "18-Gauge Brad Nail Project Pack",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DWBN18PP_1_1280.webp",
+      "alt": "A box of DEWALT 18 gauge brad nails (model DWBN18PP) with three stacks of silver brad nails displayed next to the box.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dwbn18pp/18-gauge-brad-nail-project-pack",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Brad Nails"
+        ],
+        "product_material": [
+          "Steel"
+        ],
+        "assembled_product_length": [
+          "2.19-in"
+        ],
+        "assembled_product_width": [
+          "0.56-in"
+        ],
+        "assembled_product_weight": [
+          "0.6-lbs"
+        ],
+        "upc_barcode": [
+          "885912000000"
+        ]
+      },
+      "manufacturerCategory": "Nails & Staples",
+      "category": "fasteners",
+      "id": "fasteners-dwbn18pp",
+      "local": "assets/catalog/photos/fasteners-dwbn18pp.webp",
+      "thumbnail": "assets/catalog/thumbs/fasteners-dwbn18pp.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 71908,
+      "thumbnailBytes": 9668,
+      "sha256": "bf61e3567860dd283f9b06f7d56c0dc4a9fa198bf3c289b688db8b28b4ad5998",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "TRA706-5C",
+      "title": "3/8-in Heavy Duty Staples (5000 Pk)",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/TRA706-5C_1_1280.webp",
+      "alt": "Photo of STANLEY TRA706-5C heavy duty staples pack, 5,000 count, 3/8 inch size, front angle, product label visible.",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/tra706-5c/38-heavy-duty-staples-5000-pk",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Staples"
+        ],
+        "product_material": [
+          "Steel"
+        ],
+        "piece_count": [
+          "5000"
+        ],
+        "upc_barcode": [
+          "45731043636"
+        ],
+        "individual_or_set": [
+          "Set"
+        ]
+      },
+      "manufacturerCategory": "Fastening Tool Accessories",
+      "category": "fasteners",
+      "id": "fasteners-tra706-5c",
+      "local": "assets/catalog/photos/fasteners-tra706-5c.webp",
+      "thumbnail": "assets/catalog/thumbs/fasteners-tra706-5c.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 55546,
+      "thumbnailBytes": 11966,
+      "sha256": "bef49f8ea37842422ae38f88cb3f37fcae759a32b070e8216b06504c795f4e92",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DCS16200",
+      "title": "2-1/2 in. 16ga Straight Finish Nail (2500 Pk)",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DCS16200_1_1280.webp",
+      "alt": "A yellow and black box of DEWALT finish nails, model DCS16200, with a stack of silver nails placed beside the box. The packaging displays details such as size 2 inch, gauge 16, and quantity of 2500 nails.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dcs16200/2-12-16ga-straight-finish-nail-2500-pk",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Finishing Nails"
+        ],
+        "individual_or_set": [
+          "Set"
+        ],
+        "piece_count": [
+          "2500"
+        ],
+        "nail_gun_angle": [
+          "0°"
+        ],
+        "nail_gauge": [
+          "16"
+        ],
+        "head_style": [
+          "Straight"
+        ],
+        "product_finish": [
+          "Metallic"
+        ],
+        "assembled_product_length": [
+          "4.1-in"
+        ],
+        "assembled_product_weight": [
+          "4.1-lbs"
+        ],
+        "assembled_product_width": [
+          "3.28-in"
+        ],
+        "assembled_product_height": [
+          "2.31-in"
+        ],
+        "upc_barcode": [
+          "28877488387"
+        ]
+      },
+      "manufacturerCategory": "Nails & Staples",
+      "category": "fasteners",
+      "id": "fasteners-dcs16200",
+      "local": "assets/catalog/photos/fasteners-dcs16200.webp",
+      "thumbnail": "assets/catalog/thumbs/fasteners-dcs16200.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 64330,
+      "thumbnailBytes": 12892,
+      "sha256": "6077259c1a784bc14b447f714e3653233e817c93613ec9e72f823f04997c0e0f",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1279,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DCA15200-2",
+      "title": "15 gauge 2-in. 34-degree da style angled finish nails (2500-pack)",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DCA15200-2_1_1280.webp",
+      "alt": "A yellow and black DEWALT box containing angled finish nails for nailers, model DCA15200-2, with a strip of metal nails shown next to the box.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dca15200-2/15-gauge-2-34-degree-da-style-angled-finish-nails-2500-pack",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Finishing Nails"
+        ],
+        "individual_or_set": [
+          "Set"
+        ],
+        "piece_count": [
+          "2500"
+        ],
+        "nail_gun_angle": [
+          "34°"
+        ],
+        "nail_gauge": [
+          "15"
+        ],
+        "head_style": [
+          "Flat"
+        ],
+        "product_finish": [
+          "Coated"
+        ],
+        "assembled_product_length": [
+          "11.4-in"
+        ],
+        "assembled_product_weight": [
+          "5.9-lbs"
+        ],
+        "assembled_product_width": [
+          "2.1-in"
+        ],
+        "assembled_product_height": [
+          "2.0-in"
+        ],
+        "upc_barcode": [
+          "885911414111"
+        ]
+      },
+      "manufacturerCategory": "Nails & Staples",
+      "category": "fasteners",
+      "id": "fasteners-dca15200-2",
+      "local": "assets/catalog/photos/fasteners-dca15200-2.webp",
+      "thumbnail": "assets/catalog/thumbs/fasteners-dca15200-2.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 45170,
+      "thumbnailBytes": 8376,
+      "sha256": "7a474d8f5fa04ffd237fadae03901829e16e059e4ee77e5e4f126afae85dc1be",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DWC10P120D",
+      "title": "3-in X 0.120-in 15 degree smooth brite coil nails (2700-pack)",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DWC10P120D_1_1280.webp",
+      "alt": "A box of DEWALT coil framing nails with a coil of nails displayed next to the box. The box features DEWALT branding and product details in multiple languages.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dwc10p120d/3-x-0120-15-degree-smooth-brite-coil-nails-2700-pack",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Framing Nails"
+        ],
+        "individual_or_set": [
+          "Set"
+        ],
+        "piece_count": [
+          "2700"
+        ],
+        "nail_gun_angle": [
+          "15°"
+        ],
+        "head_style": [
+          "Round"
+        ],
+        "product_finish": [
+          "Bright Finish"
+        ],
+        "assembled_product_length": [
+          "13.87-in"
+        ],
+        "assembled_product_weight": [
+          "27.08-lbs"
+        ],
+        "assembled_product_width": [
+          "9.83-in"
+        ],
+        "assembled_product_height": [
+          "7.7-in"
+        ],
+        "upc_barcode": [
+          "885911407816"
+        ]
+      },
+      "manufacturerCategory": "Nails & Staples",
+      "category": "fasteners",
+      "id": "fasteners-dwc10p120d",
+      "local": "assets/catalog/photos/fasteners-dwc10p120d.webp",
+      "thumbnail": "assets/catalog/thumbs/fasteners-dwc10p120d.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 55718,
+      "thumbnailBytes": 10234,
+      "sha256": "09667ce8c6d2c7d6df2ca8cb2fe22df0e5408affad16fc0087a3feb3df4cf371",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DWPN23138",
+      "title": "1-1/2 in. 23GA, Pin Nail, Chisel Point (2,000 PK)",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DWPN23138_1_1280.webp",
+      "alt": "A close-up image of a pack of DEWALT brad nails arranged side by side, showing the thin, yellow metallic strips.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dwpn23138/1-12-23ga-pin-nail-chisel-point-2000-pk",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Brad Nails"
+        ],
+        "product_finish": [
+          "Coated"
+        ],
+        "piece_count": [
+          "2000"
+        ],
+        "assembled_product_height": [
+          "0.7-in"
+        ],
+        "assembled_product_length": [
+          "3.0-in"
+        ],
+        "assembled_product_weight": [
+          "0.4-lbs"
+        ],
+        "assembled_product_width": [
+          "1.6-in"
+        ],
+        "upc_barcode": [
+          "885912000000"
+        ],
+        "individual_or_set": [
+          "Set"
+        ]
+      },
+      "manufacturerCategory": "Nails & Staples",
+      "category": "fasteners",
+      "id": "fasteners-dwpn23138",
+      "local": "assets/catalog/photos/fasteners-dwpn23138.webp",
+      "thumbnail": "assets/catalog/thumbs/fasteners-dwpn23138.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 42326,
+      "thumbnailBytes": 6684,
+      "sha256": "1602fcdf402b13d3f233175b6db99dfd09939b5e75cd0507d86ba6d1e98320dd",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1153,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DWC8P99D",
+      "title": "2-1/2-in X 0.099-in 15 Degree Smooth Brite Coil Nails (3600-Pack)",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DWC8P99D_1_1280.webp",
+      "alt": "A box of DEWALT coil framing nails with a coil of nails placed beside it. The box is black and yellow, with the DEWALT logo and product details printed on the front and sides.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dwc8p99d/2-12-x-0099-15-degree-smooth-brite-coil-nails-3600-pack",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Nails"
+        ],
+        "individual_or_set": [
+          "Set"
+        ],
+        "piece_count": [
+          "3600"
+        ],
+        "head_style": [
+          "Round"
+        ],
+        "product_finish": [
+          "Brite"
+        ],
+        "assembled_product_length": [
+          "14.0-in"
+        ],
+        "assembled_product_weight": [
+          "20.25-lbs"
+        ],
+        "assembled_product_width": [
+          "9.63-in"
+        ],
+        "assembled_product_height": [
+          "6.0-in"
+        ],
+        "upc_barcode": [
+          "885911415125"
+        ]
+      },
+      "manufacturerCategory": "Nails & Staples",
+      "category": "fasteners",
+      "id": "fasteners-dwc8p99d",
+      "local": "assets/catalog/photos/fasteners-dwc8p99d.webp",
+      "thumbnail": "assets/catalog/thumbs/fasteners-dwc8p99d.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 53714,
+      "thumbnailBytes": 10134,
+      "sha256": "931602de8d3b4c0fcdc519677934aefe5cbdf453f91f8fb26fdd709128f52cac",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DCS16125",
+      "title": "2-1/2 in. 16ga Straight Finish Nail (2500 Pk)",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DCS16125_1_1280.webp",
+      "alt": "A box of DEWALT 16 gauge straight finish nails, 1-1/4 inch length, pack of 2500 nails, with a visible set of nails next to the box.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dcs16125/2-12-16ga-straight-finish-nail-2500-pk",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Finishing Nails"
+        ],
+        "individual_or_set": [
+          "Set"
+        ],
+        "piece_count": [
+          "2500"
+        ],
+        "nail_gun_angle": [
+          "0°"
+        ],
+        "nail_gauge": [
+          "16"
+        ],
+        "head_style": [
+          "Straight"
+        ],
+        "product_finish": [
+          "Galvanized/Silver"
+        ],
+        "assembled_product_length": [
+          "3.2-in"
+        ],
+        "assembled_product_weight": [
+          "2.75-lbs"
+        ],
+        "assembled_product_width": [
+          "3.87-in"
+        ],
+        "assembled_product_height": [
+          "1.59-in"
+        ],
+        "upc_barcode": [
+          "28877488325"
+        ]
+      },
+      "manufacturerCategory": "Nails & Staples",
+      "category": "fasteners",
+      "id": "fasteners-dcs16125",
+      "local": "assets/catalog/photos/fasteners-dcs16125.webp",
+      "thumbnail": "assets/catalog/thumbs/fasteners-dcs16125.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 60274,
+      "thumbnailBytes": 12258,
+      "sha256": "3da32d888b6f0db79ab162efd7f9db5d1c1eccc4d40e86d9aa420642dce7e2fe",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1048
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DWS16D131-FH",
+      "title": "3-1/2-in X 0.131-in Smooth shank brite 28 degree wire weld framing nails (2000-pack)",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DWS16D131-FH_1_1280.webp",
+      "alt": "A close-up view of a strip of angled collated framing nails, with each nail aligned in parallel and joined by a thin wire.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dws16d131-fh/3-12-x-0131-smooth-shank-brite-28-degree-wire-weld-framing-nails-2000-pack",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Framing Nails"
+        ],
+        "individual_or_set": [
+          "Set"
+        ],
+        "piece_count": [
+          "2000"
+        ],
+        "nail_gun_angle": [
+          "28°"
+        ],
+        "head_style": [
+          "Round"
+        ],
+        "product_finish": [
+          "Galvanized"
+        ],
+        "assembled_product_length": [
+          "10.5-in"
+        ],
+        "assembled_product_weight": [
+          "26.42-lbs"
+        ],
+        "assembled_product_width": [
+          "5.73-in"
+        ],
+        "assembled_product_height": [
+          "4.53-in"
+        ],
+        "upc_barcode": [
+          "885911473279"
+        ]
+      },
+      "manufacturerCategory": "Nails & Staples",
+      "category": "fasteners",
+      "id": "fasteners-dws16d131-fh",
+      "local": "assets/catalog/photos/fasteners-dws16d131-fh.webp",
+      "thumbnail": "assets/catalog/thumbs/fasteners-dws16d131-fh.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 77474,
+      "thumbnailBytes": 14370,
+      "sha256": "a7e309bb93d70e4c61451928ae8996561a9ad440a35eaecf1eaa7efdcba39984",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DCA15250G-2",
+      "title": "15 gauge 2-1/2-in. Galvanized 34-degree da style angled finish nails (2500-pack)",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DCA15250G-2_1_1280.webp",
+      "alt": "A yellow and black DEWALT box of angled finish nails with several silver nails displayed in front of the box. The product is labeled DCA15250G-2 and is intended for use with nailers.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dca15250g-2/15-gauge-2-12-galvanized-34-degree-da-style-angled-finish-nails-2500-pack",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Finishing Nails"
+        ],
+        "individual_or_set": [
+          "Set"
+        ],
+        "piece_count": [
+          "2500"
+        ],
+        "nail_gun_angle": [
+          "34°"
+        ],
+        "nail_gauge": [
+          "15"
+        ],
+        "head_style": [
+          "Flat"
+        ],
+        "product_finish": [
+          "Galvanized"
+        ],
+        "assembled_product_length": [
+          "11.5-in"
+        ],
+        "assembled_product_weight": [
+          "7.35-lbs"
+        ],
+        "assembled_product_width": [
+          "2.2-in"
+        ],
+        "assembled_product_height": [
+          "2.38-in"
+        ],
+        "upc_barcode": [
+          "885911414142"
+        ]
+      },
+      "manufacturerCategory": "Nails & Staples",
+      "category": "fasteners",
+      "id": "fasteners-dca15250g-2",
+      "local": "assets/catalog/photos/fasteners-dca15250g-2.webp",
+      "thumbnail": "assets/catalog/thumbs/fasteners-dca15250g-2.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 58836,
+      "thumbnailBytes": 10264,
+      "sha256": "727f23b8b16dad97f5e5eff1a3318024549969638de91e5fbe90af1ddefb6e6d",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DW16S2-25GAL",
+      "title": "3/4-in. 1-in Crown galvanized construction staple (16 gauge)",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DW16S2-25GAL_1_1280.webp",
+      "alt": "A box of DEWALT 16 gauge wide crown staples, model DW16S2-25GAL, with a stack of staples displayed next to the box. The box has a yellow and black design and includes details about the staple size and usage.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dw16s2-25gal/34-1-crown-galvanized-construction-staple-16-gauge",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Staples"
+        ],
+        "product_finish": [
+          "Galvanized"
+        ],
+        "product_material": [
+          "Steel"
+        ],
+        "piece_count": [
+          "2000"
+        ],
+        "assembled_product_height": [
+          "3.44-in"
+        ],
+        "assembled_product_length": [
+          "6.13-in"
+        ],
+        "assembled_product_weight": [
+          "4.65-lbs"
+        ],
+        "assembled_product_width": [
+          "4.7-in"
+        ],
+        "upc_barcode": [
+          "885911406833"
+        ],
+        "individual_or_set": [
+          "Set"
+        ]
+      },
+      "manufacturerCategory": "Nails & Staples",
+      "category": "fasteners",
+      "id": "fasteners-dw16s2-25gal",
+      "local": "assets/catalog/photos/fasteners-dw16s2-25gal.webp",
+      "thumbnail": "assets/catalog/thumbs/fasteners-dw16s2-25gal.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 67330,
+      "thumbnailBytes": 13184,
+      "sha256": "ec8eb41c2da29497d29f847de62cfb5c0e81263b0597ce4d1be6cb0fb3834c37",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "DeWALT",
+      "sku": "DNS18150-2",
+      "title": "1-1/2 in. 18ga 1/4 in. Crown (2500 Pk)",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DNS18150-2_1_1280.webp",
+      "alt": "A box of DEWALT narrow crown staples, with a stack of metal staples shown outside the box. The packaging is yellow and black with product information visible.",
+      "sourcePage": "https://www.dewalt.com/en-us/product/dns18150-2/1-12-18ga-14-crown-2500-pk",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Staples"
+        ],
+        "product_finish": [
+          "Coated"
+        ],
+        "product_material": [
+          "Steel"
+        ],
+        "piece_count": [
+          "2500"
+        ],
+        "assembled_product_height": [
+          "1.75-in"
+        ],
+        "assembled_product_length": [
+          "5.63-in"
+        ],
+        "assembled_product_weight": [
+          "3.75-lbs"
+        ],
+        "assembled_product_width": [
+          "3.69-in"
+        ],
+        "upc_barcode": [
+          "885911414036"
+        ],
+        "individual_or_set": [
+          "Set"
+        ]
+      },
+      "manufacturerCategory": "Nails & Staples",
+      "category": "fasteners",
+      "id": "fasteners-dns18150-2",
+      "local": "assets/catalog/photos/fasteners-dns18150-2.webp",
+      "thumbnail": "assets/catalog/thumbs/fasteners-dns18150-2.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 47248,
+      "thumbnailBytes": 9148,
+      "sha256": "537d2068e115dd8f5d6951b607c4e1103b7569f88718a849ed403bcc0e2faf6e",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "title": "V33 Renovation Worktop Protection",
+      "image": "https://www.v33.co.uk/wp-content/uploads/2022/06/3153895181624_08c.png",
+      "brand": "V33",
+      "sku": "3153895181624",
+      "alt": "V33 Renovation Worktop Protection",
+      "sourcePage": "https://www.v33.co.uk/renovation-cupboard-worktop/",
+      "category": "coatings",
+      "id": "coatings-3153895181624",
+      "sourceDimensions": [
+        2000,
+        2000
+      ],
+      "local": "assets/catalog/photos/coatings-3153895181624.webp",
+      "thumbnail": "assets/catalog/thumbs/coatings-3153895181624.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 49984,
+      "thumbnailBytes": 11852,
+      "sha256": "1e45d1f3b224d0ff074a8edb3bc2190715abe91f3dd64307ee24a959ad7000b3",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted."
+    },
+    {
+      "title": "Soudagum Hydro",
+      "image": "https://www.soudal.co.uk/sites/default/files/soudal_api/image/900020762/131632-Soudagum-Hydro.jpg",
+      "url": "https://www.soudal.co.uk",
+      "brand": "Soudal",
+      "sourcePage": "https://www.soudal.co.uk/pro/products/coatings",
+      "sku": "131632",
+      "category": "coatings",
+      "id": "coatings-131632",
+      "local": "assets/catalog/photos/coatings-131632.webp",
+      "thumbnail": "assets/catalog/thumbs/coatings-131632.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 55850,
+      "thumbnailBytes": 11984,
+      "sha256": "07dcfedfd0df9294eada37cef02f22fdde7df21178cf8530138f63f9ba7abb1c",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1181,
+        916
+      ]
+    },
+    {
+      "title": "Primer 100",
+      "image": "https://www.soudal.co.uk/sites/default/files/soudal_api/image/900021347/123012-Primer-100.jpg",
+      "url": "https://www.soudal.co.uk",
+      "brand": "Soudal",
+      "sourcePage": "https://www.soudal.co.uk/pro/products/cleaners-sprays-and-primers",
+      "sku": "123012",
+      "category": "coatings",
+      "id": "coatings-123012",
+      "local": "assets/catalog/photos/coatings-123012.webp",
+      "thumbnail": "assets/catalog/thumbs/coatings-123012.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 29724,
+      "thumbnailBytes": 7028,
+      "sha256": "eba0c65e9fdad629a916754f773076d10480808390a2db718dd78c16849a9318",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        425,
+        1181
+      ]
+    },
+    {
+      "title": "V33 Wall Tile & Panelling Paint",
+      "image": "https://www.v33.co.uk/wp-content/uploads/2022/06/3153895181334_08c-copy-e1755169594328.png",
+      "brand": "V33",
+      "sku": "3153895181334",
+      "alt": "2L tub of V33 Wall Tile & Panelling Paint in white satin finish, showing no undercoat required label. With Aquaresist Technology - waterproof, durable formula for high resistance to moisture, stains and everyday wear and cleaning products.",
+      "sourcePage": "https://www.v33.co.uk/renovation-cupboard-worktop/",
+      "category": "coatings",
+      "id": "coatings-3153895181334",
+      "sourceDimensions": [
+        1887,
+        1893
+      ],
+      "local": "assets/catalog/photos/coatings-3153895181334.webp",
+      "thumbnail": "assets/catalog/thumbs/coatings-3153895181334.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 41446,
+      "thumbnailBytes": 9420,
+      "sha256": "04c98b71c68e4086ad8ef4a6e25da16eb82352c181283168e7dac0f82bf84efa",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted."
+    },
+    {
+      "title": "Soudagum Hydro Kit",
+      "image": "https://www.soudal.co.uk/sites/default/files/soudal_api/image/900020683/134553-Soudagum-Hydro-Kit.jpg",
+      "url": "https://www.soudal.co.uk",
+      "brand": "Soudal",
+      "sourcePage": "https://www.soudal.co.uk/pro/products/coatings",
+      "sku": "134553",
+      "category": "coatings",
+      "id": "coatings-134553",
+      "local": "assets/catalog/photos/coatings-134553.webp",
+      "thumbnail": "assets/catalog/thumbs/coatings-134553.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 53626,
+      "thumbnailBytes": 10568,
+      "sha256": "21f674e979c0f3110fa21b4c3634a2aaf16d9b41df202c45a61f8950f7443a90",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1181,
+        757
+      ]
+    },
+    {
+      "title": "Primer 150",
+      "image": "https://www.soudal.co.uk/sites/default/files/soudal_api/image/900021125/123011-Primer-150.jpg",
+      "url": "https://www.soudal.co.uk",
+      "brand": "Soudal",
+      "sourcePage": "https://www.soudal.co.uk/pro/products/cleaners-sprays-and-primers",
+      "sku": "123011",
+      "category": "coatings",
+      "id": "coatings-123011",
+      "local": "assets/catalog/photos/coatings-123011.webp",
+      "thumbnail": "assets/catalog/thumbs/coatings-123011.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 27454,
+      "thumbnailBytes": 6690,
+      "sha256": "29b8230ca5ac3513eb39f0bcb7cc109cc32ac8ebe6c908f522273c7fe4a04ee3",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        425,
+        1181
+      ]
+    },
+    {
+      "title": "V33 Floor & Stairs Paint",
+      "image": "https://www.v33.co.uk/wp-content/uploads/2022/06/3153895181556_08c-copy.png",
+      "brand": "V33",
+      "sku": "3153895181556",
+      "alt": "2L tub of V33 Floor & Stairs Paint in white satin finish, showing no undercoat required label. With durable, hardwearing formula for high resistance to scratches, stains and heavy foot traffic.",
+      "sourcePage": "https://www.v33.co.uk/renovation-cupboard-worktop/",
+      "category": "coatings",
+      "id": "coatings-3153895181556",
+      "sourceDimensions": [
+        2000,
+        2000
+      ],
+      "local": "assets/catalog/photos/coatings-3153895181556.webp",
+      "thumbnail": "assets/catalog/thumbs/coatings-3153895181556.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 33734,
+      "thumbnailBytes": 7936,
+      "sha256": "477e02e50ec0183a02da055efa6db921f768774515b958a3c05040ad7c172191",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted."
+    },
+    {
+      "title": "Water Stop",
+      "image": "https://www.soudal.co.uk/sites/default/files/soudal_api/image/900020756/112595-Water-Stop.jpg",
+      "url": "https://www.soudal.co.uk",
+      "brand": "Soudal",
+      "sourcePage": "https://www.soudal.co.uk/pro/products/coatings",
+      "sku": "112595",
+      "category": "coatings",
+      "id": "coatings-112595",
+      "local": "assets/catalog/photos/coatings-112595.webp",
+      "thumbnail": "assets/catalog/thumbs/coatings-112595.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 55698,
+      "thumbnailBytes": 12818,
+      "sha256": "4e920961a0933bbb8d574f79600efae5161345344c7472cacc7043f38938d952",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1040,
+        1181
+      ]
+    },
+    {
+      "title": "Aluprep",
+      "image": "https://www.soudal.co.uk/sites/default/files/soudal_api/image/900019596/122255-Aluprep.jpg",
+      "url": "https://www.soudal.co.uk",
+      "brand": "Soudal",
+      "sourcePage": "https://www.soudal.co.uk/pro/products/cleaners-sprays-and-primers",
+      "sku": "122255",
+      "category": "coatings",
+      "id": "coatings-122255",
+      "local": "assets/catalog/photos/coatings-122255.webp",
+      "thumbnail": "assets/catalog/thumbs/coatings-122255.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 37768,
+      "thumbnailBytes": 7710,
+      "sha256": "bb12388bb3d057e0e1587a4da9b725f68462c3a1353f1a410bf6ff4af09a6969",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        460,
+        1181
+      ]
+    },
+    {
+      "title": "Surface Activator",
+      "image": "https://www.soudal.co.uk/sites/default/files/soudal_api/image/900021261/101638-Surface-Activator.jpg",
+      "url": "https://www.soudal.co.uk",
+      "brand": "Soudal",
+      "sourcePage": "https://www.soudal.co.uk/pro/products/cleaners-sprays-and-primers",
+      "sku": "101638",
+      "category": "coatings",
+      "id": "coatings-101638",
+      "local": "assets/catalog/photos/coatings-101638.webp",
+      "thumbnail": "assets/catalog/thumbs/coatings-101638.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 35102,
+      "thumbnailBytes": 7882,
+      "sha256": "839ec4a0bb65fc975b7ee59163b2ea836e301945dc4f98abd294930f599d71f8",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        425,
+        1181
+      ]
+    },
+    {
+      "title": "Firecryl FR",
+      "image": "https://www.soudal.co.uk/sites/default/files/soudal_api/image/900021548/106329-Firecryl-FR.jpg",
+      "url": "https://www.soudal.co.uk",
+      "brand": "Soudal",
+      "sourcePage": "https://www.soudal.co.uk/pro/products/sealants",
+      "sku": "106329",
+      "category": "chemistry",
+      "id": "chemistry-106329",
+      "local": "assets/catalog/photos/chemistry-106329.webp",
+      "thumbnail": "assets/catalog/thumbs/chemistry-106329.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 18306,
+      "thumbnailBytes": 4952,
+      "sha256": "8d3c9e0dd50264f82906dfc4c2291f31845dad72bf4727bebaa7402697249341",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        253,
+        1181
+      ]
+    },
+    {
+      "title": "Soudafoam Gun Win. & Door SWS",
+      "image": "https://www.soudal.co.uk/sites/default/files/soudal_api/image/900024719/130577-Soudafoam-Gun-Win-Door-SWS.jpg",
+      "url": "https://www.soudal.co.uk",
+      "brand": "Soudal",
+      "sourcePage": "https://www.soudal.co.uk/pro/products/expanding-foam",
+      "sku": "130577",
+      "category": "chemistry",
+      "id": "chemistry-130577",
+      "local": "assets/catalog/photos/chemistry-130577.webp",
+      "thumbnail": "assets/catalog/thumbs/chemistry-130577.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 31546,
+      "thumbnailBytes": 7110,
+      "sha256": "0884031adf4a48fd3a06f9f7ec58bccacac22218ed87c9cb25ad04fb63ef45c2",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        235,
+        1181
+      ]
+    },
+    {
+      "title": "MS-20PLUS",
+      "image": "https://www.soudal.co.uk/sites/default/files/soudal_api/image/900023727/124203-MS-20PLUS.jpg",
+      "url": "https://www.soudal.co.uk",
+      "brand": "Soudal",
+      "sourcePage": "https://www.soudal.co.uk/pro/products/adhesives",
+      "sku": "124203",
+      "category": "chemistry",
+      "id": "chemistry-124203",
+      "local": "assets/catalog/photos/chemistry-124203.webp",
+      "thumbnail": "assets/catalog/thumbs/chemistry-124203.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 37612,
+      "thumbnailBytes": 8830,
+      "sha256": "de1f9e41cd8eb631d88c3d1701c371489f42821777998b3824d0b28b01de05c7",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1181,
+        1087
+      ]
+    },
+    {
+      "title": "Soudaseal FR",
+      "image": "https://www.soudal.co.uk/sites/default/files/soudal_api/image/900022798/113628-Soudaseal-FR.jpg",
+      "url": "https://www.soudal.co.uk",
+      "brand": "Soudal",
+      "sourcePage": "https://www.soudal.co.uk/pro/products/sealants",
+      "sku": "113628",
+      "category": "chemistry",
+      "id": "chemistry-113628",
+      "local": "assets/catalog/photos/chemistry-113628.webp",
+      "thumbnail": "assets/catalog/thumbs/chemistry-113628.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 22192,
+      "thumbnailBytes": 5144,
+      "sha256": "f90326b1e074eecbe0b9478835f998ba0d6831fcdca06d290bbf20ae6a0e21e6",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        167,
+        1181
+      ]
+    },
+    {
+      "title": "Soudafoam Gun Win. & Door XTRA",
+      "image": "https://www.soudal.co.uk/sites/default/files/soudal_api/image/900023849/130578-Soudafoam-Gun-Win-Door-XTRA.jpg",
+      "url": "https://www.soudal.co.uk",
+      "brand": "Soudal",
+      "sourcePage": "https://www.soudal.co.uk/pro/products/expanding-foam",
+      "sku": "130578",
+      "category": "chemistry",
+      "id": "chemistry-130578",
+      "local": "assets/catalog/photos/chemistry-130578.webp",
+      "thumbnail": "assets/catalog/thumbs/chemistry-130578.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 28468,
+      "thumbnailBytes": 6730,
+      "sha256": "9469e18ba5d15470f13548fee06f54dc861bafe8d7572904353142356186ace6",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        235,
+        1181
+      ]
+    },
+    {
+      "title": "MS-30PLUS",
+      "image": "https://www.soudal.co.uk/sites/default/files/soudal_api/image/900024581/124204-MS-30PLUS.jpg",
+      "url": "https://www.soudal.co.uk",
+      "brand": "Soudal",
+      "sourcePage": "https://www.soudal.co.uk/pro/products/adhesives",
+      "sku": "124204",
+      "category": "chemistry",
+      "id": "chemistry-124204",
+      "local": "assets/catalog/photos/chemistry-124204.webp",
+      "thumbnail": "assets/catalog/thumbs/chemistry-124204.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 40968,
+      "thumbnailBytes": 9356,
+      "sha256": "b0d067a4ab4e030a68e9c12340a9b7707ee3fe2abfab61b1aaf02c65a66df200",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1181,
+        1087
+      ]
+    },
+    {
+      "title": "Fire Silicone B1 FR",
+      "image": "https://www.soudal.co.uk/sites/default/files/soudal_api/image/900026552/122156-Fire-Silicone-B1-FR.jpg",
+      "url": "https://www.soudal.co.uk",
+      "brand": "Soudal",
+      "sourcePage": "https://www.soudal.co.uk/pro/products/sealants",
+      "sku": "122156",
+      "category": "chemistry",
+      "id": "chemistry-122156",
+      "local": "assets/catalog/photos/chemistry-122156.webp",
+      "thumbnail": "assets/catalog/thumbs/chemistry-122156.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 25246,
+      "thumbnailBytes": 5354,
+      "sha256": "347e2e45c678999eb14c2d06ebeea7a4becdc10058710c8e5f2d1ce5ff2c942b",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        167,
+        1181
+      ]
+    },
+    {
+      "title": "Soudafoam Window & Door",
+      "image": "https://www.soudal.co.uk/sites/default/files/soudal_api/image/900025028/130581-Soudafoam-Window-Door.jpg",
+      "url": "https://www.soudal.co.uk",
+      "brand": "Soudal",
+      "sourcePage": "https://www.soudal.co.uk/pro/products/expanding-foam",
+      "sku": "130581",
+      "category": "chemistry",
+      "id": "chemistry-130581",
+      "local": "assets/catalog/photos/chemistry-130581.webp",
+      "thumbnail": "assets/catalog/thumbs/chemistry-130581.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 21522,
+      "thumbnailBytes": 5246,
+      "sha256": "8ee0e25b682938e44346274425d68ae9792d94902acd5d10935e3e0c2e6f6b38",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        316,
+        1181
+      ]
+    },
+    {
+      "title": "SMX 30PLUS",
+      "image": "https://www.soudal.co.uk/sites/default/files/soudal_api/image/900024776/124036-SMX-30PLUS.jpg",
+      "url": "https://www.soudal.co.uk",
+      "brand": "Soudal",
+      "sourcePage": "https://www.soudal.co.uk/pro/products/adhesives",
+      "sku": "124036",
+      "category": "chemistry",
+      "id": "chemistry-124036",
+      "local": "assets/catalog/photos/chemistry-124036.webp",
+      "thumbnail": "assets/catalog/thumbs/chemistry-124036.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 47970,
+      "thumbnailBytes": 10372,
+      "sha256": "ef1dbe4c12fc724077b9319792277bbc5cdfe24ab956b1d288023e21ec22a8a2",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1181,
+        1089
+      ]
+    },
+    {
+      "title": "Acryrub",
+      "image": "https://www.soudal.co.uk/sites/default/files/soudal_api/image/900022066/102600-Acryrub.jpg",
+      "url": "https://www.soudal.co.uk",
+      "brand": "Soudal",
+      "sourcePage": "https://www.soudal.co.uk/pro/products/sealants",
+      "sku": "102600",
+      "category": "chemistry",
+      "id": "chemistry-102600",
+      "local": "assets/catalog/photos/chemistry-102600.webp",
+      "thumbnail": "assets/catalog/thumbs/chemistry-102600.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 18828,
+      "thumbnailBytes": 4806,
+      "sha256": "5990c5c7aecd62c3df6f26a72b2651226e87eae08deb0cc6ec2e3bd15860c4bc",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        254,
+        1181
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "STST60626",
+      "title": "2 Way Adjustable Saw Horse (2 Pk)",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/STST60626_1_1280.webp",
+      "alt": "Front view of two STANLEY black and yellow plastic folding sawhorses on a white background",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/stst60626/2-way-adjustable-saw-horse-2-pk",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Saw Horse"
+        ],
+        "piece_count": [
+          "1"
+        ],
+        "assembled_product_height": [
+          "30.0-in"
+        ],
+        "upc_barcode": [
+          "76174705591"
+        ],
+        "individual_or_set": [
+          "Set"
+        ]
+      },
+      "manufacturerCategory": "Saw Horses",
+      "category": "storage",
+      "id": "storage-stst60626",
+      "local": "assets/catalog/photos/storage-stst60626.webp",
+      "thumbnail": "assets/catalog/thumbs/storage-stst60626.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 28710,
+      "thumbnailBytes": 7298,
+      "sha256": "71e6e6acdfda11b3e200e3924637a184ebfe852898e855acdeb92003841c09a6",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "STST60500",
+      "title": "Modular Rolling Toolbox",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/STST60500_1_1280.webp",
+      "alt": "STANLEY STST60500 black wheeled tool chest with yellow latches, front angle, photography on white background.",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/stst60500/modular-rolling-toolbox",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Tool Box"
+        ],
+        "piece_count": [
+          "1"
+        ],
+        "number_of_wheels": [
+          "2.0"
+        ],
+        "assembled_product_height": [
+          "30.75-in"
+        ],
+        "upc_barcode": [
+          "76174833195"
+        ]
+      },
+      "manufacturerCategory": "Tool Boxes",
+      "category": "storage",
+      "id": "storage-stst60500",
+      "local": "assets/catalog/photos/storage-stst60500.webp",
+      "thumbnail": "assets/catalog/thumbs/storage-stst60500.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 25174,
+      "thumbnailBytes": 5978,
+      "sha256": "7bc3d230f2122faa070283dfad85c19e21da3696eb694509cd49b201dc587259",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "STST14027",
+      "title": "SORTMASTER® Tool Organizer",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/STST14027_1_1280.webp",
+      "alt": "Front angle of STANLEY SortMaster organizer with clear lid, black base, and yellow accents, for tool and part storage",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/stst14027/sortmaster-tool-organizer",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Part Organizer"
+        ],
+        "piece_count": [
+          "1"
+        ],
+        "number_of_compartments": [
+          "15.0"
+        ],
+        "is_lockable": [
+          "Yes"
+        ],
+        "upc_barcode": [
+          "76174703573",
+          "76174736168"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ]
+      },
+      "manufacturerCategory": "Organizers",
+      "category": "storage",
+      "id": "storage-stst14027",
+      "local": "assets/catalog/photos/storage-stst14027.webp",
+      "thumbnail": "assets/catalog/thumbs/storage-stst14027.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 37928,
+      "thumbnailBytes": 9282,
+      "sha256": "496b13fb48fb3914c392e4d5f22d50614d8bf10c2ac9685179ba3df209b12815",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "STST14021",
+      "title": "SORTMASTER® Light",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/STST14021_1_1280.webp",
+      "alt": "Stanley Sortmaster organizer, front angle, clear lid with yellow dividers and black handle on white background",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/stst14021/sortmaster-light",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Part Organizer"
+        ],
+        "piece_count": [
+          "1"
+        ],
+        "number_of_compartments": [
+          "10.0"
+        ],
+        "assembled_product_height": [
+          "2.57-in"
+        ],
+        "upc_barcode": [
+          "76174707205",
+          "76174736168"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ]
+      },
+      "manufacturerCategory": "Organizers",
+      "category": "storage",
+      "id": "storage-stst14021",
+      "local": "assets/catalog/photos/storage-stst14021.webp",
+      "thumbnail": "assets/catalog/thumbs/storage-stst14021.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 39174,
+      "thumbnailBytes": 9120,
+      "sha256": "2b3529f7bb1471b67c3cf0265ad452e5c17731546a6f8b238b2dea46fd3aeedc",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1086
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "STST11552",
+      "title": "33-1/2-in x 23-1/2-in Fold-Up Workbench",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/STST11552_1_1280.webp",
+      "alt": "STANLEY STST11552 portable black workbench with foldable legs photographed from front angle on white background.",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/stst11552/33-12-x-23-12-fold-workbench",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Workbench"
+        ],
+        "piece_count": [
+          "1"
+        ],
+        "upc_barcode": [
+          "76174834925"
+        ]
+      },
+      "manufacturerCategory": "Workbenches",
+      "category": "storage",
+      "id": "storage-stst11552",
+      "local": "assets/catalog/photos/storage-stst11552.webp",
+      "thumbnail": "assets/catalog/thumbs/storage-stst11552.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 15052,
+      "thumbnailBytes": 3692,
+      "sha256": "5383085c5b8cfcbcde35b41089f03bfa4ed8fa7339512c89ffba5762850c9ed7",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        980
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "STST16410",
+      "title": "16-in Toolbox",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/STST16410_1_1280.webp",
+      "alt": "STANLEY black and yellow plastic toolbox, angled view on white background, top handle and latch visible",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/stst16410/16-toolbox",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Tool Box"
+        ],
+        "piece_count": [
+          "1"
+        ],
+        "assembled_product_height": [
+          "0.16-in"
+        ],
+        "upc_barcode": [
+          "76174703283"
+        ],
+        "individual_or_set": [
+          "Individual"
+        ]
+      },
+      "manufacturerCategory": "Tool Boxes",
+      "category": "storage",
+      "id": "storage-stst16410",
+      "local": "assets/catalog/photos/storage-stst16410.webp",
+      "thumbnail": "assets/catalog/thumbs/storage-stst16410.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 30816,
+      "thumbnailBytes": 7352,
+      "sha256": "16ee8da80f13354bd52bd56bf1f47657a9569df61e99248e1ebf865033f48719",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "STST19331",
+      "title": "19-in Essential™ Toolbox",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/STST19331_1_1280.webp",
+      "alt": "Front view Stanley toolbox, black body with yellow accents and handle, brand logo on the front",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/stst19331/19-essential-toolbox",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Tool Box"
+        ],
+        "piece_count": [
+          "1"
+        ],
+        "number_of_compartments": [
+          "3.0"
+        ],
+        "upc_barcode": [
+          "76174755206"
+        ]
+      },
+      "manufacturerCategory": "Tool Boxes",
+      "category": "storage",
+      "id": "storage-stst19331",
+      "local": "assets/catalog/photos/storage-stst19331.webp",
+      "thumbnail": "assets/catalog/thumbs/storage-stst19331.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 23580,
+      "thumbnailBytes": 6120,
+      "sha256": "cfe5454ede477a275d03139837f68c037aae99fed0baa3840ad146a7d493a00e",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "brand": "STANLEY",
+      "sku": "STST22625BK",
+      "title": "300 Series 26-in 2-Drawer Middle Tool Chest",
+      "image": "https://assets.stanleytools.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/STST22625BK_1_1280.webp",
+      "alt": "Front angle Stanley black metal tool chest with two drawers and lock on white background",
+      "sourcePage": "https://www.stanleytools.com/en-us/product/stst22625bk/300-series-26-2-drawer-middle-tool-chest",
+      "manufacturerSpecs": {
+        "product_type": [
+          "Chest"
+        ],
+        "product_material": [
+          "Steel"
+        ],
+        "piece_count": [
+          "4"
+        ],
+        "number_of_drawers": [
+          "2.0"
+        ],
+        "upc_barcode": [
+          "721615312080"
+        ]
+      },
+      "manufacturerCategory": "Tool Chests",
+      "category": "storage",
+      "id": "storage-stst22625bk",
+      "local": "assets/catalog/photos/storage-stst22625bk.webp",
+      "thumbnail": "assets/catalog/thumbs/storage-stst22625bk.webp",
+      "review": "visually-reviewed-packshot",
+      "rights": "Manufacturer copyrighted product imagery; no open-stock license found. Private demo reference. Public/commercial reuse permission not established.",
+      "transform": "Proportionally fitted on a white 960px square; no product recolouring, retouching or invented branding.",
+      "localBytes": 11836,
+      "thumbnailBytes": 2592,
+      "sha256": "e9556bb91c1c8ac723ae5a346efb87921544875a7fa640c7d9bf97866d01a6f2",
+      "catalogBinding": "Match this exact manufacturer model and depicted kit/colour. Related kit sizes and dimensions may belong to one product family, not separate arbitrary products. No real store availability or price is asserted.",
+      "sourceDimensions": [
+        1280,
+        1280
+      ]
+    }
+  ],
+  "reviewSummary": "100 locally stored product photographs inspected on four contact sheets. Rights are recorded separately from visual suitability."
+}

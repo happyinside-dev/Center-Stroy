@@ -1,0 +1,5590 @@
+{
+  "categories": [
+    {
+      "id": "power-tools",
+      "label": "Электроинструмент",
+      "target": 16
+    },
+    {
+      "id": "hand-tools",
+      "label": "Ручной инструмент",
+      "target": 20
+    },
+    {
+      "id": "measuring",
+      "label": "Измерение и разметка",
+      "target": 12
+    },
+    {
+      "id": "accessories",
+      "label": "Оснастка",
+      "target": 12
+    },
+    {
+      "id": "fasteners",
+      "label": "Крепёж",
+      "target": 12
+    },
+    {
+      "id": "coatings",
+      "label": "Краски и грунтовки",
+      "target": 10
+    },
+    {
+      "id": "chemistry",
+      "label": "Герметики, пены и клеи",
+      "target": 10
+    },
+    {
+      "id": "storage",
+      "label": "Хранение инструмента",
+      "target": 8
+    }
+  ],
+  "products": [
+    {
+      "id": "coatings-3153895181334",
+      "name": "Краска для плитки и панелей V33 Renovation",
+      "brand": "V33",
+      "model": "3153895181334",
+      "category": "coatings",
+      "description": "Для обновления плитки и панелей в интерьере.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.v33.co.uk/renovation-cupboard-worktop/",
+      "originalName": "V33 Wall Tile & Panelling Paint",
+      "variants": [
+        {
+          "id": "3153895181334",
+          "sku": "3153895181334",
+          "label": "Белый сатиновый · 2 л",
+          "price": 2890,
+          "stock": 6,
+          "image": "media/catalog/photos/coatings-3153895181334.webp",
+          "thumbnail": "media/catalog/thumbs/coatings-3153895181334.webp",
+          "specs": [
+            [
+              "Производитель",
+              "V33"
+            ],
+            [
+              "Модель / артикул",
+              "3153895181334"
+            ],
+            [
+              "Цвет на фотографии",
+              "Белый, сатиновый"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "hand-tools-51-169",
+      "name": "Молоток-гвоздодёр STANLEY 51-169",
+      "brand": "STANLEY",
+      "model": "51-169",
+      "category": "hand-tools",
+      "description": "Для работы с гвоздями и деревянными конструкциями.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.stanleytools.com/en-us/product/51-169/28-oz-stanley-fatmax-anti-vibe-rip-claw-framing-hammer",
+      "originalName": "28 oz STANLEY® FATMAX® Anti-Vibe® Rip Claw Framing Hammer",
+      "variants": [
+        {
+          "id": "51-169",
+          "sku": "51-169",
+          "label": "Стандартная комплектация",
+          "price": 2190,
+          "stock": 25,
+          "image": "media/catalog/photos/hand-tools-51-169.webp",
+          "thumbnail": "media/catalog/thumbs/hand-tools-51-169.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "51-169"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Framing Hammer"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Количество элементов",
+              "1"
+            ],
+            [
+              "Материал рукоятки",
+              "Сталь"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174511697"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "power-tools-dcd801h1",
+      "name": "Дрель-шуруповёрт DeWALT DCD801H1",
+      "brand": "DeWALT",
+      "model": "DCD801H1",
+      "category": "power-tools",
+      "description": "Для сверления и заворачивания крепежа при сборке и ремонте.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.dewalt.com/en-us/product/dcd801h1/20v-max-xr-12-drilldriver-kit-5ah-battery",
+      "originalName": "20V MAX* XR® 1/2 in. Drill/Driver Kit With 5Ah Battery",
+      "variants": [
+        {
+          "id": "dcd801h1",
+          "sku": "DCD801H1",
+          "label": "С аккумулятором и зарядкой",
+          "price": 15990,
+          "stock": 5,
+          "image": "media/catalog/photos/power-tools-dcd801h1.webp",
+          "thumbnail": "media/catalog/thumbs/power-tools-dcd801h1.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DCD801H1"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Drill Driver"
+            ],
+            [
+              "Питание",
+              "Аккумулятор"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": true,
+      "unit": "шт."
+    },
+    {
+      "id": "hand-tools-stht60083",
+      "name": "Отвёртка со сменными насадками STANLEY STHT60083",
+      "brand": "STANLEY",
+      "model": "STHT60083",
+      "category": "hand-tools",
+      "description": "Для работы с резьбовым крепежом.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.stanleytools.com/en-us/product/stht60083/quick-change-6-1-interchangeable-screwdriver",
+      "originalName": "Quick Change 6-in-1 Interchangeable Screwdriver",
+      "variants": [
+        {
+          "id": "stht60083",
+          "sku": "STHT60083",
+          "label": "Стандартная комплектация",
+          "price": 1490,
+          "stock": 2,
+          "image": "media/catalog/photos/hand-tools-stht60083.webp",
+          "thumbnail": "media/catalog/thumbs/hand-tools-stht60083.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "STHT60083"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Multi-Bit Screwdriver"
+            ],
+            [
+              "Комплектация",
+              "Набор"
+            ],
+            [
+              "Количество элементов",
+              "1"
+            ],
+            [
+              "Материал рукоятки",
+              "Bi-Material"
+            ],
+            [
+              "Штрихкод UPC",
+              "885911653343"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "chemistry-130577",
+      "name": "Монтажная пена Soudal 130577",
+      "brand": "Soudal",
+      "model": "130577",
+      "category": "chemistry",
+      "description": "Для заполнения и герметизации монтажных швов.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.soudal.co.uk/pro/products/expanding-foam",
+      "originalName": "Soudafoam Gun Win. & Door SWS",
+      "variants": [
+        {
+          "id": "130577",
+          "sku": "130577",
+          "label": "Стандартная комплектация",
+          "price": 790,
+          "stock": 30,
+          "image": "media/catalog/photos/chemistry-130577.webp",
+          "thumbnail": "media/catalog/thumbs/chemistry-130577.webp",
+          "specs": [
+            [
+              "Производитель",
+              "Soudal"
+            ],
+            [
+              "Модель / артикул",
+              "130577"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "measuring-stht37242",
+      "name": "Рулетка STANLEY STHT37242",
+      "brand": "STANLEY",
+      "model": "STHT37242",
+      "category": "measuring",
+      "description": "Для измерения расстояний при ремонте и строительстве.",
+      "warning": "",
+      "source": "https://www.stanleytools.com/en-us/product/stht37242/12-ft-tape-measure",
+      "originalName": "12-ft Tape Measure",
+      "variants": [
+        {
+          "id": "stht37242",
+          "sku": "STHT37242",
+          "label": "Стандартная комплектация",
+          "price": 1890,
+          "stock": 29,
+          "image": "media/catalog/photos/measuring-stht37242.webp",
+          "thumbnail": "media/catalog/thumbs/measuring-stht37242.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "STHT37242"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Tape Measure"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Материал полотна",
+              "Сталь"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174372427"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "hand-tools-87-473",
+      "name": "Разводной ключ STANLEY 87-473",
+      "brand": "STANLEY",
+      "model": "87-473",
+      "category": "hand-tools",
+      "description": "Для работы с гайками и болтами разных размеров.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.stanleytools.com/en-us/product/87-473/12-adjustable-wrench",
+      "originalName": "12-in adjustable wrench",
+      "variants": [
+        {
+          "id": "87-473",
+          "sku": "87-473",
+          "label": "Стандартная комплектация",
+          "price": 1690,
+          "stock": 6,
+          "image": "media/catalog/photos/hand-tools-87-473.webp",
+          "thumbnail": "media/catalog/thumbs/hand-tools-87-473.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "87-473"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Adjustable Wrench"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Количество элементов",
+              "1"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174874730"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "storage-stst14027",
+      "name": "Органайзер для крепежа STANLEY STST14027",
+      "brand": "STANLEY",
+      "model": "STST14027",
+      "category": "storage",
+      "description": "Для хранения небольших деталей и крепежа.",
+      "warning": "",
+      "source": "https://www.stanleytools.com/en-us/product/stst14027/sortmaster-tool-organizer",
+      "originalName": "SORTMASTER® Tool Organizer",
+      "variants": [
+        {
+          "id": "stst14027",
+          "sku": "STST14027",
+          "label": "Стандартная комплектация",
+          "price": 2590,
+          "stock": 7,
+          "image": "media/catalog/photos/storage-stst14027.webp",
+          "thumbnail": "media/catalog/thumbs/storage-stst14027.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "STST14027"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Part Organizer"
+            ],
+            [
+              "Количество элементов",
+              "1"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174703573, 76174736168"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "power-tools-dcg440b",
+      "name": "Угловая шлифмашина DeWALT DCG440B",
+      "brand": "DeWALT",
+      "model": "DCG440B",
+      "category": "power-tools",
+      "description": "Для резки и шлифования с совместимой оснасткой.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.dewalt.com/en-us/product/dcg440b/60v-max-7-brushless-cordless-grinder-kickback-brake-tool-only",
+      "originalName": "60V MAX* 7-in Brushless Cordless Grinder With KICKBACK BRAKE™ (Tool Only)",
+      "variants": [
+        {
+          "id": "dcg440b",
+          "sku": "DCG440B",
+          "label": "Без аккумулятора и зарядки",
+          "price": 22990,
+          "stock": 8,
+          "image": "media/catalog/photos/power-tools-dcg440b.webp",
+          "thumbnail": "media/catalog/thumbs/power-tools-dcg440b.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DCG440B"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Angle Grinder"
+            ],
+            [
+              "Напряжение",
+              "60V"
+            ],
+            [
+              "Исполнение",
+              "Аккумуляторный"
+            ],
+            [
+              "Питание",
+              "Аккумулятор"
+            ],
+            [
+              "Без аккумулятора",
+              "Да"
+            ],
+            [
+              "Двигатель",
+              "Бесщёточный"
+            ],
+            [
+              "Аккумуляторов в комплекте",
+              "0"
+            ],
+            [
+              "Зарядное устройство",
+              "Нет"
+            ],
+            [
+              "Регулировка оборотов",
+              "Да"
+            ],
+            [
+              "Максимальная скорость",
+              "6500-rpm"
+            ],
+            [
+              "Диаметр диска",
+              "7.0-in"
+            ],
+            [
+              "Количество элементов",
+              "6"
+            ],
+            [
+              "Длина",
+              "15.8-in"
+            ],
+            [
+              "Масса",
+              "8.0-lbs"
+            ],
+            [
+              "Ширина",
+              "7.7-in"
+            ],
+            [
+              "Высота",
+              "6.1-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "885911725606"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": true,
+      "unit": "шт."
+    },
+    {
+      "id": "power-tools-dcs331m1",
+      "name": "Электролобзик DeWALT DCS331",
+      "brand": "DeWALT",
+      "model": "DCS331",
+      "category": "power-tools",
+      "description": "Для прямых и фигурных пропилов с подходящей пилкой.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.dewalt.com/en-us/product/dcs331m1/20v-max-cordless-jig-saw-kit",
+      "originalName": "20V MAX* Cordless Jig Saw Kit",
+      "variants": [
+        {
+          "id": "dcs331m1",
+          "sku": "DCS331M1",
+          "label": "С аккумулятором и зарядкой",
+          "price": 16990,
+          "stock": 11,
+          "image": "media/catalog/photos/power-tools-dcs331m1.webp",
+          "thumbnail": "media/catalog/thumbs/power-tools-dcs331m1.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DCS331M1"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Jig Saw"
+            ],
+            [
+              "Напряжение",
+              "20V"
+            ],
+            [
+              "Исполнение",
+              "Аккумуляторный"
+            ],
+            [
+              "Питание",
+              "Аккумулятор"
+            ],
+            [
+              "Без аккумулятора",
+              "Нет"
+            ],
+            [
+              "Двигатель",
+              "Щёточный"
+            ],
+            [
+              "Аккумуляторов в комплекте",
+              "1"
+            ],
+            [
+              "Ёмкость аккумулятора",
+              "4.0Ah"
+            ],
+            [
+              "Зарядное устройство",
+              "Да"
+            ],
+            [
+              "Максимальная скорость",
+              "3000-rpm"
+            ],
+            [
+              "Длина",
+              "9.88-in"
+            ],
+            [
+              "Масса",
+              "9.35-lbs"
+            ],
+            [
+              "Ширина",
+              "4.53-in"
+            ],
+            [
+              "Высота",
+              "14.77-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "885911312349"
+            ],
+            [
+              "Комплектация",
+              "Набор"
+            ]
+          ]
+        },
+        {
+          "id": "dcs331b",
+          "sku": "DCS331B",
+          "label": "Без аккумулятора и зарядки",
+          "price": 22990,
+          "stock": 19,
+          "image": "media/catalog/photos/power-tools-dcs331b.webp",
+          "thumbnail": "media/catalog/thumbs/power-tools-dcs331b.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DCS331B"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Jig Saw"
+            ],
+            [
+              "Напряжение",
+              "20V"
+            ],
+            [
+              "Исполнение",
+              "Аккумуляторный"
+            ],
+            [
+              "Питание",
+              "Аккумулятор"
+            ],
+            [
+              "Без аккумулятора",
+              "Да"
+            ],
+            [
+              "Двигатель",
+              "Щёточный"
+            ],
+            [
+              "Аккумуляторов в комплекте",
+              "0"
+            ],
+            [
+              "Зарядное устройство",
+              "Нет"
+            ],
+            [
+              "Максимальная скорость",
+              "3000-rpm"
+            ],
+            [
+              "Длина",
+              "10.5-in"
+            ],
+            [
+              "Масса",
+              "5.6-lbs"
+            ],
+            [
+              "Ширина",
+              "9.12-in"
+            ],
+            [
+              "Высота",
+              "3.73-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "885911262316"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": true,
+      "unit": "шт."
+    },
+    {
+      "id": "power-tools-dcw230b",
+      "name": "Эксцентриковая шлифмашина DeWALT DCW230B",
+      "brand": "DeWALT",
+      "model": "DCW230B",
+      "category": "power-tools",
+      "description": "Для подготовки и финишного шлифования поверхностей.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.dewalt.com/en-us/product/dcw230b/20v-xr-6-random-orbit-sander-tool-only",
+      "originalName": "20V XR® 6-in Random Orbit Sander (Tool Only)",
+      "variants": [
+        {
+          "id": "dcw230b",
+          "sku": "DCW230B",
+          "label": "Без аккумулятора и зарядки",
+          "price": 23990,
+          "stock": 14,
+          "image": "media/catalog/photos/power-tools-dcw230b.webp",
+          "thumbnail": "media/catalog/thumbs/power-tools-dcw230b.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DCW230B"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Orbital Sander"
+            ],
+            [
+              "Напряжение",
+              "20V"
+            ],
+            [
+              "Исполнение",
+              "Аккумуляторный"
+            ],
+            [
+              "Питание",
+              "Аккумулятор"
+            ],
+            [
+              "Без аккумулятора",
+              "Да"
+            ],
+            [
+              "Двигатель",
+              "Бесщёточный"
+            ],
+            [
+              "Аккумуляторов в комплекте",
+              "0"
+            ],
+            [
+              "Зарядное устройство",
+              "Нет"
+            ],
+            [
+              "Регулировка оборотов",
+              "Да"
+            ],
+            [
+              "Пылеудаление",
+              "Да"
+            ],
+            [
+              "Штрихкод UPC",
+              "88591198081"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": true,
+      "unit": "шт."
+    },
+    {
+      "id": "power-tools-dcd701j1",
+      "name": "Дрель-шуруповёрт DeWALT DCD701J1",
+      "brand": "DeWALT",
+      "model": "DCD701J1",
+      "category": "power-tools",
+      "description": "Для сверления и заворачивания крепежа при сборке и ремонте.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.dewalt.com/en-us/product/dcd701j1/12v-max-xtreme-brushless-38in-drilldriver-kit",
+      "originalName": "12V MAX* XTREME Brushless 3/8in. Drill/Driver Kit",
+      "variants": [
+        {
+          "id": "dcd701j1",
+          "sku": "DCD701J1",
+          "label": "С аккумулятором и зарядкой",
+          "price": 17990,
+          "stock": 17,
+          "image": "media/catalog/photos/power-tools-dcd701j1.webp",
+          "thumbnail": "media/catalog/thumbs/power-tools-dcd701j1.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DCD701J1"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Drill Driver"
+            ],
+            [
+              "Питание",
+              "Аккумулятор"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": true,
+      "unit": "шт."
+    },
+    {
+      "id": "power-tools-dcg413fb",
+      "name": "Угловая шлифмашина DeWALT DCG413FB",
+      "brand": "DeWALT",
+      "model": "DCG413FB",
+      "category": "power-tools",
+      "description": "Для резки и шлифования с совместимой оснасткой.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.dewalt.com/en-us/product/dcg413fb/20v-max-xr-5-flathead-paddle-switch-small-angle-grinder-kickback-brake-tool-only",
+      "originalName": "20V MAX* XR® 5-in Flathead Paddle-Switch Small Angle Grinder With KICKBACK BRAKE™ (Tool Only)",
+      "variants": [
+        {
+          "id": "dcg413fb",
+          "sku": "DCG413FB",
+          "label": "Без аккумулятора и зарядки",
+          "price": 24990,
+          "stock": 20,
+          "image": "media/catalog/photos/power-tools-dcg413fb.webp",
+          "thumbnail": "media/catalog/thumbs/power-tools-dcg413fb.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DCG413FB"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Angle Grinder"
+            ],
+            [
+              "Напряжение",
+              "20V"
+            ],
+            [
+              "Исполнение",
+              "Аккумуляторный"
+            ],
+            [
+              "Питание",
+              "Аккумулятор"
+            ],
+            [
+              "Без аккумулятора",
+              "Да"
+            ],
+            [
+              "Двигатель",
+              "Бесщёточный"
+            ],
+            [
+              "Аккумуляторов в комплекте",
+              "0"
+            ],
+            [
+              "Зарядное устройство",
+              "Нет"
+            ],
+            [
+              "Регулировка оборотов",
+              "Да"
+            ],
+            [
+              "Максимальная скорость",
+              "9000-rpm"
+            ],
+            [
+              "Диаметр диска",
+              "4.5-in"
+            ],
+            [
+              "Количество элементов",
+              "5"
+            ],
+            [
+              "Длина",
+              "14.72-in"
+            ],
+            [
+              "Масса",
+              "4.75-lbs"
+            ],
+            [
+              "Ширина",
+              "6.1-in"
+            ],
+            [
+              "Высота",
+              "5.0-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "885911540216"
+            ],
+            [
+              "Комплектация",
+              "Набор"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": true,
+      "unit": "шт."
+    },
+    {
+      "id": "power-tools-dcs334p1",
+      "name": "Электролобзик DeWALT DCS334P1",
+      "brand": "DeWALT",
+      "model": "DCS334P1",
+      "category": "power-tools",
+      "description": "Для прямых и фигурных пропилов с подходящей пилкой.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.dewalt.com/en-us/product/dcs334p1/20v-max-xr-cordless-jig-saw-kit",
+      "originalName": "20V MAX* XR® Cordless Jig Saw Kit",
+      "variants": [
+        {
+          "id": "dcs334p1",
+          "sku": "DCS334P1",
+          "label": "С аккумулятором и зарядкой",
+          "price": 18990,
+          "stock": 23,
+          "image": "media/catalog/photos/power-tools-dcs334p1.webp",
+          "thumbnail": "media/catalog/thumbs/power-tools-dcs334p1.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DCS334P1"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Jig Saw"
+            ],
+            [
+              "Напряжение",
+              "20V"
+            ],
+            [
+              "Исполнение",
+              "Аккумуляторный"
+            ],
+            [
+              "Питание",
+              "Аккумулятор"
+            ],
+            [
+              "Без аккумулятора",
+              "Нет"
+            ],
+            [
+              "Двигатель",
+              "Бесщёточный"
+            ],
+            [
+              "Аккумуляторов в комплекте",
+              "1"
+            ],
+            [
+              "Ёмкость аккумулятора",
+              "5.0Ah"
+            ],
+            [
+              "Зарядное устройство",
+              "Да"
+            ],
+            [
+              "Максимальная скорость",
+              "3200-rpm"
+            ],
+            [
+              "Длина",
+              "15.5-in"
+            ],
+            [
+              "Масса",
+              "10.85-lbs"
+            ],
+            [
+              "Ширина",
+              "14.43-in"
+            ],
+            [
+              "Высота",
+              "5.25-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "885911531764"
+            ],
+            [
+              "Комплектация",
+              "Набор"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": true,
+      "unit": "шт."
+    },
+    {
+      "id": "power-tools-dcw211b",
+      "name": "Эксцентриковая шлифмашина DeWALT DCW211B",
+      "brand": "DeWALT",
+      "model": "DCW211B",
+      "category": "power-tools",
+      "description": "Для подготовки и финишного шлифования поверхностей.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.dewalt.com/en-us/product/dcw211b/20v-xr-5-random-orbit-sander-tool-only",
+      "originalName": "20V XR® 5-in Random Orbit Sander (Tool Only)",
+      "variants": [
+        {
+          "id": "dcw211b",
+          "sku": "DCW211B",
+          "label": "Без аккумулятора и зарядки",
+          "price": 25990,
+          "stock": 2,
+          "image": "media/catalog/photos/power-tools-dcw211b.webp",
+          "thumbnail": "media/catalog/thumbs/power-tools-dcw211b.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DCW211B"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Orbital Sander"
+            ],
+            [
+              "Напряжение",
+              "20V"
+            ],
+            [
+              "Исполнение",
+              "Аккумуляторный"
+            ],
+            [
+              "Питание",
+              "Аккумулятор"
+            ],
+            [
+              "Без аккумулятора",
+              "Да"
+            ],
+            [
+              "Двигатель",
+              "Бесщёточный"
+            ],
+            [
+              "Аккумуляторов в комплекте",
+              "0"
+            ],
+            [
+              "Зарядное устройство",
+              "Нет"
+            ],
+            [
+              "Регулировка оборотов",
+              "Да"
+            ],
+            [
+              "Пылеудаление",
+              "Да"
+            ],
+            [
+              "Длина",
+              "8.13-in"
+            ],
+            [
+              "Масса",
+              "3.04-lbs"
+            ],
+            [
+              "Высота",
+              "4.37-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "88591197987"
+            ],
+            [
+              "Комплектация",
+              "Набор"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": true,
+      "unit": "шт."
+    },
+    {
+      "id": "power-tools-dcd800d1e1",
+      "name": "Дрель-шуруповёрт DeWALT DCD800",
+      "brand": "DeWALT",
+      "model": "DCD800",
+      "category": "power-tools",
+      "description": "Для сверления и заворачивания крепежа при сборке и ремонте.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.dewalt.com/en-us/product/dcd800d1e1/20v-max-xr-brushless-cordless-12-drilldriver-kit",
+      "originalName": "20V MAX* XR® Brushless Cordless 1/2-in Drill/Driver Kit",
+      "variants": [
+        {
+          "id": "dcd800d1e1",
+          "sku": "DCD800D1E1",
+          "label": "С аккумулятором и зарядкой · 2,0 А·ч",
+          "price": 19990,
+          "stock": 29,
+          "image": "media/catalog/photos/power-tools-dcd800d1e1.webp",
+          "thumbnail": "media/catalog/thumbs/power-tools-dcd800d1e1.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DCD800D1E1"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Drill Driver"
+            ],
+            [
+              "Напряжение",
+              "20V"
+            ],
+            [
+              "Исполнение",
+              "Аккумуляторный"
+            ],
+            [
+              "Питание",
+              "Аккумулятор"
+            ],
+            [
+              "Двигатель",
+              "Бесщёточный"
+            ],
+            [
+              "Без аккумулятора",
+              "Нет"
+            ],
+            [
+              "Аккумуляторов в комплекте",
+              "2"
+            ],
+            [
+              "Ёмкость аккумулятора",
+              "2.0Ah"
+            ],
+            [
+              "Зарядное устройство",
+              "Да"
+            ],
+            [
+              "Максимальная скорость",
+              "2000-rpm"
+            ],
+            [
+              "Количество элементов",
+              "6"
+            ],
+            [
+              "Высота",
+              "12.8-in"
+            ],
+            [
+              "Длина",
+              "9.92-in"
+            ],
+            [
+              "Масса",
+              "6.2-lbs"
+            ],
+            [
+              "Ширина",
+              "3.98-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "885911801454"
+            ],
+            [
+              "Комплектация",
+              "Набор"
+            ]
+          ]
+        },
+        {
+          "id": "dcd800e2",
+          "sku": "DCD800E2",
+          "label": "С аккумулятором и зарядкой · 1,7 А·ч",
+          "price": 21990,
+          "stock": 13,
+          "image": "media/catalog/photos/power-tools-dcd800e2.webp",
+          "thumbnail": "media/catalog/thumbs/power-tools-dcd800e2.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DCD800E2"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Drill Driver"
+            ],
+            [
+              "Напряжение",
+              "20V"
+            ],
+            [
+              "Исполнение",
+              "Аккумуляторный"
+            ],
+            [
+              "Питание",
+              "Аккумулятор"
+            ],
+            [
+              "Двигатель",
+              "Бесщёточный"
+            ],
+            [
+              "Без аккумулятора",
+              "Нет"
+            ],
+            [
+              "Аккумуляторов в комплекте",
+              "2"
+            ],
+            [
+              "Ёмкость аккумулятора",
+              "1.7Ah"
+            ],
+            [
+              "Зарядное устройство",
+              "Да"
+            ],
+            [
+              "Максимальная скорость",
+              "2000-rpm"
+            ],
+            [
+              "Количество элементов",
+              "6"
+            ],
+            [
+              "Высота",
+              "12.7-in"
+            ],
+            [
+              "Длина",
+              "9.9-in"
+            ],
+            [
+              "Масса",
+              "6.35-lbs"
+            ],
+            [
+              "Ширина",
+              "3.98-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "885911839204"
+            ],
+            [
+              "Комплектация",
+              "Набор"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": true,
+      "unit": "шт."
+    },
+    {
+      "id": "power-tools-dcg410vsb",
+      "name": "Угловая шлифмашина DeWALT DCG410VSB",
+      "brand": "DeWALT",
+      "model": "DCG410VSB",
+      "category": "power-tools",
+      "description": "Для резки и шлифования с совместимой оснасткой.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.dewalt.com/en-us/product/dcg410vsb/20v-max-xr-4-12-5-brushless-variable-speed-paddle-switch-grinder-tool-only",
+      "originalName": "20V MAX* XR® 4-1/2 in. - 5 in. Brushless Variable Speed Paddle Switch Grinder (Tool Only)",
+      "variants": [
+        {
+          "id": "dcg410vsb",
+          "sku": "DCG410VSB",
+          "label": "Без аккумулятора и зарядки",
+          "price": 26990,
+          "stock": 32,
+          "image": "media/catalog/photos/power-tools-dcg410vsb.webp",
+          "thumbnail": "media/catalog/thumbs/power-tools-dcg410vsb.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DCG410VSB"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Angle Grinder"
+            ],
+            [
+              "Напряжение",
+              "20V"
+            ],
+            [
+              "Исполнение",
+              "Аккумуляторный"
+            ],
+            [
+              "Питание",
+              "Аккумулятор"
+            ],
+            [
+              "Без аккумулятора",
+              "Да"
+            ],
+            [
+              "Двигатель",
+              "Бесщёточный"
+            ],
+            [
+              "Аккумуляторов в комплекте",
+              "0"
+            ],
+            [
+              "Зарядное устройство",
+              "Нет"
+            ],
+            [
+              "Регулировка оборотов",
+              "Да"
+            ],
+            [
+              "Максимальная скорость",
+              "9000-rpm"
+            ],
+            [
+              "Диаметр диска",
+              "4.5-in"
+            ],
+            [
+              "Количество элементов",
+              "5"
+            ],
+            [
+              "Длина",
+              "13.3-in"
+            ],
+            [
+              "Масса",
+              "4.85-lbs"
+            ],
+            [
+              "Ширина",
+              "6.5-in"
+            ],
+            [
+              "Высота",
+              "5.7-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "885912000000"
+            ],
+            [
+              "Комплектация",
+              "Набор"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": true,
+      "unit": "шт."
+    },
+    {
+      "id": "power-tools-dcs335b",
+      "name": "Электролобзик DeWALT DCS335B",
+      "brand": "DeWALT",
+      "model": "DCS335B",
+      "category": "power-tools",
+      "description": "Для прямых и фигурных пропилов с подходящей пилкой.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.dewalt.com/en-us/product/dcs335b/20v-max-xr-cordless-barrel-grip-jig-saw-tool-only",
+      "originalName": "20V MAX* XR® Cordless Barrel Grip Jig Saw (Tool Only)",
+      "variants": [
+        {
+          "id": "dcs335b",
+          "sku": "DCS335B",
+          "label": "Без аккумулятора и зарядки",
+          "price": 20990,
+          "stock": 7,
+          "image": "media/catalog/photos/power-tools-dcs335b.webp",
+          "thumbnail": "media/catalog/thumbs/power-tools-dcs335b.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DCS335B"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Jig Saw"
+            ],
+            [
+              "Напряжение",
+              "20V"
+            ],
+            [
+              "Исполнение",
+              "Аккумуляторный"
+            ],
+            [
+              "Питание",
+              "Аккумулятор"
+            ],
+            [
+              "Без аккумулятора",
+              "Да"
+            ],
+            [
+              "Двигатель",
+              "Бесщёточный"
+            ],
+            [
+              "Аккумуляторов в комплекте",
+              "0"
+            ],
+            [
+              "Зарядное устройство",
+              "Нет"
+            ],
+            [
+              "Максимальная скорость",
+              "3200-rpm"
+            ],
+            [
+              "Длина",
+              "11.53-in"
+            ],
+            [
+              "Масса",
+              "5.05-lbs"
+            ],
+            [
+              "Ширина",
+              "3.75-in"
+            ],
+            [
+              "Высота",
+              "8.19-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "885911533744"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": true,
+      "unit": "шт."
+    },
+    {
+      "id": "power-tools-dcw210p1",
+      "name": "Эксцентриковая шлифмашина DeWALT DCW210",
+      "brand": "DeWALT",
+      "model": "DCW210",
+      "category": "power-tools",
+      "description": "Для подготовки и финишного шлифования поверхностей.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.dewalt.com/en-us/product/dcw210p1/20v-max-xr-5-brushless-variable-speed-random-orbital-sander-kit-50-ah-battery",
+      "originalName": "20V MAX* XR® 5-in Brushless Variable Speed Random Orbital Sander Kit (5.0 Ah Battery)",
+      "variants": [
+        {
+          "id": "dcw210p1",
+          "sku": "DCW210P1",
+          "label": "С аккумулятором и зарядкой",
+          "price": 27990,
+          "stock": 10,
+          "image": "media/catalog/photos/power-tools-dcw210p1.webp",
+          "thumbnail": "media/catalog/thumbs/power-tools-dcw210p1.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DCW210P1"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Orbital Sander"
+            ],
+            [
+              "Напряжение",
+              "20V"
+            ],
+            [
+              "Исполнение",
+              "Аккумуляторный"
+            ],
+            [
+              "Питание",
+              "Аккумулятор"
+            ],
+            [
+              "Без аккумулятора",
+              "Нет"
+            ],
+            [
+              "Двигатель",
+              "Бесщёточный"
+            ],
+            [
+              "Аккумуляторов в комплекте",
+              "1"
+            ],
+            [
+              "Зарядное устройство",
+              "Да"
+            ],
+            [
+              "Регулировка оборотов",
+              "Да"
+            ],
+            [
+              "Пылеудаление",
+              "Да"
+            ],
+            [
+              "Длина",
+              "10.25-in"
+            ],
+            [
+              "Масса",
+              "5.6-lbs"
+            ],
+            [
+              "Ширина",
+              "9.0-in"
+            ],
+            [
+              "Высота",
+              "5.5-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "885911557825"
+            ],
+            [
+              "Комплектация",
+              "Набор"
+            ]
+          ]
+        },
+        {
+          "id": "dcw210b",
+          "sku": "DCW210B",
+          "label": "Без аккумулятора и зарядки",
+          "price": 16990,
+          "stock": 22,
+          "image": "media/catalog/photos/power-tools-dcw210b.webp",
+          "thumbnail": "media/catalog/thumbs/power-tools-dcw210b.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DCW210B"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Orbital Sander"
+            ],
+            [
+              "Напряжение",
+              "20V"
+            ],
+            [
+              "Исполнение",
+              "Аккумуляторный"
+            ],
+            [
+              "Питание",
+              "Аккумулятор"
+            ],
+            [
+              "Без аккумулятора",
+              "Да"
+            ],
+            [
+              "Двигатель",
+              "Бесщёточный"
+            ],
+            [
+              "Аккумуляторов в комплекте",
+              "0"
+            ],
+            [
+              "Зарядное устройство",
+              "Нет"
+            ],
+            [
+              "Регулировка оборотов",
+              "Да"
+            ],
+            [
+              "Пылеудаление",
+              "Да"
+            ],
+            [
+              "Длина",
+              "8.8-in"
+            ],
+            [
+              "Масса",
+              "1.9-lbs"
+            ],
+            [
+              "Ширина",
+              "6.4-in"
+            ],
+            [
+              "Высота",
+              "5.8-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "885911557818"
+            ],
+            [
+              "Комплектация",
+              "Набор"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": true,
+      "unit": "шт."
+    },
+    {
+      "id": "power-tools-dcg413b",
+      "name": "Угловая шлифмашина DeWALT DCG413B",
+      "brand": "DeWALT",
+      "model": "DCG413B",
+      "category": "power-tools",
+      "description": "Для резки и шлифования с совместимой оснасткой.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.dewalt.com/en-us/product/dcg413b/20v-max-xr-4-12-paddle-switch-small-angle-grinder-kickback-brake-tool-only",
+      "originalName": "20V MAX* XR® 4-1/2-in Paddle Switch Small Angle Grinder With KICKBACK BRAKE™ (Tool Only)",
+      "variants": [
+        {
+          "id": "dcg413b",
+          "sku": "DCG413B",
+          "label": "Без аккумулятора и зарядки",
+          "price": 15990,
+          "stock": 16,
+          "image": "media/catalog/photos/power-tools-dcg413b.webp",
+          "thumbnail": "media/catalog/thumbs/power-tools-dcg413b.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DCG413B"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Angle Grinder"
+            ],
+            [
+              "Напряжение",
+              "20V"
+            ],
+            [
+              "Исполнение",
+              "Аккумуляторный"
+            ],
+            [
+              "Питание",
+              "Аккумулятор"
+            ],
+            [
+              "Без аккумулятора",
+              "Да"
+            ],
+            [
+              "Двигатель",
+              "Бесщёточный"
+            ],
+            [
+              "Аккумуляторов в комплекте",
+              "0"
+            ],
+            [
+              "Зарядное устройство",
+              "Нет"
+            ],
+            [
+              "Регулировка оборотов",
+              "Нет"
+            ],
+            [
+              "Максимальная скорость",
+              "9000-rpm"
+            ],
+            [
+              "Диаметр диска",
+              "4.5-in"
+            ],
+            [
+              "Количество элементов",
+              "5"
+            ],
+            [
+              "Длина",
+              "12.9-in"
+            ],
+            [
+              "Масса",
+              "4.6-lbs"
+            ],
+            [
+              "Ширина",
+              "6.3-in"
+            ],
+            [
+              "Высота",
+              "4.88-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "885911510844"
+            ],
+            [
+              "Комплектация",
+              "Набор"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "hand-tools-stht84404",
+      "name": "Длинногубцы STANLEY STHT84404",
+      "brand": "STANLEY",
+      "model": "STHT84404",
+      "category": "hand-tools",
+      "description": "Для захвата небольших деталей и работы в труднодоступных местах.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.stanleytools.com/en-us/product/stht84404/675-long-nose-locking-pliers",
+      "originalName": "6.75-in Long Nose Locking Pliers",
+      "variants": [
+        {
+          "id": "stht84404",
+          "sku": "STHT84404",
+          "label": "Стандартная комплектация",
+          "price": 1290,
+          "stock": 0,
+          "image": "media/catalog/photos/hand-tools-stht84404.webp",
+          "thumbnail": "media/catalog/thumbs/hand-tools-stht84404.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "STHT84404"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Locking Pliers"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Количество элементов",
+              "1"
+            ],
+            [
+              "Штрихкод UPC",
+              "885911653640"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "hand-tools-20-526",
+      "name": "Ручная пила STANLEY 20-526",
+      "brand": "STANLEY",
+      "model": "20-526",
+      "category": "hand-tools",
+      "description": "Для ручного распила. Подберите полотно под материал.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.stanleytools.com/en-us/product/20-526/15-finish-cut-sharptooth-saw",
+      "originalName": "15-in Finish Cut SHARPTOOTH™ Saw",
+      "variants": [
+        {
+          "id": "20-526",
+          "sku": "20-526",
+          "label": "Стандартная комплектация",
+          "price": 1890,
+          "stock": 9,
+          "image": "media/catalog/photos/hand-tools-20-526.webp",
+          "thumbnail": "media/catalog/thumbs/hand-tools-20-526.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "20-526"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Hand Saw"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Количество элементов",
+              "1"
+            ],
+            [
+              "Материал рукоятки",
+              "Дерево"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174205268"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "hand-tools-28-593",
+      "name": "Скребок для стекла STANLEY 28-593",
+      "brand": "STANLEY",
+      "model": "28-593",
+      "category": "hand-tools",
+      "description": "Для удаления загрязнений и покрытий с подходящих поверхностей.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.stanleytools.com/en-us/product/28-593/glass-scraper",
+      "originalName": "Glass Scraper",
+      "variants": [
+        {
+          "id": "28-593",
+          "sku": "28-593",
+          "label": "Стандартная комплектация",
+          "price": 2090,
+          "stock": 12,
+          "image": "media/catalog/photos/hand-tools-28-593.webp",
+          "thumbnail": "media/catalog/thumbs/hand-tools-28-593.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "28-593"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Scraper"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Количество элементов",
+              "1"
+            ],
+            [
+              "Материал рукоятки",
+              "Plastic"
+            ],
+            [
+              "Материал полотна",
+              "Metal"
+            ],
+            [
+              "Высота",
+              "6.7-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174285932"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "hand-tools-fmht51306",
+      "name": "Молоток-гвоздодёр STANLEY FMHT51306",
+      "brand": "STANLEY",
+      "model": "FMHT51306",
+      "category": "hand-tools",
+      "description": "Для работы с гвоздями и деревянными конструкциями.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.stanleytools.com/en-us/product/fmht51306/17-oz-high-velocity-hammer",
+      "originalName": "17 oz. High Velocity Hammer",
+      "variants": [
+        {
+          "id": "fmht51306",
+          "sku": "FMHT51306",
+          "label": "Стандартная комплектация",
+          "price": 1190,
+          "stock": 15,
+          "image": "media/catalog/photos/hand-tools-fmht51306.webp",
+          "thumbnail": "media/catalog/thumbs/hand-tools-fmht51306.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "FMHT51306"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Framing Hammer"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Количество элементов",
+              "1"
+            ],
+            [
+              "Материал рукоятки",
+              "Сталь"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174513066, 76174622874"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "hand-tools-84-114",
+      "name": "Набор плоскогубцев STANLEY 84-114",
+      "brand": "STANLEY",
+      "model": "84-114",
+      "category": "hand-tools",
+      "description": "Набор для захвата, удержания и работы с проволокой.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.stanleytools.com/en-us/product/84-114/plier-set-3-pc",
+      "originalName": "Plier Set (3 pc.)",
+      "variants": [
+        {
+          "id": "84-114",
+          "sku": "84-114",
+          "label": "Стандартная комплектация",
+          "price": 1390,
+          "stock": 18,
+          "image": "media/catalog/photos/hand-tools-84-114.webp",
+          "thumbnail": "media/catalog/thumbs/hand-tools-84-114.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "84-114"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Pliers Set"
+            ],
+            [
+              "Комплектация",
+              "Набор"
+            ],
+            [
+              "Количество элементов",
+              "1"
+            ],
+            [
+              "Высота",
+              "0.9-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174841145, 76174845198"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "hand-tools-66-565",
+      "name": "Набор отвёрток STANLEY 66-565",
+      "brand": "STANLEY",
+      "model": "66-565",
+      "category": "hand-tools",
+      "description": "Для работы с резьбовым крепежом.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.stanleytools.com/en-us/product/66-565/vinyl-grip-screwdriver-set-6-piece",
+      "originalName": "Vinyl Grip Screwdriver Set (6 Piece)",
+      "variants": [
+        {
+          "id": "66-565",
+          "sku": "66-565",
+          "label": "Стандартная комплектация",
+          "price": 1590,
+          "stock": 21,
+          "image": "media/catalog/photos/hand-tools-66-565.webp",
+          "thumbnail": "media/catalog/thumbs/hand-tools-66-565.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "66-565"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Sets Screwdriver"
+            ],
+            [
+              "Комплектация",
+              "Набор"
+            ],
+            [
+              "Количество элементов",
+              "6"
+            ],
+            [
+              "Материал рукоятки",
+              "Vinyl"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174665659"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "hand-tools-fmht75081",
+      "name": "Разводной ключ STANLEY FMHT75081",
+      "brand": "STANLEY",
+      "model": "FMHT75081",
+      "category": "hand-tools",
+      "description": "Для работы с гайками и болтами разных размеров.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.stanleytools.com/en-us/product/fmht75081/10-adjustable-demo-wrench",
+      "originalName": "10-in Adjustable Demo Wrench",
+      "variants": [
+        {
+          "id": "fmht75081",
+          "sku": "FMHT75081",
+          "label": "Стандартная комплектация",
+          "price": 1790,
+          "stock": 24,
+          "image": "media/catalog/photos/hand-tools-fmht75081.webp",
+          "thumbnail": "media/catalog/thumbs/hand-tools-fmht75081.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "FMHT75081"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Adjustable Wrench"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Количество элементов",
+              "1"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174750812"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "hand-tools-20-092",
+      "name": "Ручная пила STANLEY 20-092",
+      "brand": "STANLEY",
+      "model": "20-092",
+      "category": "hand-tools",
+      "description": "Для ручного распила. Подберите полотно под материал.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.stanleytools.com/en-us/product/20-092/3-1-multi-purpose-saw",
+      "originalName": "3-in-1 Multi-Purpose Saw",
+      "variants": [
+        {
+          "id": "20-092",
+          "sku": "20-092",
+          "label": "Стандартная комплектация",
+          "price": 1990,
+          "stock": 27,
+          "image": "media/catalog/photos/hand-tools-20-092.webp",
+          "thumbnail": "media/catalog/thumbs/hand-tools-20-092.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "20-092"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Hand Saw"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Количество элементов",
+              "1"
+            ],
+            [
+              "Материал рукоятки",
+              "Резина"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174200928"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "hand-tools-28-510",
+      "name": "Лезвия для скребка STANLEY 28-510",
+      "brand": "STANLEY",
+      "model": "28-510",
+      "category": "hand-tools",
+      "description": "Сменные лезвия для совместимого скребка.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.stanleytools.com/en-us/product/28-510/glass-scraper-blade-10-pk",
+      "originalName": "Glass Scraper Blade (10 Pk)",
+      "variants": [
+        {
+          "id": "28-510",
+          "sku": "28-510",
+          "label": "Стандартная комплектация",
+          "price": 2190,
+          "stock": 30,
+          "image": "media/catalog/photos/hand-tools-28-510.webp",
+          "thumbnail": "media/catalog/thumbs/hand-tools-28-510.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "28-510"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Scraper Blade"
+            ],
+            [
+              "Комплектация",
+              "Набор"
+            ],
+            [
+              "Количество элементов",
+              "1"
+            ],
+            [
+              "Материал полотна",
+              "Углеродистая сталь"
+            ],
+            [
+              "Высота",
+              "0.79-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174285109"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "hand-tools-51-167",
+      "name": "Молоток-гвоздодёр STANLEY 51-167",
+      "brand": "STANLEY",
+      "model": "51-167",
+      "category": "hand-tools",
+      "description": "Для работы с гвоздями и деревянными конструкциями.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.stanleytools.com/en-us/product/51-167/framing-hammer",
+      "originalName": "Framing Hammer",
+      "variants": [
+        {
+          "id": "51-167",
+          "sku": "51-167",
+          "label": "Стандартная комплектация",
+          "price": 1290,
+          "stock": 5,
+          "image": "media/catalog/photos/hand-tools-51-167.webp",
+          "thumbnail": "media/catalog/thumbs/hand-tools-51-167.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "51-167"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Framing Hammer"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Количество элементов",
+              "1"
+            ],
+            [
+              "Материал рукоятки",
+              "Сталь"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174511673"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "hand-tools-84-024",
+      "name": "Переставные клещи STANLEY 84-024",
+      "brand": "STANLEY",
+      "model": "84-024",
+      "category": "hand-tools",
+      "description": "Для захвата деталей разного диаметра.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.stanleytools.com/en-us/product/84-024/10-groove-joint-pliers",
+      "originalName": "10-in Groove Joint Pliers",
+      "variants": [
+        {
+          "id": "84-024",
+          "sku": "84-024",
+          "label": "Стандартная комплектация",
+          "price": 1490,
+          "stock": 2,
+          "image": "media/catalog/photos/hand-tools-84-024.webp",
+          "thumbnail": "media/catalog/thumbs/hand-tools-84-024.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "84-024"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Groove Joint Pliers"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Количество элементов",
+              "1"
+            ],
+            [
+              "Материал рукоятки",
+              "Bi-Material"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174840247, 76174840285"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "hand-tools-54-925",
+      "name": "Набор отвёрток STANLEY 54-925",
+      "brand": "STANLEY",
+      "model": "54-925",
+      "category": "hand-tools",
+      "description": "Для работы с резьбовым крепежом.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.stanleytools.com/en-us/product/54-925/ratchet-multibit-screwdriver-set-29-pc",
+      "originalName": "Ratchet & Multibit Screwdriver Set (29 pc.)",
+      "variants": [
+        {
+          "id": "54-925",
+          "sku": "54-925",
+          "label": "Стандартная комплектация",
+          "price": 1690,
+          "stock": 11,
+          "image": "media/catalog/photos/hand-tools-54-925.webp",
+          "thumbnail": "media/catalog/thumbs/hand-tools-54-925.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "54-925"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Multi-Bit Screwdriver"
+            ],
+            [
+              "Комплектация",
+              "Набор"
+            ],
+            [
+              "Количество элементов",
+              "29"
+            ],
+            [
+              "Материал рукоятки",
+              "Bi-Material"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174549256, 76174550993"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "hand-tools-87-369",
+      "name": "Разводной ключ STANLEY 87-369",
+      "brand": "STANLEY",
+      "model": "87-369",
+      "category": "hand-tools",
+      "description": "Для работы с гайками и болтами разных размеров.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.stanleytools.com/en-us/product/87-369/8-adjustable-wrench",
+      "originalName": "8-in Adjustable Wrench",
+      "variants": [
+        {
+          "id": "87-369",
+          "sku": "87-369",
+          "label": "Стандартная комплектация",
+          "price": 1890,
+          "stock": 14,
+          "image": "media/catalog/photos/hand-tools-87-369.webp",
+          "thumbnail": "media/catalog/thumbs/hand-tools-87-369.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "87-369"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Adjustable Wrench"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Количество элементов",
+              "1"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174873696"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "hand-tools-15-334",
+      "name": "Ручная пила STANLEY 15-334",
+      "brand": "STANLEY",
+      "model": "15-334",
+      "category": "hand-tools",
+      "description": "Для ручного распила. Подберите полотно под материал.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.stanleytools.com/en-us/product/15-334/short-cut-toolbox-saw",
+      "originalName": "Short Cut Toolbox Saw",
+      "variants": [
+        {
+          "id": "15-334",
+          "sku": "15-334",
+          "label": "Стандартная комплектация",
+          "price": 2090,
+          "stock": 17,
+          "image": "media/catalog/photos/hand-tools-15-334.webp",
+          "thumbnail": "media/catalog/thumbs/hand-tools-15-334.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "15-334"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Hand Saw"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Количество элементов",
+              "1"
+            ],
+            [
+              "Материал рукоятки",
+              "Дерево"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174153347"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "hand-tools-28-500",
+      "name": "Скребок для стекла STANLEY 28-500",
+      "brand": "STANLEY",
+      "model": "28-500",
+      "category": "hand-tools",
+      "description": "Для удаления загрязнений и покрытий с подходящих поверхностей.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.stanleytools.com/en-us/product/28-500/95mm-professional-glass-scraper",
+      "originalName": "95mm Professional Glass Scraper",
+      "variants": [
+        {
+          "id": "28-500",
+          "sku": "28-500",
+          "label": "Стандартная комплектация",
+          "price": 1190,
+          "stock": 20,
+          "image": "media/catalog/photos/hand-tools-28-500.webp",
+          "thumbnail": "media/catalog/thumbs/hand-tools-28-500.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "28-500"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Scraper"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Количество элементов",
+              "1"
+            ],
+            [
+              "Материал полотна",
+              "Углеродистая сталь"
+            ],
+            [
+              "Высота",
+              "0.4-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174285000"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "hand-tools-51-505",
+      "name": "Молоток-гвоздодёр STANLEY 51-505",
+      "brand": "STANLEY",
+      "model": "51-505",
+      "category": "hand-tools",
+      "description": "Для забивания и извлечения гвоздей.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.stanleytools.com/en-us/product/51-505/16-oz450g-curved-claw-graphite-hammer",
+      "originalName": "16 oz./450g Curved Claw Graphite Hammer",
+      "variants": [
+        {
+          "id": "51-505",
+          "sku": "51-505",
+          "label": "Стандартная комплектация",
+          "price": 1390,
+          "stock": 23,
+          "image": "media/catalog/photos/hand-tools-51-505.webp",
+          "thumbnail": "media/catalog/thumbs/hand-tools-51-505.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "51-505"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Claw Hammer"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Количество элементов",
+              "1"
+            ],
+            [
+              "Материал рукоятки",
+              "Graphite"
+            ],
+            [
+              "Высота",
+              "1.61-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174515053"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "hand-tools-84-028",
+      "name": "Бокорезы STANLEY 84-028",
+      "brand": "STANLEY",
+      "model": "84-028",
+      "category": "hand-tools",
+      "description": "Для перекусывания проволоки в пределах возможностей инструмента.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.stanleytools.com/en-us/product/84-028/7-bi-material-diagonal-pliers",
+      "originalName": "7-in Bi-Material Diagonal Pliers",
+      "variants": [
+        {
+          "id": "84-028",
+          "sku": "84-028",
+          "label": "Стандартная комплектация",
+          "price": 1590,
+          "stock": 26,
+          "image": "media/catalog/photos/hand-tools-84-028.webp",
+          "thumbnail": "media/catalog/thumbs/hand-tools-84-028.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "84-028"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Diagonal Pliers"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Количество элементов",
+              "1"
+            ],
+            [
+              "Материал рукоятки",
+              "Bi-Material"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174840285, 76174840568"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "measuring-34-793",
+      "name": "Рулетка STANLEY 34-793",
+      "brand": "STANLEY",
+      "model": "34-793",
+      "category": "measuring",
+      "description": "Для измерения расстояний при ремонте и строительстве.",
+      "warning": "",
+      "source": "https://www.stanleytools.com/en-us/product/34-793/12-x-200-ft-open-reel-fiberglass-long-tape",
+      "originalName": "1/2-in x 200-ft Open Reel Fiberglass Long Tape",
+      "variants": [
+        {
+          "id": "34-793",
+          "sku": "34-793",
+          "label": "Стандартная комплектация",
+          "price": 2090,
+          "stock": 32,
+          "image": "media/catalog/photos/measuring-34-793.webp",
+          "thumbnail": "media/catalog/thumbs/measuring-34-793.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "34-793"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Tape Measure"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Материал полотна",
+              "Стекловолокно"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174347937"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "measuring-34-762",
+      "name": "Рулетка STANLEY 34-762",
+      "brand": "STANLEY",
+      "model": "34-762",
+      "category": "measuring",
+      "description": "Для измерения расстояний при ремонте и строительстве.",
+      "warning": "",
+      "source": "https://www.stanleytools.com/en-us/product/34-762/powerwinder-300-ft-fiberglass-long-tape",
+      "originalName": "POWERWINDER® 300-ft Fiberglass Long Tape",
+      "variants": [
+        {
+          "id": "34-762",
+          "sku": "34-762",
+          "label": "Стандартная комплектация",
+          "price": 2290,
+          "stock": 7,
+          "image": "media/catalog/photos/measuring-34-762.webp",
+          "thumbnail": "media/catalog/thumbs/measuring-34-762.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "34-762"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Tape Measure"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Высота",
+              "1.8-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174347623"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "measuring-46-123",
+      "name": "Комбинированный угольник STANLEY 46-123",
+      "brand": "STANLEY",
+      "model": "46-123",
+      "category": "measuring",
+      "description": "Для разметки и проверки углов.",
+      "warning": "",
+      "source": "https://www.stanleytools.com/en-us/product/46-123/12-combination-square",
+      "originalName": "12-in Combination Square",
+      "variants": [
+        {
+          "id": "46-123",
+          "sku": "46-123",
+          "label": "Стандартная комплектация",
+          "price": 1390,
+          "stock": 10,
+          "image": "media/catalog/photos/measuring-46-123.webp",
+          "thumbnail": "media/catalog/thumbs/measuring-46-123.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "46-123"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Square"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174461237, 76174461312"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "measuring-46-222",
+      "name": "Комбинированный угольник STANLEY 46-222",
+      "brand": "STANLEY",
+      "model": "46-222",
+      "category": "measuring",
+      "description": "Для разметки и проверки углов.",
+      "warning": "",
+      "source": "https://www.stanleytools.com/en-us/product/46-222/handyman-combination-square",
+      "originalName": "Handyman combination square",
+      "variants": [
+        {
+          "id": "46-222",
+          "sku": "46-222",
+          "label": "Стандартная комплектация",
+          "price": 1590,
+          "stock": 0,
+          "image": "media/catalog/photos/measuring-46-222.webp",
+          "thumbnail": "media/catalog/thumbs/measuring-46-222.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "46-222"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Square"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174462227"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "measuring-33-740",
+      "name": "Рулетка STANLEY 33-740",
+      "brand": "STANLEY",
+      "model": "33-740",
+      "category": "measuring",
+      "description": "Для измерения расстояний при ремонте и строительстве.",
+      "warning": "",
+      "source": "https://www.stanleytools.com/en-us/product/33-740/fatmax-40-ft-classic-tape-measure",
+      "originalName": "FATMAX® 40-ft CLASSIC Tape Measure",
+      "variants": [
+        {
+          "id": "33-740",
+          "sku": "33-740",
+          "label": "Стандартная комплектация",
+          "price": 1790,
+          "stock": 16,
+          "image": "media/catalog/photos/measuring-33-740.webp",
+          "thumbnail": "media/catalog/thumbs/measuring-33-740.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "33-740"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Tape Measure"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174337402"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "measuring-46-028",
+      "name": "Комбинированный угольник STANLEY 46-028",
+      "brand": "STANLEY",
+      "model": "46-028",
+      "category": "measuring",
+      "description": "Для разметки и проверки углов.",
+      "warning": "",
+      "source": "https://www.stanleytools.com/en-us/product/46-028/12-blade-combination-square",
+      "originalName": "12-in Blade Combination Square",
+      "variants": [
+        {
+          "id": "46-028",
+          "sku": "46-028",
+          "label": "Стандартная комплектация",
+          "price": 1990,
+          "stock": 19,
+          "image": "media/catalog/photos/measuring-46-028.webp",
+          "thumbnail": "media/catalog/thumbs/measuring-46-028.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "46-028"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Square"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174460285"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "measuring-42-294",
+      "name": "Строительный уровень STANLEY 42-294",
+      "brand": "STANLEY",
+      "model": "42-294",
+      "category": "measuring",
+      "description": "Для контроля горизонтали и вертикали.",
+      "warning": "",
+      "source": "https://www.stanleytools.com/en-us/product/42-294/8-203m-2v-level-torpedo",
+      "originalName": "8-in (203m) 2V Level Torpedo",
+      "variants": [
+        {
+          "id": "42-294",
+          "sku": "42-294",
+          "label": "Стандартная комплектация",
+          "price": 2190,
+          "stock": 22,
+          "image": "media/catalog/photos/measuring-42-294.webp",
+          "thumbnail": "media/catalog/thumbs/measuring-42-294.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "42-294"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Torpedo Level"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174422948"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "measuring-34-760",
+      "name": "Рулетка STANLEY 34-760",
+      "brand": "STANLEY",
+      "model": "34-760",
+      "category": "measuring",
+      "description": "Для измерения расстояний при ремонте и строительстве.",
+      "warning": "",
+      "source": "https://www.stanleytools.com/en-us/product/34-760/powerwinder-100-ft-fiberglass-long-tape",
+      "originalName": "POWERWINDER® 100-ft Fiberglass Long Tape",
+      "variants": [
+        {
+          "id": "34-760",
+          "sku": "34-760",
+          "label": "Стандартная комплектация",
+          "price": 1290,
+          "stock": 25,
+          "image": "media/catalog/photos/measuring-34-760.webp",
+          "thumbnail": "media/catalog/thumbs/measuring-34-760.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "34-760"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Tape Measure"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Материал полотна",
+              "Стекловолокно"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174347609"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "measuring-33-735",
+      "name": "Рулетка STANLEY 33-735",
+      "brand": "STANLEY",
+      "model": "33-735",
+      "category": "measuring",
+      "description": "Для измерения расстояний при ремонте и строительстве.",
+      "warning": "",
+      "source": "https://www.stanleytools.com/en-us/product/33-735/35-ft-tape",
+      "originalName": "35-ft Tape",
+      "variants": [
+        {
+          "id": "33-735",
+          "sku": "33-735",
+          "label": "Стандартная комплектация",
+          "price": 1490,
+          "stock": 28,
+          "image": "media/catalog/photos/measuring-33-735.webp",
+          "thumbnail": "media/catalog/thumbs/measuring-33-735.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "33-735"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Tape Measure"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Материал полотна",
+              "Mylar"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174337358, 76174341065"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "measuring-43-572",
+      "name": "Строительный уровень STANLEY 43-572",
+      "brand": "STANLEY",
+      "model": "43-572",
+      "category": "measuring",
+      "description": "Для контроля горизонтали и вертикали.",
+      "warning": "",
+      "source": "https://www.stanleytools.com/en-us/product/43-572/72-1800mm-box-level",
+      "originalName": "72-in (1800mm) Box Level",
+      "variants": [
+        {
+          "id": "43-572",
+          "sku": "43-572",
+          "label": "Стандартная комплектация",
+          "price": 1690,
+          "stock": 31,
+          "image": "media/catalog/photos/measuring-43-572.webp",
+          "thumbnail": "media/catalog/thumbs/measuring-43-572.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "43-572"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Box Level"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174435726"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "measuring-42-470",
+      "name": "Строительный уровень STANLEY 42-470",
+      "brand": "STANLEY",
+      "model": "42-470",
+      "category": "measuring",
+      "description": "Для контроля горизонтали и вертикали.",
+      "warning": "",
+      "source": "https://www.stanleytools.com/en-us/product/42-470/1200mm-abs-i-beam-level",
+      "originalName": "1200mm ABS I-Beam Level",
+      "variants": [
+        {
+          "id": "42-470",
+          "sku": "42-470",
+          "label": "Стандартная комплектация",
+          "price": 1890,
+          "stock": 6,
+          "image": "media/catalog/photos/measuring-42-470.webp",
+          "thumbnail": "media/catalog/thumbs/measuring-42-470.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "42-470"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "I-Beam Level"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174424706"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "accessories-dwawdf24",
+      "name": "Сверло Форстнера DeWALT DWAWDF24",
+      "brand": "DeWALT",
+      "model": "DWAWDF24",
+      "category": "accessories",
+      "description": "Для сверления отверстий подходящего диаметра в древесине.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.dewalt.com/en-us/product/dwawdf24/1-12-forstener-bit",
+      "originalName": "1 1/2\" Forstener Bit",
+      "variants": [
+        {
+          "id": "dwawdf24",
+          "sku": "DWAWDF24",
+          "label": "Стандартная комплектация",
+          "price": 1490,
+          "stock": 9,
+          "image": "media/catalog/photos/accessories-dwawdf24.webp",
+          "thumbnail": "media/catalog/thumbs/accessories-dwawdf24.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DWAWDF24"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Drill Bit"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "accessories-dwa47223",
+      "name": "Ручная пила DeWALT DWA47223",
+      "brand": "DeWALT",
+      "model": "DWA47223",
+      "category": "accessories",
+      "description": "Для ручного распила. Подберите полотно под материал.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.dewalt.com/en-us/product/dwa47223/powershift-12-xp-segmented-diamond-blade",
+      "originalName": "POWERSHIFT™ 12 in. XP Segmented Diamond* Blade",
+      "variants": [
+        {
+          "id": "dwa47223",
+          "sku": "DWA47223",
+          "label": "Стандартная комплектация",
+          "price": 1690,
+          "stock": 12,
+          "image": "media/catalog/photos/accessories-dwa47223.webp",
+          "thumbnail": "media/catalog/thumbs/accessories-dwa47223.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DWA47223"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Saw Blade"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "accessories-dwawdea16",
+      "name": "Спиральное сверло по дереву DeWALT DWAWDEA",
+      "brand": "DeWALT",
+      "model": "DWAWDEA",
+      "category": "accessories",
+      "description": "Для сверления древесины совместимым инструментом.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.dewalt.com/en-us/product/dwawdea16/elite-series-1-x-18-bi-metal-auger-bits",
+      "originalName": "ELITE SERIES™ 1\" X 18\" BI-metal Auger Bits",
+      "variants": [
+        {
+          "id": "dwawdea16",
+          "sku": "DWAWDEA16",
+          "label": "1\" × 18\"",
+          "price": 790,
+          "stock": 15,
+          "image": "media/catalog/photos/accessories-dwawdea16.webp",
+          "thumbnail": "media/catalog/thumbs/accessories-dwawdea16.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DWAWDEA16"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Auger Drill Bit"
+            ]
+          ]
+        },
+        {
+          "id": "dwawdea06",
+          "sku": "DWAWDEA06",
+          "label": "3/8\" × 18\"",
+          "price": 1190,
+          "stock": 21,
+          "image": "media/catalog/photos/accessories-dwawdea06.webp",
+          "thumbnail": "media/catalog/thumbs/accessories-dwawdea06.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DWAWDEA06"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Auger Drill Bit"
+            ]
+          ]
+        },
+        {
+          "id": "dwawdea08",
+          "sku": "DWAWDEA08",
+          "label": "1/2\" × 18\"",
+          "price": 1590,
+          "stock": 27,
+          "image": "media/catalog/photos/accessories-dwawdea08.webp",
+          "thumbnail": "media/catalog/thumbs/accessories-dwawdea08.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DWAWDEA08"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Auger Drill Bit"
+            ]
+          ]
+        },
+        {
+          "id": "dwawdea12",
+          "sku": "DWAWDEA12",
+          "label": "3/4\" × 18\"",
+          "price": 890,
+          "stock": 5,
+          "image": "media/catalog/photos/accessories-dwawdea12.webp",
+          "thumbnail": "media/catalog/thumbs/accessories-dwawdea12.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DWAWDEA12"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Auger Drill Bit"
+            ]
+          ]
+        },
+        {
+          "id": "dwawdea14",
+          "sku": "DWAWDEA14",
+          "label": "7/8\" × 18\"",
+          "price": 1290,
+          "stock": 11,
+          "image": "media/catalog/photos/accessories-dwawdea14.webp",
+          "thumbnail": "media/catalog/thumbs/accessories-dwawdea14.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DWAWDEA14"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Auger Drill Bit"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "accessories-dwa47225",
+      "name": "Ручная пила DeWALT DWA47225",
+      "brand": "DeWALT",
+      "model": "DWA47225",
+      "category": "accessories",
+      "description": "Для ручного распила. Подберите полотно под материал.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.dewalt.com/en-us/product/dwa47225/powershift-12-xp4-segmented-diamond-blade",
+      "originalName": "POWERSHIFT™ 12 in. XP4 Segmented Diamond* Blade",
+      "variants": [
+        {
+          "id": "dwa47225",
+          "sku": "DWA47225",
+          "label": "Стандартная комплектация",
+          "price": 990,
+          "stock": 2,
+          "image": "media/catalog/photos/accessories-dwa47225.webp",
+          "thumbnail": "media/catalog/thumbs/accessories-dwa47225.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DWA47225"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Saw Blade"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "accessories-dw812dado",
+      "name": "Ручная пила DeWALT DW812DADO",
+      "brand": "DeWALT",
+      "model": "DW812DADO",
+      "category": "accessories",
+      "description": "Для ручного распила. Подберите полотно под материал.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.dewalt.com/en-us/product/dw812dado/stacked-dado-sets",
+      "originalName": "Stacked Dado Sets",
+      "variants": [
+        {
+          "id": "dw812dado",
+          "sku": "DW812DADO",
+          "label": "Стандартная комплектация",
+          "price": 1390,
+          "stock": 24,
+          "image": "media/catalog/photos/accessories-dw812dado.webp",
+          "thumbnail": "media/catalog/thumbs/accessories-dw812dado.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DW812DADO"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Table Saw Blade"
+            ],
+            [
+              "Питание",
+              "Unpowered"
+            ],
+            [
+              "Высота",
+              "2.5-in"
+            ],
+            [
+              "Длина",
+              "11.7-in"
+            ],
+            [
+              "Ширина",
+              "9.5-in"
+            ],
+            [
+              "Масса",
+              "6.67-lbs"
+            ],
+            [
+              "Количество элементов",
+              "15"
+            ],
+            [
+              "Штрихкод UPC",
+              "885911593052"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "accessories-dwa271424l",
+      "name": "Ручная пила DeWALT DWA271424L",
+      "brand": "DeWALT",
+      "model": "DWA271424L",
+      "category": "accessories",
+      "description": "Для ручного распила. Подберите полотно под материал.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.dewalt.com/en-us/product/dwa271424l/7-14-24t-circular-saw-blade",
+      "originalName": "7-1/4-In. 24T Circular Saw Blade",
+      "variants": [
+        {
+          "id": "dwa271424l",
+          "sku": "DWA271424L",
+          "label": "Стандартная комплектация",
+          "price": 690,
+          "stock": 30,
+          "image": "media/catalog/photos/accessories-dwa271424l.webp",
+          "thumbnail": "media/catalog/thumbs/accessories-dwa271424l.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DWA271424L"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Circular Saw Blade"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Количество элементов",
+              "1"
+            ],
+            [
+              "Материал полотна",
+              "Carbide Tipped"
+            ],
+            [
+              "Количество зубьев",
+              "24"
+            ],
+            [
+              "Длина",
+              "8.3-in"
+            ],
+            [
+              "Масса",
+              "0.54-lbs"
+            ],
+            [
+              "Ширина",
+              "7.3-in"
+            ],
+            [
+              "Высота",
+              "0.1-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "885912000000"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "accessories-dwa7739",
+      "name": "Ручная пила DeWALT DWA7739",
+      "brand": "DeWALT",
+      "model": "DWA7739",
+      "category": "accessories",
+      "description": "Для ручного распила. Подберите полотно под материал.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.dewalt.com/en-us/product/dwa7739/7-48t-stainless-steel-metal-cutting-saw-blade",
+      "originalName": "7 in. 48T Stainless Steel Metal Cutting Saw Blade",
+      "variants": [
+        {
+          "id": "dwa7739",
+          "sku": "DWA7739",
+          "label": "Стандартная комплектация",
+          "price": 1090,
+          "stock": 8,
+          "image": "media/catalog/photos/accessories-dwa7739.webp",
+          "thumbnail": "media/catalog/thumbs/accessories-dwa7739.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DWA7739"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Saw Blade"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Количество элементов",
+              "1"
+            ],
+            [
+              "Материал полотна",
+              "Carbide Tipped"
+            ],
+            [
+              "Количество зубьев",
+              "80"
+            ],
+            [
+              "Длина",
+              "13.63-in"
+            ],
+            [
+              "Масса",
+              "2.7-lbs"
+            ],
+            [
+              "Ширина",
+              "0.5-in"
+            ],
+            [
+              "Высота",
+              "15.63-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "28877345444"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "accessories-dw7114pt",
+      "name": "Ручная пила DeWALT DW7114PT",
+      "brand": "DeWALT",
+      "model": "DW7114PT",
+      "category": "accessories",
+      "description": "Для ручного распила. Подберите полотно под материал.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.dewalt.com/en-us/product/dw7114pt/7-14-40t-precision-trim-miter-saw-blade",
+      "originalName": "7-1/4-in. 40t precision trim miter saw blade",
+      "variants": [
+        {
+          "id": "dw7114pt",
+          "sku": "DW7114PT",
+          "label": "Стандартная комплектация",
+          "price": 1490,
+          "stock": 14,
+          "image": "media/catalog/photos/accessories-dw7114pt.webp",
+          "thumbnail": "media/catalog/thumbs/accessories-dw7114pt.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DW7114PT"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Saw Blade"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ],
+            [
+              "Количество элементов",
+              "1"
+            ],
+            [
+              "Материал полотна",
+              "Carbide Tipped"
+            ],
+            [
+              "Количество зубьев",
+              "40"
+            ],
+            [
+              "Длина",
+              "9.8-in"
+            ],
+            [
+              "Масса",
+              "0.59-lbs"
+            ],
+            [
+              "Ширина",
+              "9.0-in"
+            ],
+            [
+              "Высота",
+              "0.3-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "885911394840"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "fasteners-dwbn18pp",
+      "name": "Скобы для степлера DeWALT DWBN18PP",
+      "brand": "DeWALT",
+      "model": "DWBN18PP",
+      "category": "fasteners",
+      "description": "Для крепления материалов совместимым степлером.",
+      "warning": "",
+      "source": "https://www.dewalt.com/en-us/product/dwbn18pp/18-gauge-brad-nail-project-pack",
+      "originalName": "18-Gauge Brad Nail Project Pack",
+      "variants": [
+        {
+          "id": "dwbn18pp",
+          "sku": "DWBN18PP",
+          "label": "Стандартная комплектация",
+          "price": 1490,
+          "stock": 17,
+          "image": "media/catalog/photos/fasteners-dwbn18pp.webp",
+          "thumbnail": "media/catalog/thumbs/fasteners-dwbn18pp.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DWBN18PP"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Brad Nails"
+            ],
+            [
+              "Длина",
+              "2.19-in"
+            ],
+            [
+              "Ширина",
+              "0.56-in"
+            ],
+            [
+              "Масса",
+              "0.6-lbs"
+            ],
+            [
+              "Штрихкод UPC",
+              "885912000000"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "упак."
+    },
+    {
+      "id": "fasteners-tra706-5c",
+      "name": "Скобы для степлера STANLEY TRA706-5C",
+      "brand": "STANLEY",
+      "model": "TRA706-5C",
+      "category": "fasteners",
+      "description": "Для крепления материалов совместимым степлером.",
+      "warning": "",
+      "source": "https://www.stanleytools.com/en-us/product/tra706-5c/38-heavy-duty-staples-5000-pk",
+      "originalName": "3/8-in Heavy Duty Staples (5000 Pk)",
+      "variants": [
+        {
+          "id": "tra706-5c",
+          "sku": "TRA706-5C",
+          "label": "Стандартная комплектация",
+          "price": 590,
+          "stock": 20,
+          "image": "media/catalog/photos/fasteners-tra706-5c.webp",
+          "thumbnail": "media/catalog/thumbs/fasteners-tra706-5c.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "TRA706-5C"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Staples"
+            ],
+            [
+              "Количество элементов",
+              "5000"
+            ],
+            [
+              "Штрихкод UPC",
+              "45731043636"
+            ],
+            [
+              "Комплектация",
+              "Набор"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "упак."
+    },
+    {
+      "id": "fasteners-dcs16200",
+      "name": "Скобы для степлера DeWALT DCS16200",
+      "brand": "DeWALT",
+      "model": "DCS16200",
+      "category": "fasteners",
+      "description": "Для крепления материалов совместимым степлером.",
+      "warning": "",
+      "source": "https://www.dewalt.com/en-us/product/dcs16200/2-12-16ga-straight-finish-nail-2500-pk",
+      "originalName": "2-1/2 in. 16ga Straight Finish Nail (2500 Pk)",
+      "variants": [
+        {
+          "id": "dcs16200",
+          "sku": "DCS16200",
+          "label": "Стандартная комплектация",
+          "price": 790,
+          "stock": 2,
+          "image": "media/catalog/photos/fasteners-dcs16200.webp",
+          "thumbnail": "media/catalog/thumbs/fasteners-dcs16200.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DCS16200"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Finishing Nails"
+            ],
+            [
+              "Комплектация",
+              "Набор"
+            ],
+            [
+              "Количество элементов",
+              "2500"
+            ],
+            [
+              "Длина",
+              "4.1-in"
+            ],
+            [
+              "Масса",
+              "4.1-lbs"
+            ],
+            [
+              "Ширина",
+              "3.28-in"
+            ],
+            [
+              "Высота",
+              "2.31-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "28877488387"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "упак."
+    },
+    {
+      "id": "fasteners-dca15200-2",
+      "name": "Скобы для степлера DeWALT DCA15200-2",
+      "brand": "DeWALT",
+      "model": "DCA15200-2",
+      "category": "fasteners",
+      "description": "Для крепления материалов совместимым степлером.",
+      "warning": "",
+      "source": "https://www.dewalt.com/en-us/product/dca15200-2/15-gauge-2-34-degree-da-style-angled-finish-nails-2500-pack",
+      "originalName": "15 gauge 2-in. 34-degree da style angled finish nails (2500-pack)",
+      "variants": [
+        {
+          "id": "dca15200-2",
+          "sku": "DCA15200-2",
+          "label": "Стандартная комплектация",
+          "price": 990,
+          "stock": 0,
+          "image": "media/catalog/photos/fasteners-dca15200-2.webp",
+          "thumbnail": "media/catalog/thumbs/fasteners-dca15200-2.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DCA15200-2"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Finishing Nails"
+            ],
+            [
+              "Комплектация",
+              "Набор"
+            ],
+            [
+              "Количество элементов",
+              "2500"
+            ],
+            [
+              "Длина",
+              "11.4-in"
+            ],
+            [
+              "Масса",
+              "5.9-lbs"
+            ],
+            [
+              "Ширина",
+              "2.1-in"
+            ],
+            [
+              "Высота",
+              "2.0-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "885911414111"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "упак."
+    },
+    {
+      "id": "fasteners-dwc10p120d",
+      "name": "Скобы для степлера DeWALT DWC10P120D",
+      "brand": "DeWALT",
+      "model": "DWC10P120D",
+      "category": "fasteners",
+      "description": "Для крепления материалов совместимым степлером.",
+      "warning": "",
+      "source": "https://www.dewalt.com/en-us/product/dwc10p120d/3-x-0120-15-degree-smooth-brite-coil-nails-2700-pack",
+      "originalName": "3-in X 0.120-in 15 degree smooth brite coil nails (2700-pack)",
+      "variants": [
+        {
+          "id": "dwc10p120d",
+          "sku": "DWC10P120D",
+          "label": "Стандартная комплектация",
+          "price": 1190,
+          "stock": 29,
+          "image": "media/catalog/photos/fasteners-dwc10p120d.webp",
+          "thumbnail": "media/catalog/thumbs/fasteners-dwc10p120d.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DWC10P120D"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Framing Nails"
+            ],
+            [
+              "Комплектация",
+              "Набор"
+            ],
+            [
+              "Количество элементов",
+              "2700"
+            ],
+            [
+              "Длина",
+              "13.87-in"
+            ],
+            [
+              "Масса",
+              "27.08-lbs"
+            ],
+            [
+              "Ширина",
+              "9.83-in"
+            ],
+            [
+              "Высота",
+              "7.7-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "885911407816"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "упак."
+    },
+    {
+      "id": "fasteners-dwpn23138",
+      "name": "Скобы для степлера DeWALT DWPN23138",
+      "brand": "DeWALT",
+      "model": "DWPN23138",
+      "category": "fasteners",
+      "description": "Для крепления материалов совместимым степлером.",
+      "warning": "",
+      "source": "https://www.dewalt.com/en-us/product/dwpn23138/1-12-23ga-pin-nail-chisel-point-2000-pk",
+      "originalName": "1-1/2 in. 23GA, Pin Nail, Chisel Point (2,000 PK)",
+      "variants": [
+        {
+          "id": "dwpn23138",
+          "sku": "DWPN23138",
+          "label": "Стандартная комплектация",
+          "price": 1390,
+          "stock": 32,
+          "image": "media/catalog/photos/fasteners-dwpn23138.webp",
+          "thumbnail": "media/catalog/thumbs/fasteners-dwpn23138.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DWPN23138"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Brad Nails"
+            ],
+            [
+              "Количество элементов",
+              "2000"
+            ],
+            [
+              "Высота",
+              "0.7-in"
+            ],
+            [
+              "Длина",
+              "3.0-in"
+            ],
+            [
+              "Масса",
+              "0.4-lbs"
+            ],
+            [
+              "Ширина",
+              "1.6-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "885912000000"
+            ],
+            [
+              "Комплектация",
+              "Набор"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "упак."
+    },
+    {
+      "id": "fasteners-dwc8p99d",
+      "name": "Скобы для степлера DeWALT DWC8P99D",
+      "brand": "DeWALT",
+      "model": "DWC8P99D",
+      "category": "fasteners",
+      "description": "Для крепления материалов совместимым степлером.",
+      "warning": "",
+      "source": "https://www.dewalt.com/en-us/product/dwc8p99d/2-12-x-0099-15-degree-smooth-brite-coil-nails-3600-pack",
+      "originalName": "2-1/2-in X 0.099-in 15 Degree Smooth Brite Coil Nails (3600-Pack)",
+      "variants": [
+        {
+          "id": "dwc8p99d",
+          "sku": "DWC8P99D",
+          "label": "Стандартная комплектация",
+          "price": 490,
+          "stock": 7,
+          "image": "media/catalog/photos/fasteners-dwc8p99d.webp",
+          "thumbnail": "media/catalog/thumbs/fasteners-dwc8p99d.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DWC8P99D"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Nails"
+            ],
+            [
+              "Комплектация",
+              "Набор"
+            ],
+            [
+              "Количество элементов",
+              "3600"
+            ],
+            [
+              "Длина",
+              "14.0-in"
+            ],
+            [
+              "Масса",
+              "20.25-lbs"
+            ],
+            [
+              "Ширина",
+              "9.63-in"
+            ],
+            [
+              "Высота",
+              "6.0-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "885911415125"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "упак."
+    },
+    {
+      "id": "fasteners-dcs16125",
+      "name": "Скобы для степлера DeWALT DCS16125",
+      "brand": "DeWALT",
+      "model": "DCS16125",
+      "category": "fasteners",
+      "description": "Для крепления материалов совместимым степлером.",
+      "warning": "",
+      "source": "https://www.dewalt.com/en-us/product/dcs16125/2-12-16ga-straight-finish-nail-2500-pk",
+      "originalName": "2-1/2 in. 16ga Straight Finish Nail (2500 Pk)",
+      "variants": [
+        {
+          "id": "dcs16125",
+          "sku": "DCS16125",
+          "label": "Стандартная комплектация",
+          "price": 690,
+          "stock": 10,
+          "image": "media/catalog/photos/fasteners-dcs16125.webp",
+          "thumbnail": "media/catalog/thumbs/fasteners-dcs16125.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DCS16125"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Finishing Nails"
+            ],
+            [
+              "Комплектация",
+              "Набор"
+            ],
+            [
+              "Количество элементов",
+              "2500"
+            ],
+            [
+              "Длина",
+              "3.2-in"
+            ],
+            [
+              "Масса",
+              "2.75-lbs"
+            ],
+            [
+              "Ширина",
+              "3.87-in"
+            ],
+            [
+              "Высота",
+              "1.59-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "28877488325"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "упак."
+    },
+    {
+      "id": "fasteners-dws16d131-fh",
+      "name": "Скобы для степлера DeWALT DWS16D131-FH",
+      "brand": "DeWALT",
+      "model": "DWS16D131-FH",
+      "category": "fasteners",
+      "description": "Для крепления материалов совместимым степлером.",
+      "warning": "",
+      "source": "https://www.dewalt.com/en-us/product/dws16d131-fh/3-12-x-0131-smooth-shank-brite-28-degree-wire-weld-framing-nails-2000-pack",
+      "originalName": "3-1/2-in X 0.131-in Smooth shank brite 28 degree wire weld framing nails (2000-pack)",
+      "variants": [
+        {
+          "id": "dws16d131-fh",
+          "sku": "DWS16D131-FH",
+          "label": "Стандартная комплектация",
+          "price": 890,
+          "stock": 13,
+          "image": "media/catalog/photos/fasteners-dws16d131-fh.webp",
+          "thumbnail": "media/catalog/thumbs/fasteners-dws16d131-fh.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DWS16D131-FH"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Framing Nails"
+            ],
+            [
+              "Комплектация",
+              "Набор"
+            ],
+            [
+              "Количество элементов",
+              "2000"
+            ],
+            [
+              "Длина",
+              "10.5-in"
+            ],
+            [
+              "Масса",
+              "26.42-lbs"
+            ],
+            [
+              "Ширина",
+              "5.73-in"
+            ],
+            [
+              "Высота",
+              "4.53-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "885911473279"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "упак."
+    },
+    {
+      "id": "fasteners-dca15250g-2",
+      "name": "Скобы для степлера DeWALT DCA15250G-2",
+      "brand": "DeWALT",
+      "model": "DCA15250G-2",
+      "category": "fasteners",
+      "description": "Для крепления материалов совместимым степлером.",
+      "warning": "",
+      "source": "https://www.dewalt.com/en-us/product/dca15250g-2/15-gauge-2-12-galvanized-34-degree-da-style-angled-finish-nails-2500-pack",
+      "originalName": "15 gauge 2-1/2-in. Galvanized 34-degree da style angled finish nails (2500-pack)",
+      "variants": [
+        {
+          "id": "dca15250g-2",
+          "sku": "DCA15250G-2",
+          "label": "Стандартная комплектация",
+          "price": 1090,
+          "stock": 16,
+          "image": "media/catalog/photos/fasteners-dca15250g-2.webp",
+          "thumbnail": "media/catalog/thumbs/fasteners-dca15250g-2.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DCA15250G-2"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Finishing Nails"
+            ],
+            [
+              "Комплектация",
+              "Набор"
+            ],
+            [
+              "Количество элементов",
+              "2500"
+            ],
+            [
+              "Длина",
+              "11.5-in"
+            ],
+            [
+              "Масса",
+              "7.35-lbs"
+            ],
+            [
+              "Ширина",
+              "2.2-in"
+            ],
+            [
+              "Высота",
+              "2.38-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "885911414142"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "упак."
+    },
+    {
+      "id": "fasteners-dw16s2-25gal",
+      "name": "Скобы для степлера DeWALT DW16S2-25GAL",
+      "brand": "DeWALT",
+      "model": "DW16S2-25GAL",
+      "category": "fasteners",
+      "description": "Для крепления материалов совместимым степлером.",
+      "warning": "",
+      "source": "https://www.dewalt.com/en-us/product/dw16s2-25gal/34-1-crown-galvanized-construction-staple-16-gauge",
+      "originalName": "3/4-in. 1-in Crown galvanized construction staple (16 gauge)",
+      "variants": [
+        {
+          "id": "dw16s2-25gal",
+          "sku": "DW16S2-25GAL",
+          "label": "Стандартная комплектация",
+          "price": 1290,
+          "stock": 19,
+          "image": "media/catalog/photos/fasteners-dw16s2-25gal.webp",
+          "thumbnail": "media/catalog/thumbs/fasteners-dw16s2-25gal.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DW16S2-25GAL"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Staples"
+            ],
+            [
+              "Количество элементов",
+              "2000"
+            ],
+            [
+              "Высота",
+              "3.44-in"
+            ],
+            [
+              "Длина",
+              "6.13-in"
+            ],
+            [
+              "Масса",
+              "4.65-lbs"
+            ],
+            [
+              "Ширина",
+              "4.7-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "885911406833"
+            ],
+            [
+              "Комплектация",
+              "Набор"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "упак."
+    },
+    {
+      "id": "fasteners-dns18150-2",
+      "name": "Скобы для степлера DeWALT DNS18150-2",
+      "brand": "DeWALT",
+      "model": "DNS18150-2",
+      "category": "fasteners",
+      "description": "Для крепления материалов совместимым степлером.",
+      "warning": "",
+      "source": "https://www.dewalt.com/en-us/product/dns18150-2/1-12-18ga-14-crown-2500-pk",
+      "originalName": "1-1/2 in. 18ga 1/4 in. Crown (2500 Pk)",
+      "variants": [
+        {
+          "id": "dns18150-2",
+          "sku": "DNS18150-2",
+          "label": "Стандартная комплектация",
+          "price": 1490,
+          "stock": 22,
+          "image": "media/catalog/photos/fasteners-dns18150-2.webp",
+          "thumbnail": "media/catalog/thumbs/fasteners-dns18150-2.webp",
+          "specs": [
+            [
+              "Производитель",
+              "DeWALT"
+            ],
+            [
+              "Модель / артикул",
+              "DNS18150-2"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Staples"
+            ],
+            [
+              "Количество элементов",
+              "2500"
+            ],
+            [
+              "Высота",
+              "1.75-in"
+            ],
+            [
+              "Длина",
+              "5.63-in"
+            ],
+            [
+              "Масса",
+              "3.75-lbs"
+            ],
+            [
+              "Ширина",
+              "3.69-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "885911414036"
+            ],
+            [
+              "Комплектация",
+              "Набор"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "упак."
+    },
+    {
+      "id": "coatings-3153895181624",
+      "name": "Защитное покрытие для столешниц V33 Renovation",
+      "brand": "V33",
+      "model": "3153895181624",
+      "category": "coatings",
+      "description": "Для дополнительной защиты столешниц по инструкции производителя.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.v33.co.uk/renovation-cupboard-worktop/",
+      "originalName": "V33 Renovation Worktop Protection",
+      "variants": [
+        {
+          "id": "3153895181624",
+          "sku": "3153895181624",
+          "label": "Стандартная комплектация",
+          "price": 2290,
+          "stock": 25,
+          "image": "media/catalog/photos/coatings-3153895181624.webp",
+          "thumbnail": "media/catalog/thumbs/coatings-3153895181624.webp",
+          "specs": [
+            [
+              "Производитель",
+              "V33"
+            ],
+            [
+              "Модель / артикул",
+              "3153895181624"
+            ],
+            [
+              "Цвет на фотографии",
+              "Белый, сатиновый"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "coatings-131632",
+      "name": "Жидкая гидроизоляция Soudal 131632",
+      "brand": "Soudal",
+      "model": "131632",
+      "category": "coatings",
+      "description": "Для гидроизоляции совместимых оснований.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.soudal.co.uk/pro/products/coatings",
+      "originalName": "Soudagum Hydro",
+      "variants": [
+        {
+          "id": "131632",
+          "sku": "131632",
+          "label": "Стандартная комплектация",
+          "price": 2490,
+          "stock": 2,
+          "image": "media/catalog/photos/coatings-131632.webp",
+          "thumbnail": "media/catalog/thumbs/coatings-131632.webp",
+          "specs": [
+            [
+              "Производитель",
+              "Soudal"
+            ],
+            [
+              "Модель / артикул",
+              "131632"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "coatings-123012",
+      "name": "Грунтовка Soudal 123012",
+      "brand": "Soudal",
+      "model": "123012",
+      "category": "coatings",
+      "description": "Для подготовки поверхности перед нанесением совместимых материалов.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.soudal.co.uk/pro/products/cleaners-sprays-and-primers",
+      "originalName": "Primer 100",
+      "variants": [
+        {
+          "id": "123012",
+          "sku": "123012",
+          "label": "Стандартная комплектация",
+          "price": 2690,
+          "stock": 31,
+          "image": "media/catalog/photos/coatings-123012.webp",
+          "thumbnail": "media/catalog/thumbs/coatings-123012.webp",
+          "specs": [
+            [
+              "Производитель",
+              "Soudal"
+            ],
+            [
+              "Модель / артикул",
+              "123012"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "coatings-134553",
+      "name": "Жидкая гидроизоляция Soudal 134553",
+      "brand": "Soudal",
+      "model": "134553",
+      "category": "coatings",
+      "description": "Для гидроизоляции совместимых оснований.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.soudal.co.uk/pro/products/coatings",
+      "originalName": "Soudagum Hydro Kit",
+      "variants": [
+        {
+          "id": "134553",
+          "sku": "134553",
+          "label": "Стандартная комплектация",
+          "price": 3090,
+          "stock": 9,
+          "image": "media/catalog/photos/coatings-134553.webp",
+          "thumbnail": "media/catalog/thumbs/coatings-134553.webp",
+          "specs": [
+            [
+              "Производитель",
+              "Soudal"
+            ],
+            [
+              "Модель / артикул",
+              "134553"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "coatings-123011",
+      "name": "Грунтовка Soudal 123011",
+      "brand": "Soudal",
+      "model": "123011",
+      "category": "coatings",
+      "description": "Для подготовки поверхности перед нанесением совместимых материалов.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.soudal.co.uk/pro/products/cleaners-sprays-and-primers",
+      "originalName": "Primer 150",
+      "variants": [
+        {
+          "id": "123011",
+          "sku": "123011",
+          "label": "Стандартная комплектация",
+          "price": 2190,
+          "stock": 12,
+          "image": "media/catalog/photos/coatings-123011.webp",
+          "thumbnail": "media/catalog/thumbs/coatings-123011.webp",
+          "specs": [
+            [
+              "Производитель",
+              "Soudal"
+            ],
+            [
+              "Модель / артикул",
+              "123011"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "coatings-3153895181556",
+      "name": "Краска для пола и лестниц V33 Renovation",
+      "brand": "V33",
+      "model": "3153895181556",
+      "category": "coatings",
+      "description": "Для обновления пола и лестниц внутри помещения.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.v33.co.uk/renovation-cupboard-worktop/",
+      "originalName": "V33 Floor & Stairs Paint",
+      "variants": [
+        {
+          "id": "3153895181556",
+          "sku": "3153895181556",
+          "label": "Белый сатиновый · 2 л",
+          "price": 2390,
+          "stock": 15,
+          "image": "media/catalog/photos/coatings-3153895181556.webp",
+          "thumbnail": "media/catalog/thumbs/coatings-3153895181556.webp",
+          "specs": [
+            [
+              "Производитель",
+              "V33"
+            ],
+            [
+              "Модель / артикул",
+              "3153895181556"
+            ],
+            [
+              "Цвет на фотографии",
+              "Белый, сатиновый"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "coatings-112595",
+      "name": "Гидроизоляционное покрытие Soudal 112595",
+      "brand": "Soudal",
+      "model": "112595",
+      "category": "coatings",
+      "description": "Для ремонтной герметизации совместимых оснований.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.soudal.co.uk/pro/products/coatings",
+      "originalName": "Water Stop",
+      "variants": [
+        {
+          "id": "112595",
+          "sku": "112595",
+          "label": "Стандартная комплектация",
+          "price": 2590,
+          "stock": 18,
+          "image": "media/catalog/photos/coatings-112595.webp",
+          "thumbnail": "media/catalog/thumbs/coatings-112595.webp",
+          "specs": [
+            [
+              "Производитель",
+              "Soudal"
+            ],
+            [
+              "Модель / артикул",
+              "112595"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "coatings-122255",
+      "name": "Грунтовка для подготовки поверхности Soudal 122255",
+      "brand": "Soudal",
+      "model": "122255",
+      "category": "coatings",
+      "description": "Для подготовки поверхности по инструкции производителя.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.soudal.co.uk/pro/products/cleaners-sprays-and-primers",
+      "originalName": "Aluprep",
+      "variants": [
+        {
+          "id": "122255",
+          "sku": "122255",
+          "label": "Стандартная комплектация",
+          "price": 2790,
+          "stock": 21,
+          "image": "media/catalog/photos/coatings-122255.webp",
+          "thumbnail": "media/catalog/thumbs/coatings-122255.webp",
+          "specs": [
+            [
+              "Производитель",
+              "Soudal"
+            ],
+            [
+              "Модель / артикул",
+              "122255"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "coatings-101638",
+      "name": "Активатор поверхности Soudal 101638",
+      "brand": "Soudal",
+      "model": "101638",
+      "category": "coatings",
+      "description": "Для подготовки поверхности перед склеиванием.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.soudal.co.uk/pro/products/cleaners-sprays-and-primers",
+      "originalName": "Surface Activator",
+      "variants": [
+        {
+          "id": "101638",
+          "sku": "101638",
+          "label": "Стандартная комплектация",
+          "price": 2990,
+          "stock": 24,
+          "image": "media/catalog/photos/coatings-101638.webp",
+          "thumbnail": "media/catalog/thumbs/coatings-101638.webp",
+          "specs": [
+            [
+              "Производитель",
+              "Soudal"
+            ],
+            [
+              "Модель / артикул",
+              "101638"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "chemistry-106329",
+      "name": "Огнестойкий акриловый герметик Soudal 106329",
+      "brand": "Soudal",
+      "model": "106329",
+      "category": "chemistry",
+      "description": "Для герметизации швов в соответствующей системе применения.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.soudal.co.uk/pro/products/sealants",
+      "originalName": "Firecryl FR",
+      "variants": [
+        {
+          "id": "106329",
+          "sku": "106329",
+          "label": "Стандартная комплектация",
+          "price": 1690,
+          "stock": 27,
+          "image": "media/catalog/photos/chemistry-106329.webp",
+          "thumbnail": "media/catalog/thumbs/chemistry-106329.webp",
+          "specs": [
+            [
+              "Производитель",
+              "Soudal"
+            ],
+            [
+              "Модель / артикул",
+              "106329"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "chemistry-124203",
+      "name": "Паркетный клей Soudal 124203",
+      "brand": "Soudal",
+      "model": "124203",
+      "category": "chemistry",
+      "description": "Для приклеивания подходящих напольных покрытий.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.soudal.co.uk/pro/products/adhesives",
+      "originalName": "MS-20PLUS",
+      "variants": [
+        {
+          "id": "124203",
+          "sku": "124203",
+          "label": "Стандартная комплектация",
+          "price": 990,
+          "stock": 2,
+          "image": "media/catalog/photos/chemistry-124203.webp",
+          "thumbnail": "media/catalog/thumbs/chemistry-124203.webp",
+          "specs": [
+            [
+              "Производитель",
+              "Soudal"
+            ],
+            [
+              "Модель / артикул",
+              "124203"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "chemistry-113628",
+      "name": "Гибридный герметик Soudal 113628",
+      "brand": "Soudal",
+      "model": "113628",
+      "category": "chemistry",
+      "description": "Для герметизации совместимых швов и соединений.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.soudal.co.uk/pro/products/sealants",
+      "originalName": "Soudaseal FR",
+      "variants": [
+        {
+          "id": "113628",
+          "sku": "113628",
+          "label": "Стандартная комплектация",
+          "price": 1190,
+          "stock": 8,
+          "image": "media/catalog/photos/chemistry-113628.webp",
+          "thumbnail": "media/catalog/thumbs/chemistry-113628.webp",
+          "specs": [
+            [
+              "Производитель",
+              "Soudal"
+            ],
+            [
+              "Модель / артикул",
+              "113628"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "chemistry-130578",
+      "name": "Монтажная пена Soudal 130578",
+      "brand": "Soudal",
+      "model": "130578",
+      "category": "chemistry",
+      "description": "Для заполнения и герметизации монтажных швов.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.soudal.co.uk/pro/products/expanding-foam",
+      "originalName": "Soudafoam Gun Win. & Door XTRA",
+      "variants": [
+        {
+          "id": "130578",
+          "sku": "130578",
+          "label": "Стандартная комплектация",
+          "price": 1390,
+          "stock": 0,
+          "image": "media/catalog/photos/chemistry-130578.webp",
+          "thumbnail": "media/catalog/thumbs/chemistry-130578.webp",
+          "specs": [
+            [
+              "Производитель",
+              "Soudal"
+            ],
+            [
+              "Модель / артикул",
+              "130578"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "chemistry-124204",
+      "name": "Паркетный клей Soudal 124204",
+      "brand": "Soudal",
+      "model": "124204",
+      "category": "chemistry",
+      "description": "Для приклеивания подходящих напольных покрытий.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.soudal.co.uk/pro/products/adhesives",
+      "originalName": "MS-30PLUS",
+      "variants": [
+        {
+          "id": "124204",
+          "sku": "124204",
+          "label": "Стандартная комплектация",
+          "price": 1590,
+          "stock": 14,
+          "image": "media/catalog/photos/chemistry-124204.webp",
+          "thumbnail": "media/catalog/thumbs/chemistry-124204.webp",
+          "specs": [
+            [
+              "Производитель",
+              "Soudal"
+            ],
+            [
+              "Модель / артикул",
+              "124204"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "chemistry-122156",
+      "name": "Огнестойкий силиконовый герметик Soudal 122156",
+      "brand": "Soudal",
+      "model": "122156",
+      "category": "chemistry",
+      "description": "Для герметизации швов по инструкции производителя.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.soudal.co.uk/pro/products/sealants",
+      "originalName": "Fire Silicone B1 FR",
+      "variants": [
+        {
+          "id": "122156",
+          "sku": "122156",
+          "label": "Стандартная комплектация",
+          "price": 690,
+          "stock": 17,
+          "image": "media/catalog/photos/chemistry-122156.webp",
+          "thumbnail": "media/catalog/thumbs/chemistry-122156.webp",
+          "specs": [
+            [
+              "Производитель",
+              "Soudal"
+            ],
+            [
+              "Модель / артикул",
+              "122156"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "chemistry-130581",
+      "name": "Монтажная пена Soudal 130581",
+      "brand": "Soudal",
+      "model": "130581",
+      "category": "chemistry",
+      "description": "Для заполнения и герметизации монтажных швов.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.soudal.co.uk/pro/products/expanding-foam",
+      "originalName": "Soudafoam Window & Door",
+      "variants": [
+        {
+          "id": "130581",
+          "sku": "130581",
+          "label": "Стандартная комплектация",
+          "price": 890,
+          "stock": 20,
+          "image": "media/catalog/photos/chemistry-130581.webp",
+          "thumbnail": "media/catalog/thumbs/chemistry-130581.webp",
+          "specs": [
+            [
+              "Производитель",
+              "Soudal"
+            ],
+            [
+              "Модель / артикул",
+              "130581"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "chemistry-124036",
+      "name": "Паркетный клей Soudal 124036",
+      "brand": "Soudal",
+      "model": "124036",
+      "category": "chemistry",
+      "description": "Для приклеивания совместимого паркета.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.soudal.co.uk/pro/products/adhesives",
+      "originalName": "SMX 30PLUS",
+      "variants": [
+        {
+          "id": "124036",
+          "sku": "124036",
+          "label": "Стандартная комплектация",
+          "price": 1090,
+          "stock": 23,
+          "image": "media/catalog/photos/chemistry-124036.webp",
+          "thumbnail": "media/catalog/thumbs/chemistry-124036.webp",
+          "specs": [
+            [
+              "Производитель",
+              "Soudal"
+            ],
+            [
+              "Модель / артикул",
+              "124036"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "chemistry-102600",
+      "name": "Акриловый герметик Soudal 102600",
+      "brand": "Soudal",
+      "model": "102600",
+      "category": "chemistry",
+      "description": "Для заполнения совместимых швов и трещин.",
+      "warning": "Перед использованием изучите инструкцию производителя. Применяйте подходящие средства защиты и совместимую оснастку.",
+      "source": "https://www.soudal.co.uk/pro/products/sealants",
+      "originalName": "Acryrub",
+      "variants": [
+        {
+          "id": "102600",
+          "sku": "102600",
+          "label": "Стандартная комплектация",
+          "price": 1290,
+          "stock": 26,
+          "image": "media/catalog/photos/chemistry-102600.webp",
+          "thumbnail": "media/catalog/thumbs/chemistry-102600.webp",
+          "specs": [
+            [
+              "Производитель",
+              "Soudal"
+            ],
+            [
+              "Модель / артикул",
+              "102600"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "storage-stst60626",
+      "name": "Ручная пила STANLEY STST60626",
+      "brand": "STANLEY",
+      "model": "STST60626",
+      "category": "storage",
+      "description": "Для ручного распила. Подберите полотно под материал.",
+      "warning": "",
+      "source": "https://www.stanleytools.com/en-us/product/stst60626/2-way-adjustable-saw-horse-2-pk",
+      "originalName": "2 Way Adjustable Saw Horse (2 Pk)",
+      "variants": [
+        {
+          "id": "stst60626",
+          "sku": "STST60626",
+          "label": "Стандартная комплектация",
+          "price": 3290,
+          "stock": 29,
+          "image": "media/catalog/photos/storage-stst60626.webp",
+          "thumbnail": "media/catalog/thumbs/storage-stst60626.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "STST60626"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Saw Horse"
+            ],
+            [
+              "Количество элементов",
+              "1"
+            ],
+            [
+              "Высота",
+              "30.0-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174705591"
+            ],
+            [
+              "Комплектация",
+              "Набор"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "storage-stst60500",
+      "name": "Ящик для инструментов STANLEY STST60500",
+      "brand": "STANLEY",
+      "model": "STST60500",
+      "category": "storage",
+      "description": "Для хранения и переноски инструмента.",
+      "warning": "",
+      "source": "https://www.stanleytools.com/en-us/product/stst60500/modular-rolling-toolbox",
+      "originalName": "Modular Rolling Toolbox",
+      "variants": [
+        {
+          "id": "stst60500",
+          "sku": "STST60500",
+          "label": "Стандартная комплектация",
+          "price": 3490,
+          "stock": 32,
+          "image": "media/catalog/photos/storage-stst60500.webp",
+          "thumbnail": "media/catalog/thumbs/storage-stst60500.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "STST60500"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Tool Box"
+            ],
+            [
+              "Количество элементов",
+              "1"
+            ],
+            [
+              "Высота",
+              "30.75-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174833195"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "storage-stst14021",
+      "name": "Органайзер для крепежа STANLEY STST14021",
+      "brand": "STANLEY",
+      "model": "STST14021",
+      "category": "storage",
+      "description": "Для хранения небольших деталей и крепежа.",
+      "warning": "",
+      "source": "https://www.stanleytools.com/en-us/product/stst14021/sortmaster-light",
+      "originalName": "SORTMASTER® Light",
+      "variants": [
+        {
+          "id": "stst14021",
+          "sku": "STST14021",
+          "label": "Стандартная комплектация",
+          "price": 2790,
+          "stock": 2,
+          "image": "media/catalog/photos/storage-stst14021.webp",
+          "thumbnail": "media/catalog/thumbs/storage-stst14021.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "STST14021"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Part Organizer"
+            ],
+            [
+              "Количество элементов",
+              "1"
+            ],
+            [
+              "Высота",
+              "2.57-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174707205, 76174736168"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "storage-stst11552",
+      "name": "Складной верстак STANLEY STST11552",
+      "brand": "STANLEY",
+      "model": "STST11552",
+      "category": "storage",
+      "description": "Для организации рабочего места.",
+      "warning": "",
+      "source": "https://www.stanleytools.com/en-us/product/stst11552/33-12-x-23-12-fold-workbench",
+      "originalName": "33-1/2-in x 23-1/2-in Fold-Up Workbench",
+      "variants": [
+        {
+          "id": "stst11552",
+          "sku": "STST11552",
+          "label": "Стандартная комплектация",
+          "price": 2990,
+          "stock": 13,
+          "image": "media/catalog/photos/storage-stst11552.webp",
+          "thumbnail": "media/catalog/thumbs/storage-stst11552.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "STST11552"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Workbench"
+            ],
+            [
+              "Количество элементов",
+              "1"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174834925"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "storage-stst16410",
+      "name": "Ящик для инструментов STANLEY STST16410",
+      "brand": "STANLEY",
+      "model": "STST16410",
+      "category": "storage",
+      "description": "Для хранения и переноски инструмента.",
+      "warning": "",
+      "source": "https://www.stanleytools.com/en-us/product/stst16410/16-toolbox",
+      "originalName": "16-in Toolbox",
+      "variants": [
+        {
+          "id": "stst16410",
+          "sku": "STST16410",
+          "label": "Стандартная комплектация",
+          "price": 3190,
+          "stock": 16,
+          "image": "media/catalog/photos/storage-stst16410.webp",
+          "thumbnail": "media/catalog/thumbs/storage-stst16410.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "STST16410"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Tool Box"
+            ],
+            [
+              "Количество элементов",
+              "1"
+            ],
+            [
+              "Высота",
+              "0.16-in"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174703283"
+            ],
+            [
+              "Комплектация",
+              "Один предмет"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "storage-stst19331",
+      "name": "Ящик для инструментов STANLEY STST19331",
+      "brand": "STANLEY",
+      "model": "STST19331",
+      "category": "storage",
+      "description": "Для хранения и переноски инструмента.",
+      "warning": "",
+      "source": "https://www.stanleytools.com/en-us/product/stst19331/19-essential-toolbox",
+      "originalName": "19-in Essential™ Toolbox",
+      "variants": [
+        {
+          "id": "stst19331",
+          "sku": "STST19331",
+          "label": "Стандартная комплектация",
+          "price": 3390,
+          "stock": 19,
+          "image": "media/catalog/photos/storage-stst19331.webp",
+          "thumbnail": "media/catalog/thumbs/storage-stst19331.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "STST19331"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Tool Box"
+            ],
+            [
+              "Количество элементов",
+              "1"
+            ],
+            [
+              "Штрихкод UPC",
+              "76174755206"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    },
+    {
+      "id": "storage-stst22625bk",
+      "name": "Инструментальный ящик с выдвижными секциями STANLEY STST22625BK",
+      "brand": "STANLEY",
+      "model": "STST22625BK",
+      "category": "storage",
+      "description": "Для хранения и организации инструмента.",
+      "warning": "",
+      "source": "https://www.stanleytools.com/en-us/product/stst22625bk/300-series-26-2-drawer-middle-tool-chest",
+      "originalName": "300 Series 26-in 2-Drawer Middle Tool Chest",
+      "variants": [
+        {
+          "id": "stst22625bk",
+          "sku": "STST22625BK",
+          "label": "Стандартная комплектация",
+          "price": 2490,
+          "stock": 22,
+          "image": "media/catalog/photos/storage-stst22625bk.webp",
+          "thumbnail": "media/catalog/thumbs/storage-stst22625bk.webp",
+          "specs": [
+            [
+              "Производитель",
+              "STANLEY"
+            ],
+            [
+              "Модель / артикул",
+              "STST22625BK"
+            ],
+            [
+              "Тип по каталогу производителя",
+              "Chest"
+            ],
+            [
+              "Количество элементов",
+              "4"
+            ],
+            [
+              "Штрихкод UPC",
+              "721615312080"
+            ]
+          ]
+        }
+      ],
+      "archived": false,
+      "featured": false,
+      "unit": "шт."
+    }
+  ]
+}
