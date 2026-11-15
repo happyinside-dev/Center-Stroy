@@ -6,3 +6,10 @@ assets/catalog/cache/
 __pycache__/
 public/media/
 .playwright-mcp/
+
+# Local agent instructions and context
+AGENTS.md
+PRODUCT.md
+DESIGN.md
+.agents/
+.codex/

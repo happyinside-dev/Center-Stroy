@@ -4,7 +4,7 @@ import { emptyFilters, filterProducts, matchingVariants } from './components/Fil
 import { quoteDelivery } from './delivery';
 
 const details = { customer: { name: 'Тестовый покупатель', phone: '+7 900 123-45-67', email: 'test@example.com' }, method: 'pickup' as const, city: 'Севастополь', address: 'ул. Шабалина, 8', distance: 0, shipping: 0, shippingSource: 'Самовывоз', newsletter: false };
-function basket(): Store { const s = initialStore(); const p = s.products[0]; return setQuantity(s, p.id, p.variants[0].id, 2); }
+function basket(): Store { const s = initialStore(); s.users.push({ id: 'buyer', ...details.customer, hash: '', salt: '', newsletter: false }); s.session = 'buyer'; const p = s.products[0]; return setQuantity(s, p.id, p.variants[0].id, 2); }
 
 describe('Корзина и остатки', () => {
   it('не разрешает дробное, отрицательное количество и превышение остатка', () => {
@@ -24,6 +24,18 @@ describe('Корзина и остатки', () => {
 });
 
 describe('Оформление и отмена заказа', () => {
+  it.each([null, 'missing-user'])('не оформляет заказ без действующего аккаунта (%s)', session => {
+    const s = basket(); s.session = session;
+    const before = structuredClone(s);
+    expect(() => placeOrder(s, details)).toThrow(/войдите или зарегистрируйтесь/);
+    expect(s).toEqual(before);
+  });
+  it('привязывает заказ к аккаунту даже при другом получателе', () => {
+    const s = basket();
+    const { order } = placeOrder(s, { ...details, customer: { ...details.customer, email: 'recipient@example.com' } });
+    expect(order.userId).toBe(s.session);
+    expect(order.customer.email).toBe('recipient@example.com');
+  });
   it('списывает остаток, очищает корзину и сохраняет неизменяемый снимок', () => {
     const s = basket(); const stock = s.products[0].variants[0].stock;
     const { store, order } = placeOrder(s, details);
@@ -48,7 +60,7 @@ describe('Оформление и отмена заказа', () => {
     expect(() => changeStatus(cancelled, order.id, 'new')).toThrow();
   });
   it('учитывает доставку и отказывает при неверном тарифе', () => {
-    const d = { ...details, method: 'delivery' as const, city: 'Ялта', address: 'Тестовый адрес, 1', distance: 86, shipping: 172 };
+    const d = { ...details, method: 'delivery' as const, city: 'Ялта', address: 'Тестовый адрес, 1', distance: 86, shipping: 172, deliveryPoint: { lat: 44.495, lng: 34.166 } };
     expect(placeOrder(basket(), d).order.total).toBe(placeOrder(basket(), details).order.total + 172);
     expect(() => placeOrder(basket(), { ...d, shipping: -1 })).toThrow();
   });

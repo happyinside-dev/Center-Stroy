@@ -1,4 +1,5 @@
 import catalog from './data/catalog.json';
+import { isDeliveryPoint, type DeliveryPoint } from './delivery-map';
 
 export type Variant = { id: string; sku: string; label: string; price: number; stock: number; image: string; thumbnail: string; specs: string[][] };
 export type Product = { id: string; name: string; brand: string; model: string; category: string; description: string; warning: string; source: string; originalName: string; gallery?: string[]; variants: Variant[]; archived: boolean; featured: boolean; unit: string };
@@ -6,7 +7,7 @@ export type CartLine = { productId: string; variantId: string; quantity: number 
 export type User = { id: string; name: string; phone: string; email: string; hash: string; salt: string; newsletter: boolean };
 export type Status = 'new' | 'assembling' | 'ready' | 'delivery' | 'complete' | 'cancelled';
 export type OrderLine = CartLine & { name: string; label: string; sku: string; image: string; price: number; unit: string };
-export type Order = { id: string; number: string; date: string; userId: string | null; customer: { name: string; phone: string; email: string }; method: 'pickup' | 'delivery'; address: string; city: string; distance: number; shipping: number; shippingSource: string; newsletter: boolean; lines: OrderLine[]; status: Status; total: number };
+export type Order = { id: string; number: string; date: string; userId: string | null; customer: { name: string; phone: string; email: string }; method: 'pickup' | 'delivery'; deliveryPoint?: DeliveryPoint; address: string; city: string; distance: number; shipping: number; shippingSource: string; newsletter: boolean; lines: OrderLine[]; status: Status; total: number };
 export type Store = { version: 1; products: Product[]; cart: CartLine[]; users: User[]; session: string | null; orders: Order[] };
 export const categories = catalog.categories;
 export const STORE_KEY = 'centr-stroy-demo-v1';
@@ -43,8 +44,11 @@ export function setQuantity(s: Store, productId: string, variantId: string, quan
 }
 
 export function placeOrder(s: Store, details: Omit<Order, 'id' | 'number' | 'date' | 'userId' | 'lines' | 'status' | 'total'>): { store: Store; order: Order } {
+  const user = s.users.find(u => u.id === s.session);
+  if (!user) throw new Error('Для оформления заказа войдите или зарегистрируйтесь.');
   if (!s.cart.length) throw new Error('Корзина пуста.');
   if (!details.customer.name.trim() || details.customer.phone.replace(/\D/g, '').length < 10 || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(details.customer.email)) throw new Error('Проверьте имя, телефон и email.');
+  if (details.method === 'delivery' && (!details.deliveryPoint || !isDeliveryPoint(details.deliveryPoint))) throw new Error('Выберите адрес на карте Крыма.');
   if (details.method === 'delivery' && (!details.city || !details.address.trim() || !Number.isFinite(details.distance) || details.distance < 0 || details.shipping !== Math.ceil(details.distance * 2))) throw new Error('Укажите адрес и пересчитайте доставку.');
   const seen = new Set<string>();
   const lines = s.cart.map(line => {
@@ -58,7 +62,7 @@ export function placeOrder(s: Store, details: Omit<Order, 'id' | 'number' | 'dat
     return { ...line, name: found.product.name, label: found.variant.label, sku: found.variant.sku, image: found.variant.image, price: found.variant.price, unit: found.product.unit };
   });
   const shipping = details.method === 'pickup' ? 0 : details.shipping;
-  const order: Order = { ...details, shipping, id: crypto.randomUUID(), number: `ЦС-${String(s.orders.length + 1).padStart(5, '0')}`, date: new Date().toISOString(), userId: s.session, lines, status: 'new', total: lines.reduce((total, l) => total + l.price * l.quantity, shipping) };
+  const order: Order = { ...details, shipping, id: crypto.randomUUID(), number: `ЦС-${String(s.orders.length + 1).padStart(5, '0')}`, date: new Date().toISOString(), userId: user.id, lines, status: 'new', total: lines.reduce((total, l) => total + l.price * l.quantity, shipping) };
   const products = s.products.map(p => ({ ...p, variants: p.variants.map(v => ({ ...v, stock: v.stock - (lines.find(l => l.productId === p.id && l.variantId === v.id)?.quantity || 0) })) }));
   return { store: { ...s, products, cart: [], orders: [order, ...s.orders] }, order };
 }

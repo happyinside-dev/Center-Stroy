@@ -1,3 +1,4 @@
+import { isDeliveryPoint, type DeliveryPoint } from './delivery-map';
 // Illustrative road distances, never represented as live routing results.
 export const cities = [
   { name: 'Севастополь', km: 12 }, { name: 'Симферополь', km: 84 }, { name: 'Ялта', km: 86 }, { name: 'Евпатория', km: 119 },
@@ -9,20 +10,24 @@ export const cities = [
   { name: 'Другой населённый пункт Крыма', km: 120 }
 ];
 export type Quote = { distance: number; price: number; source: 'Условный расчёт' | 'Маршрут OpenRouteService'; addressKey: string };
-export async function quoteDelivery(city: string, address: string, signal: AbortSignal): Promise<Quote> {
+export async function quoteDelivery(city: string, address: string, signal: AbortSignal, point?: DeliveryPoint): Promise<Quote> {
+  if (point && !isDeliveryPoint(point)) throw new Error('Доставка доступна только по Крыму.');
   const apiKey = import.meta.env.VITE_ORS_API_KEY as string | undefined;
   const addressKey = city + '|' + address.trim();
   const fallback = () => { const distance = cities.find(c => c.name === city)?.km || 120; return { distance, price: Math.ceil(distance * 2), source: 'Условный расчёт' as const, addressKey }; };
   if (!apiKey) return fallback();
   try {
     const base = (import.meta.env.VITE_ORS_BASE_URL || 'https://api.heigit.org').replace(/\/$/, '');
-    const geo = new URL(base + '/pelias/v1/search');
-    geo.searchParams.set('api_key', apiKey); geo.searchParams.set('text', `${city}, ${address}`);
-    geo.searchParams.set('boundary.rect.min_lon', '32.4'); geo.searchParams.set('boundary.rect.max_lon', '36.7');
-    geo.searchParams.set('boundary.rect.min_lat', '44.3'); geo.searchParams.set('boundary.rect.max_lat', '46.3'); geo.searchParams.set('size', '1');
-    const response = await fetch(geo, { signal }); if (!response.ok) throw new Error('geocoding');
-    const data = await response.json(); const target = data.features?.[0]?.geometry?.coordinates;
-    if (!target || target[0] < 32.4 || target[0] > 36.7 || target[1] < 44.3 || target[1] > 46.3) throw new Error('address');
+    let target: number[] | undefined = point ? [point.lng, point.lat] : undefined;
+    if (!target) {
+      const geo = new URL(base + '/pelias/v1/search');
+      geo.searchParams.set('api_key', apiKey); geo.searchParams.set('text', `${city}, ${address}`);
+      geo.searchParams.set('boundary.rect.min_lon', '32.4'); geo.searchParams.set('boundary.rect.max_lon', '36.7');
+      geo.searchParams.set('boundary.rect.min_lat', '44.3'); geo.searchParams.set('boundary.rect.max_lat', '46.3'); geo.searchParams.set('size', '1');
+      const response = await fetch(geo, { signal }); if (!response.ok) throw new Error('geocoding');
+      const data = await response.json(); target = data.features?.[0]?.geometry?.coordinates;
+    }
+    if (!target || !isDeliveryPoint({ lat: target[1], lng: target[0] })) throw new Error('address');
     const route = new URL(base + '/openrouteservice/v2/directions/driving-car');
     route.searchParams.set('api_key', apiKey); route.searchParams.set('start', '33.498483,44.569836'); route.searchParams.set('end', target.join(','));
     const result = await fetch(route, { signal }); if (!result.ok) throw new Error('routing');
