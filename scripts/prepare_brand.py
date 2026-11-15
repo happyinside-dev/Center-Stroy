@@ -98,3 +98,8 @@ if __name__=='__main__':
         symbols.append(f'<symbol id="{name}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">{body}</symbol>')
     (A/'icons'/'sprite.svg').write_text('<svg xmlns="http://www.w3.org/2000/svg">'+''.join(symbols)+'</svg>')
     print(f'Brand SVGs, Golos Text and {len(icons)} Lucide icons prepared.')
+
+# The approved solid silhouettes supersede the original tool study above.
+if __name__ == '__main__':
+    import runpy
+    runpy.run_path(str(ROOT / 'scripts' / 'draw-tool-pairs.py'), run_name='__main__')
